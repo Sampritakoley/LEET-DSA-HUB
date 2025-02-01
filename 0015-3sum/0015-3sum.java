@@ -1,36 +1,35 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-          ArrayList<List<Integer>> list=new ArrayList<>();
-        for(int i=0;i<nums.length-1;i++)
-        {
-            HashSet<Integer> set=new HashSet<>();
-            for(int j=i+1;j<nums.length;j++)
-            {
-               int k=-(nums[i]+nums[j]);
-               if(set.contains(k))
-               {
-                   ArrayList<Integer> temp=new ArrayList<>();
-                   temp.add(nums[i]);temp.add(nums[j]);temp.add(k);
-                   Collections.sort(temp);
-                   if(!containList(list, temp))
-                   {
-                       list.add(temp);
-                   }
-               }
-               set.add(nums[j]);
+        Set<List<Integer>> set=new HashSet<>();
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length-2;i++){
+            int left=i+1;
+            int right=nums.length-1;
+            int target=0-nums[i];
+            while(left<right){
+                int sum=nums[left]+nums[right];
+                if(sum<target && right>left){
+                    left++;
+                    while(nums[left]==nums[left-1] && left<right){
+                        left++;
+                    }
+                }else if(sum>target && right>left){
+                    right--;
+                    while(nums[right]==nums[right+1] && left<right){
+                        right--;
+                    }
+                }else{
+                    ArrayList<Integer> res=new ArrayList<>();
+                    res.add(nums[i]);
+                    res.add(nums[left]);
+                    res.add(nums[right]);
+                    set.add(res);
+                    left++;
+                    right--;
+                }
             }
         }
-        return list;
+        return new ArrayList<>(set);
     }
-    private static boolean containList(ArrayList<List<Integer>> list,ArrayList<Integer> temp)
-    {
-        for(List<Integer> temp_list : list)
-        {
-            if(temp_list.equals(temp))
-            {
-                return true;
-            }
-        }
-        return false;
-    }
+  
 }

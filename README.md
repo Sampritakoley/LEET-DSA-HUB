@@ -10,6 +10,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

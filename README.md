@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -59,4 +60,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0054-spiral-matrix) |
@@ -74,4 +75,8 @@
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0162-find-peak-element) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

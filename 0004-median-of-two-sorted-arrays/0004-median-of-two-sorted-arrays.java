@@ -30,7 +30,7 @@ class Solution {
                 x++;
             }
 
-            else if(nums1[n1]>nums2[n2]){
+            else{
                  val=nums2[n2];
                 n2++;
                 x++;

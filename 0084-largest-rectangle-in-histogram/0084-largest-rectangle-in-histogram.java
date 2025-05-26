@@ -19,6 +19,4 @@ class Solution {
         }
         return maxArea;
     }
-    
-
 }

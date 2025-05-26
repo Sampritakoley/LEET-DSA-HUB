@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,5 +83,10 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -92,4 +93,12 @@
 | ------- |
 | [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

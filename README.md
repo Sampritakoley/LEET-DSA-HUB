@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |

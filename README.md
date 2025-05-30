@@ -21,6 +21,7 @@
 | [0057-insert-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -72,6 +74,7 @@
 | [0054-spiral-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 ## Simulation

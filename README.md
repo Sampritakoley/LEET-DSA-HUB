@@ -41,6 +41,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Matrix
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0162-find-peak-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,4 +167,20 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->

@@ -1,44 +1,50 @@
 class Solution {
     public String minWindow(String s, String t) {
-       if (s.length() == 0 || t.length() == 0) return "";
-
-        // Step 1: Create a hashmap for characters in t
-        HashMap<Character, Integer> need = new HashMap<>();
-        for (char c : t.toCharArray()) {
-            need.put(c, need.getOrDefault(c, 0) + 1);
-        }
-
-        HashMap<Character, Integer> window = new HashMap<>();
-        int have = 0, needCount = need.size();
-        int left = 0, minLen = Integer.MAX_VALUE;
-        int resLeft = 0, resRight = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
-            window.put(c, window.getOrDefault(c, 0) + 1);
-
-            if (need.containsKey(c) && window.get(c).intValue() == need.get(c).intValue()) {
-                have++;
+       HashMap<Character,Integer> tmap=new HashMap<>();
+        for(int i=0;i<t.length();i++){
+            if(tmap.containsKey(t.charAt(i))){
+                tmap.put(t.charAt(i), tmap.get(t.charAt(i))+1);
+            }else{
+                tmap.put(t.charAt(i), 1);
             }
-
-            while (have == needCount) {
-                if ((right - left + 1) < minLen) {
-                    minLen = right - left + 1;
-                    resLeft = left;
-                    resRight = right;
-                }
-
-                char lChar = s.charAt(left);
-                window.put(lChar, window.get(lChar) - 1);
-
-                if (need.containsKey(lChar) && window.get(lChar).intValue() < need.get(lChar).intValue()) {
-                    have--;
-                }
-
+        }
+        int totalSum = tmap.values().stream().mapToInt(Integer::intValue).sum();
+        String res="";int min=Integer.MAX_VALUE;
+        HashMap<Character,Integer> smap=new HashMap<>();
+        int left=0;int right=left;int matchVal=0; int matchKey=0;
+        while(right<s.length()){
+           char ch=s.charAt(right);
+           if(tmap.containsKey(ch)){
+               if(smap.containsKey(ch)){
+                   matchVal=tmap.get(ch)>smap.get(ch)?matchVal+1:matchVal;
+                   smap.put(ch, smap.get(ch)+1);
+               }else{
+                smap.put(ch, 1);
+                matchKey++;
+                matchVal++;
+               }
+           }
+            while(matchVal>=totalSum && matchKey==tmap.size() && left<=right){
+                    char ch1=s.charAt(left);
+                    if(tmap.containsKey(ch1)){
+                        if(smap.containsKey(ch1) && smap.get(ch1)>1){
+                        smap.put(ch1, smap.get(ch1)-1);
+                        if(smap.get(ch1)<tmap.get(ch1)){
+                           matchVal--;
+                        }
+                        }else if(smap.containsKey(ch1) && smap.get(ch1)==1){
+                        smap.remove(ch1);
+                        matchVal--;
+                        matchKey--;
+                        }
+                    }
+                res=min>=s.substring(left, right+1).length()?s.substring(left, right+1):res;
+                min=res.length();
                 left++;
             }
-        }
+           right++;
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(resLeft, resRight + 1);
+        }
+        return res;
     }
 }

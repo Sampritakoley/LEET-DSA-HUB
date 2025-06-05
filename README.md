@@ -102,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |

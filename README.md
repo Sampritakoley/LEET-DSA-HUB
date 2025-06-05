@@ -161,6 +161,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |

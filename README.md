@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
@@ -161,6 +162,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0073-set-matrix-zeroes) |
@@ -174,6 +176,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |

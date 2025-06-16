@@ -65,6 +65,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
@@ -143,6 +144,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0046-permutations) |
@@ -194,6 +196,7 @@
 | [0010-regular-expression-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |

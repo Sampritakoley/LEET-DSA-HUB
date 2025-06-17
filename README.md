@@ -180,6 +180,7 @@
 | [0047-permutations-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -209,6 +211,7 @@
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |

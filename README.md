@@ -77,6 +77,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -127,6 +128,7 @@
 | [0013-roman-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
 ## Binary Search
 |  |
@@ -204,6 +206,7 @@
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
@@ -291,6 +294,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -299,4 +303,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

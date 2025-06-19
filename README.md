@@ -193,6 +193,7 @@
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
+| [0889-buddy-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -217,6 +218,7 @@
 | [0306-additive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0306-additive-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
+| [0889-buddy-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1250-longest-common-subsequence) |

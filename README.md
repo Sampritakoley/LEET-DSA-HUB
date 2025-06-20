@@ -223,6 +223,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Depth-First Search
 |  |
@@ -311,10 +313,12 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 ## Memoization
 |  |
 | ------- |

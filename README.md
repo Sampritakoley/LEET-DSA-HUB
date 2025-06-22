@@ -299,6 +299,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -341,12 +342,15 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0125-valid-palindrome) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -222,6 +223,7 @@
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |

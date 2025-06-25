@@ -46,6 +46,7 @@
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
@@ -202,6 +203,7 @@
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0889-buddy-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
@@ -232,6 +234,7 @@
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0306-additive-number) |
+| [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-buddy-strings) |
@@ -367,4 +370,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->

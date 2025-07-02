@@ -66,6 +66,7 @@
 | [0125-valid-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -267,6 +268,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |

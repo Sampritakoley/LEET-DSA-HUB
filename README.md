@@ -134,6 +134,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
@@ -145,6 +146,7 @@
 | [0009-palindrome-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
@@ -249,6 +251,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |

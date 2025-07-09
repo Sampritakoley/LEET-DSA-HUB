@@ -1,22 +1,43 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int left=0;
-        int right=nums.length-1;
-        int[] res=new int[2];
+        int first = findLowerBound(nums, target);
+        int last = findUpperBound(nums, target);
+        return new int[]{first, last};
+    }
 
-        while(left<=right){
-            if(nums[left]==target && nums[right]==target){
-                return new int[]{left,right};
-            }
-
-            if(nums[left]<target){
-                left++;
-            }
-            if(nums[right]>target){
-                right--;
-            }
-            
+    public static int findLowerBound(int[] nums, int target){
+        int low=0;
+        int high=nums.length-1;
+        int ans=-1;
+        while(low<=high){
+           int mid=low+(high-low)/2;
+           if(nums[mid]==target){
+                ans=mid;
+                high=mid-1;
+           }else if(nums[mid]<target){
+                low=mid+1;
+           }else{
+                 high=mid-1;
+           }
         }
-        return new int[]{-1,-1};
+        return ans;
+    }
+
+    public static int findUpperBound(int[] nums, int target){
+        int low=0;
+        int high=nums.length-1;
+        int ans=-1;
+        while(low<=high){
+           int mid=low+(high-low)/2;
+           if(nums[mid]==target){
+                ans=mid;
+                low=mid+1;
+           }else if(nums[mid]<target){
+                low=mid+1;
+           }else{
+               high=mid-1;
+           }
+        }
+        return ans;
     }
 }

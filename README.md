@@ -49,6 +49,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
@@ -170,6 +171,7 @@
 | [0162-find-peak-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Backtracking
 |  |

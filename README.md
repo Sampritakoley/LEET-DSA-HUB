@@ -152,6 +152,7 @@
 | [0043-multiply-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
@@ -165,6 +166,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0153-find-minimum-in-rotated-sorted-array) |

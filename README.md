@@ -51,6 +51,7 @@
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0978-valid-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0978-valid-mountain-array) |
@@ -175,6 +176,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |

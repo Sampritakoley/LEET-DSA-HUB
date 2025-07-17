@@ -26,6 +26,7 @@
 | [0063-unique-paths-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0078-subsets) |
@@ -148,6 +149,7 @@
 | [0043-multiply-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Math
@@ -278,6 +280,7 @@
 | [0043-multiply-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0125-valid-palindrome) |

@@ -90,6 +90,7 @@
 | [0055-jump-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -163,6 +164,7 @@
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
@@ -427,6 +429,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |

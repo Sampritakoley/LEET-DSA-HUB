@@ -67,6 +67,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
+| [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
+| [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |

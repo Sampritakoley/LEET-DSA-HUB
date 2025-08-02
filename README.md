@@ -366,6 +366,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
+| [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Binary Indexed Tree
 |  |
@@ -407,11 +408,13 @@
 | [0110-balanced-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
+| [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Graph
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -421,6 +424,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
+| [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |

@@ -419,6 +419,7 @@
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -427,6 +428,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -440,6 +442,7 @@
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
@@ -511,4 +514,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

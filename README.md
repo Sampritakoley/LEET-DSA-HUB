@@ -118,6 +118,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1250-longest-common-subsequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Greedy
@@ -440,6 +441,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -537,5 +539,6 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

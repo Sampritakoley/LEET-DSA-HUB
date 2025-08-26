@@ -1,5 +1,4 @@
 class Solution {
-  
     public int findCircleNum(int[][] isConnected) {
         DSU dsu=new DSU(isConnected.length);
         for(int i=0;i<isConnected.length;i++){

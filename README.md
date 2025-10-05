@@ -43,6 +43,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
@@ -162,6 +163,7 @@
 | [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
@@ -434,6 +437,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
@@ -468,6 +472,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |

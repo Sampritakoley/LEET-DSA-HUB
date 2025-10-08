@@ -17,7 +17,7 @@ class Solution {
                 }
             }
         }
-        int min=-1;
+        int min=0;
         while(q.size()>0){
             Pair p=q.poll();
             min=p.time;
@@ -33,7 +33,6 @@ class Solution {
             }
         }
         return freshOrange==0?min:-1;
-
     }
     public static class Pair{
         int row;

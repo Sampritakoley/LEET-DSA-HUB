@@ -65,6 +65,7 @@
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0978-valid-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0978-valid-mountain-array) |
+| [1036-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -172,6 +173,7 @@
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
@@ -489,6 +491,7 @@
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1442-number-of-operations-to-make-network-connected) |

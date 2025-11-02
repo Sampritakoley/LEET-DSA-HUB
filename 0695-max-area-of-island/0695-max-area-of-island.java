@@ -1,26 +1,27 @@
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
-        int maxCount=0;
+        boolean[][] visited=new boolean[grid.length][grid[0].length];
+        int maxArea=0;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[0].length;j++){
-                if(grid[i][j]==1){
-                    int count=dfs(grid,i,j);
-                    maxCount=maxCount<count?count:maxCount;
-                }
+                if(!visited[i][j] && grid[i][j]==1){
+                    int area=dfs(grid,visited,i,j);
+                    maxArea=maxArea<area?area:maxArea;
+                } 
             }
         }
-        return maxCount;
+        return maxArea;
     }
-    public static int dfs(int[][] grid,int i, int j){
-        if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || grid[i][j]!=1)     {
+    public int dfs(int[][] grid,boolean[][] visited,int i, int j){
+        if(i<0 || j< 0 || i>=grid.length || j>= grid[0].length|| visited[i][j] || grid[i][j]!=1){
             return 0;
         }
-        grid[i][j]=-1;
-        int count = 1;
-        count+=dfs(grid,i+1,j);
-        count+=dfs(grid,i,j+1);
-        count+=dfs(grid,i-1,j);
-        count+=dfs(grid,i,j-1);
-        return count;
+         visited[i][j]=true;
+         return 1+ 
+         dfs(grid,visited,i-1,j)+
+         dfs(grid,visited,i+1,j)+
+         dfs(grid,visited,i,j+1)+
+         dfs(grid,visited,i,j-1);
+
     }
 }

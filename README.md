@@ -110,6 +110,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0152-maximum-product-subarray) |
@@ -444,6 +445,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
@@ -545,6 +547,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0543-diameter-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
@@ -560,6 +563,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0543-diameter-of-binary-tree) |
 ## Trie
 |  |

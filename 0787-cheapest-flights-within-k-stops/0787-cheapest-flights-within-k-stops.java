@@ -9,7 +9,6 @@ class Solution {
             this.stopage=stopage;
         }
     }
-
     public int findCheapestPrice(int n, int[][] flights,
      int src, int dst, int k) {
         Queue<Pair> q=new LinkedList<>();

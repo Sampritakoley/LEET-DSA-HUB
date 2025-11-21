@@ -10,10 +10,15 @@ class Solution {
             res.add(new ArrayList<>(list));
             return;
         }
+        if(index>nums.length){
+            return;
+        }
         int val=nums[index];
         list.add(val);
-        findSubset(res, list, nums, index+1);
+        index=index+1;
+        findSubset(res, list, nums, index);
         list.remove(list.size()-1);
+        index--;
         findSubset(res, list, nums, index+1);
     }
 }

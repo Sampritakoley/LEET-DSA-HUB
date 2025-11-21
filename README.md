@@ -203,6 +203,7 @@
 | [0013-roman-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
@@ -539,6 +540,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash

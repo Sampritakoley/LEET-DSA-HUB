@@ -11,17 +11,9 @@ class Solution {
            return;
         }
         if(opencount<n){
-            opencount++;
-            str=str+'(';
-            generateParenthesis(opencount,closecount,n,str,listStr);
-            opencount--;
-            str = str.substring(0, str.length() - 1);
+            generateParenthesis(opencount+1,closecount,n,str+"(",listStr);     
         }if(closecount<opencount){
-            str=str+')';
-            closecount++;
-            generateParenthesis(opencount, closecount, n, str, listStr);
-            str = str.substring(0, str.length() - 1);
-            closecount--;
+            generateParenthesis(opencount, closecount+1, n, str+")", listStr);
         }
         return;
     }

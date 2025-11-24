@@ -13,7 +13,7 @@ class Solution {
         int res=0;
         while(left<=right){
             if(nums[left]+nums[right]<=target){
-                res+=(precompute[right-left])%mod;
+                res=(res+(precompute[right-left]))%mod;
                 left++;
             }else{
                 right--;

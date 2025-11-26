@@ -16,6 +16,7 @@ class Solution {
         }
 
         for(int i=index;i<candidates.length;i++){
+           // when i will be not the starting index then only we can compare it with the prev one
             if (i>index && candidates[i] == candidates[i - 1]) continue;
             int val=candidates[i];
             int restTarget=target-val;

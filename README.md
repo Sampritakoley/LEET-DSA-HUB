@@ -279,6 +279,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
@@ -350,6 +351,7 @@
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0093-restore-ip-addresses) |

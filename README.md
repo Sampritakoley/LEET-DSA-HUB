@@ -84,6 +84,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
+| [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
@@ -153,6 +154,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Prefix Sum
 |  |
@@ -245,6 +247,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
+| [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 ## Backtracking
 |  |
 | ------- |

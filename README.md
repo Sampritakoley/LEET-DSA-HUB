@@ -61,6 +61,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
@@ -136,6 +137,7 @@
 | [0403-frog-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -279,6 +281,7 @@
 | [0216-combination-sum-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation

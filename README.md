@@ -142,6 +142,7 @@
 | [0494-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -392,6 +393,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
+| [0583-delete-operation-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0583-delete-operation-for-two-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |

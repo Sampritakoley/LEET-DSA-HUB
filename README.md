@@ -121,6 +121,7 @@
 | [0063-unique-paths-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -375,6 +376,7 @@
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0093-restore-ip-addresses) |

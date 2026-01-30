@@ -6,7 +6,7 @@ class Solution {
             int val=prices[i];
             
              if(findMin){
-                if(val<min){
+                if(val<min){                                                      
                     min=val;
                     continue;
                 }else{
@@ -26,9 +26,7 @@ class Solution {
                    max=0;
                 }
              }
-
         }
-
         if(findMax){
             return p+(max-min);
         }

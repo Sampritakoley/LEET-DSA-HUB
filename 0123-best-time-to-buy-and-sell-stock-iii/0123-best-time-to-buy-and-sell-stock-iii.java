@@ -14,7 +14,6 @@ class Solution {
             maxPrice = Math.max(maxPrice, prices[i]);
             right[i] = Math.max(right[i + 1], maxPrice - prices[i]);
         }
-
         int maxProfit = 0;
         for (int i = 0; i < n; i++) {
             maxProfit = Math.max(maxProfit, left[i] + right[i]);

@@ -14,23 +14,19 @@
  * }
  */
 class Solution {
-   public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode current = root;
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> res= new ArrayList<>();
+        InorderTravel(root,res);
+        return res;
 
-        while (current != null || !stack.isEmpty()) {
-            while (current != null) {
-                stack.push(current);
-                current = current.left;
-            }
+    }
 
-            current = stack.pop();
-            result.add(current.val);
-
-            current = current.right;
+    public void InorderTravel(TreeNode node,List<Integer> res){
+        if(node==null){
+            return;
         }
-
-        return result;
+        InorderTravel(node.left,res);
+        res.add(node.val);
+        InorderTravel(node.right,res);
     }
 }

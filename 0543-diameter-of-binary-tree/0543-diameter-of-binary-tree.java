@@ -14,13 +14,11 @@
  * }
  */
 class Solution {
-     int diameter = 0;
-
+    int diameter = 0;
     public int diameterOfBinaryTree(TreeNode root) {
         dfs(root);
         return diameter;
     }
-
     public int dfs(TreeNode root) {
         if (root == null) return 0;
 

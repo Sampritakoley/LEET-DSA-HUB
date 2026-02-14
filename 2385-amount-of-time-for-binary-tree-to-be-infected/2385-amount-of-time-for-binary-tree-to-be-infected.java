@@ -25,7 +25,7 @@ class Solution {
         int time=-1;
         while(q.size()>0){
             int size=q.size();
-            time++;
+            
             for(int i=0;i<size;i++){
                 TreeNode c=q.poll();
                 if(c.left!=null && !set.contains(c.left)){
@@ -41,7 +41,7 @@ class Solution {
                     set.add(map.get(c));
                 }
             }
-            
+            time++;
         }
         return time;
 

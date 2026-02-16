@@ -19,7 +19,7 @@ class Solution {
     public int kthSmallest(TreeNode root, int k) {
         findkthSmallest(root,k);
         return res;
-    }public void findkthSmallest(TreeNode root, int k){
+    }private void findkthSmallest(TreeNode root, int k){
         if(root==null){
              return;
         }

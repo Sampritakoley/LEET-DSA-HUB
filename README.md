@@ -235,6 +235,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0012-integer-to-roman) |
@@ -647,6 +648,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0044-wildcard-matching) |
@@ -791,6 +793,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0083-remove-duplicates-from-sorted-list) |

@@ -6,7 +6,7 @@ class Solution {
             if(ch=='(' || ch=='['|| ch=='{'){
                st.push(ch);
             }else{
-                if(!st.isEmpty() && (ch==')' && st.peek()=='(') || (ch=='}' && st.peek()=='{')||(ch==']' && st.peek()=='[')){
+                if(!st.isEmpty() && ((ch==')' && st.peek()=='(') || (ch=='}' && st.peek()=='{')||(ch==']' && st.peek()=='['))){
                     st.pop();
                 }else{
                    return false;

@@ -1,34 +1,39 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        List<Integer> res=new ArrayList<>();
-        int[] nge=new int[nums.length];
+         int n = nums.length;
+        int[] nge = new int[n];   
+        Stack<Integer> stack = new Stack<>();
 
-        Stack<Integer> s=new Stack<>();
-        s.push(nums.length-1);
-        for(int i=nums.length-1;i>=0;i--){
-            while(s.size()>0 && nums[s.peek()]<=nums[i]){
-                s.pop();
+        for (int i = n - 1; i >= 0; i--) {
+            while (!stack.isEmpty() && nums[stack.peek()] <= nums[i]) {
+                stack.pop();
             }
-            if(s.size()==0){
-                nge[i]=nums.length;
-            }else{
-                nge[i]=s.peek();
+
+            if (stack.isEmpty()) {
+                nge[i] = n;
+            } else {
+                nge[i] = stack.peek();
             }
-            s.push(i);
+
+            stack.push(i);
         }
 
+        int[] result = new int[n - k + 1];
+        int j = 0;
 
-        for(int i=0;i<=nums.length-k;i++){
-            int j=i;
-            while(nge[j]<i+k){
-                j=nge[j];
+        for (int i = 0; i <= n - k; i++) {
+
+            if (j < i) {
+                j = i;
             }
-            res.add(nums[j]);
+
+            while (nge[j] < i + k) {
+                j = nge[j];
+            }
+
+            result[i] = nums[j];
         }
 
-
-
-        int[] arr = res.stream().mapToInt(Integer::intValue).toArray();
-        return arr;
+        return result;
     }
 }

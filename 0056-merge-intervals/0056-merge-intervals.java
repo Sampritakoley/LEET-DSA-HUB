@@ -1,37 +1,55 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-        int oldSt=intervals[0][0];
-        int oldEd=intervals[0][1];
-        ArrayList<int[]> res=new ArrayList<>();
-        res.add(new int[]{oldSt,oldEd});
-        
-        for(int i=1;i<intervals.length;i++){
-            int newSt=intervals[i][0];
-            int newEd=intervals[i][1];
-            if(newSt>= oldSt && newSt<=oldEd || newEd>= oldSt && newEd<=oldEd || newSt<=oldSt && newEd>=oldEd){
-                res.remove(res.size()-1);
-                int min=Math.min(oldSt,newSt);
-                int max=Math.max(oldEd,newEd);
-                oldSt=min; oldEd=max;
-                res.add(new int[]{min,max});
+        if (intervals.length <= 1) {
+            return intervals;
+        }
+        Pair[] arr = new Pair[intervals.length];
+        for (int i = 0; i < intervals.length; i++) {
+            arr[i] = new Pair(intervals[i][0], intervals[i][1]);
+        }
+        Arrays.sort(arr);
+        Stack<Pair> st=new Stack<>();
+        st.push(arr[0]);
+        for(int i=1;i<arr.length;i++){
+            Pair curr=arr[i];
+            Pair p=st.peek();
+            if(p.ed>=curr.st){
+                if(p.ed>=curr.ed){
+                    continue;
+                }else{
+                    st.pop();
+                    st.push(new Pair(p.st,curr.ed));
+                }
             }else{
-                 res.add(new int[]{newSt,newEd});
-                 oldSt=newSt; oldEd=newEd;
+                st.push(curr);
             }
         }
-        int[][] result=convertArrayListToIntArray(res);
-
-        return result;
-
-    }
-
-    public static int[][] convertArrayListToIntArray(ArrayList<int[]> list) {
-        int[][] result = new int[list.size()][];
-        for (int i = 0; i < list.size(); i++) {
-            result[i] = list.get(i);
+        Stack<Pair> rev=new Stack<>();
+        while(st.size()!=0){
+            rev.push(st.pop());
         }
-        return result;
+        int[][] res=new int[rev.size()][2];
+        int i=0;
+        while(rev.size()!=0){
+            res[i][0]=rev.peek().st;
+            res[i][1]=rev.peek().ed;
+            rev.pop();
+            i++;
+        }
+        return res;
+    }public static class Pair implements Comparable<Pair> {
+
+        int st;
+        int ed;
+
+        public Pair(int st, int ed) {
+            this.st = st;
+            this.ed = ed;
+        }
+
+        @Override
+        public int compareTo(Pair other) {
+            return this.st - other.st;   
+        }
     }
 }

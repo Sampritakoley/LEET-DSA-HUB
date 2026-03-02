@@ -34,6 +34,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0120-triangle) |
@@ -131,6 +132,7 @@
 | [0064-minimum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -211,6 +213,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
@@ -326,6 +329,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0143-reorder-list) |
@@ -344,6 +348,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting

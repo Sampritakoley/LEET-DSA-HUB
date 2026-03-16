@@ -15,29 +15,32 @@
  */
 class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        mapInorderIndex(inorder,map);
-        TreeNode root=ConstructTree(postorder,0,postorder.length-1,inorder,0,inorder.length-1,map);
-        return root;
-    }public void mapInorderIndex(int[] inorder,HashMap<Integer,Integer> map){
-         int i=0;
-         while(i<inorder.length){
-            map.put(inorder[i],i);
-            i++;
-         }
-    }public TreeNode ConstructTree(int[] postorder,int postSt,int postEd,int[] inorder,int inSt,int inEd,HashMap<Integer,Integer> map) {
-        if(postSt>postEd || inSt>inEd){
+        int n=inorder.length-1;
+        TreeNode node=Constract(postorder,0,n,inorder,0,n);
+        return node;
+    }public TreeNode Constract(int[] postOrder,int postSt,int postEd, int[] inorder, int inSt,int inEd){
+        if((postSt>postEd) || (inSt> inEd)){
             return null;
         }
-         
-        int rootVal = postorder[postEd];    
-        int rootIndex = map.get(rootVal);
+
+        int rootVal=postOrder[postEd];
         TreeNode root=new TreeNode(rootVal);
-        int noLeft=rootIndex-inSt;
-        TreeNode leftNode=ConstructTree(postorder,postSt,postSt+noLeft-1,inorder,inSt,rootIndex-1,map);
-        TreeNode rightNode=ConstructTree(postorder,postSt+noLeft,postEd-1,inorder,rootIndex+1,inEd,map);
-        root.left=leftNode;
-        root.right=rightNode;
+        int rootInd=indexOf(inorder,rootVal);
+        int noOfLeft=rootInd-inSt;
+
+        TreeNode leftSubtree=Constract(postOrder,postSt,postSt+noOfLeft-1,inorder,inSt,rootInd-1);
+        TreeNode rightSubtree=Constract(postOrder,postSt+noOfLeft,postEd-1,inorder,rootInd+1,inEd);
+        
+        root.left=leftSubtree;
+        root.right=rightSubtree;
         return root;
+    }
+    public static int indexOf(int[] arr,int n){
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==n){
+                return i;
+            }
+        }
+        return -1;
     }
 }

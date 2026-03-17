@@ -14,55 +14,46 @@
  * }
  */
 class Solution {
+    TreeNode st;
     public int amountOfTime(TreeNode root, int start) {
-        HashMap<TreeNode,TreeNode> map=new HashMap<>();
-        TreeNode startNode=BuildParent(root,map,start);
-        Queue<TreeNode> q=new LinkedList<>();
-        HashSet<TreeNode> set=new HashSet<>();
-
-        q.offer(startNode);
-        set.add(startNode);
-        int time=-1;
-        while(q.size()>0){
-            int size=q.size();
-            
-            for(int i=0;i<size;i++){
-                TreeNode c=q.poll();
-                if(c.left!=null && !set.contains(c.left)){
-                    q.offer(c.left);
-                    set.add(c.left);
-                }
-                if(c.right!=null && !set.contains(c.right)){
-                    q.offer(c.right);
-                    set.add(c.right);
-                }
-                if(map.get(c)!=null && !set.contains(map.get(c))){
-                    q.offer(map.get(c));
-                    set.add(map.get(c));
-                }
+       HashMap<TreeNode,TreeNode> parentMap=new HashMap<>();
+       buildParent(root,start,parentMap);
+       Queue<TreeNode> queue=new LinkedList<>();
+       HashSet<TreeNode> set=new HashSet<>();
+       queue.offer(st);int count=-1; set.add(st);
+       while(queue.size()>0){
+            int levelSize=queue.size();
+            count++;
+            for(int i=0;i<levelSize;i++){
+               TreeNode n=queue.poll();
+               if(n.left!=null && !set.contains(n.left)){
+                  queue.offer(n.left);
+                  set.add(n.left);
+               }
+               if(n.right!=null && !set.contains(n.right)){
+                  queue.offer(n.right);
+                  set.add(n.right);
+               }
+               if(parentMap.containsKey(n) && !set.contains(parentMap.get(n))){
+                  queue.offer(parentMap.get(n));
+                  set.add(parentMap.get(n));
+               }
             }
-            time++;
+       }
+       return count;
+    }
+    public void buildParent(TreeNode root, int start,HashMap<TreeNode,TreeNode> parentMap){
+        if(root.val==start){
+            st=root;
         }
-        return time;
-
-    }public static TreeNode BuildParent(TreeNode root,HashMap<TreeNode,TreeNode> map,int start){
-        Queue<TreeNode> q=new LinkedList<>();
-        q.offer(root);
-        TreeNode startNode=null;
-        while(q.size()>0){
-            TreeNode curr=q.poll();
-            if(curr.val==start){
-                startNode=curr;
-            }
-            if(curr.left!=null){
-              map.put(curr.left,curr);
-              q.offer(curr.left);
-            }
-            if(curr.right!=null){
-              map.put(curr.right,curr);
-              q.offer(curr.right);
-            }
+        if(root.left!=null){
+            parentMap.put(root.left,root);
+            buildParent(root.left,start,parentMap);
         }
-        return startNode;
+        if(root.right!=null){
+            parentMap.put(root.right,root);
+            buildParent(root.right,start,parentMap);
+        }
+        return;
     }
 }

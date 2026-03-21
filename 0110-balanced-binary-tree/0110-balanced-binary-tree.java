@@ -15,30 +15,29 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        int res=check(root);
+        int res=checkBBtree(root);
         if(res==-1){
             return false;
         }
         return true;
-    }public static int check(TreeNode root){
-        if(root==null){
+    }public int checkBBtree(TreeNode node){
+         if(node==null){
             return 0;
-        }
+         }
 
-        int left=check(root.left);
-        if(left==-1){
+         int left=checkBBtree(node.left);
+         if(left==-1){
             return -1;
-        }
-
-        int right=check(root.right);
-        if(right==-1){
+         }
+         int right=checkBBtree(node.right);
+         if(right==-1){
             return -1;
-        }
+         }
 
-        if(Math.abs(left - right) > 1){
+         if(Math.abs(left-right)>1){
             return -1;
-        }
+         }
 
-        return 1+Math.max(left,right);
+         return Math.max(left,right)+1;
     }
 }

@@ -1,15 +1,18 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
+        Set<String> set = new HashSet<>(wordDict);
         boolean[] dp=new boolean[s.length()+1];
+        int n=s.length()+1;
         dp[0]=true;
-        for(int i=0;i<s.length();i++){
-            int left=i;
-            while(left>=0){
-                String str=s.substring(left,i+1);
-                if(wordDict.contains(str) && dp[left]){
-                   dp[i+1]=true;
+        for(int i=1;i<n;i++){
+            for(int j=i-1;j>=0;j--){
+                String str=s.substring(j,i);
+                if(set.contains(str)){
+                    if(dp[j]){
+                        dp[i]=true;
+                        break;
+                    }
                 }
-                left--;
             }
         }
         return dp[s.length()];

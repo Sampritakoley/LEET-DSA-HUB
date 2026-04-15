@@ -1,26 +1,27 @@
 class Solution {
     public boolean canCross(int[] stones) {
-         if (stones.length > 1 && stones[1] != 1) {
-            return false;
+        int len=stones.length;
+        HashMap<Integer,HashSet<Integer>> map=new HashMap<>();
+        for(int i=0;i<stones.length;i++){
+            map.put(stones[i],new HashSet<>());
         }
-        Map<Integer,Set<Integer>> dp=new HashMap<>();
-        for(int stone:stones){
-            dp.put(stone,new HashSet<>());
-        }
-
-        dp.get(0).add(0);
-        for(int stone:stones){
-            for(int jump:dp.get(stone)){
-                for(int nextJump=jump-1;nextJump<=jump+1;nextJump++){
-                    if(nextJump>0){
-                        int nextStone=stone+nextJump;
-                        if(dp.containsKey(nextStone)){
-                            dp.get(nextStone).add(nextJump);
-                        }
+        map.get(0).add(1);
+        for(int i=0;i<stones.length;i++){
+            int src=stones[i];
+            for(int n:map.get(src)){
+                int desStone=src+n;
+                if(desStone==stones[len-1]){
+                    return true;
+                }
+                if(map.containsKey(desStone)){
+                    if (n-1 > 0) {
+                        map.get(desStone).add(n-1);
                     }
+                    map.get(desStone).add(n);
+                    map.get(desStone).add(n+1);
                 }
             }
         }
-        return !dp.get(stones[stones.length-1]).isEmpty();
+        return false;
     }
 }

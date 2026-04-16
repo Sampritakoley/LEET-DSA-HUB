@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/time-needed-to-inform-all-employees">1376. Time Needed to Inform All Employees</a></h2><h3>Medium</h3><hr><p>A company has <code>n</code> employees with a unique ID for each employee from <code>0</code> to <code>n - 1</code>. The head of the company is the one with <code>headID</code>.</p>
+<h2><a href="https://leetcode.com/problems/time-needed-to-inform-all-employees">1492. Time Needed to Inform All Employees</a></h2><h3>Medium</h3><hr><p>A company has <code>n</code> employees with a unique ID for each employee from <code>0</code> to <code>n - 1</code>. The head of the company is the one with <code>headID</code>.</p>
 
 <p>Each employee has one direct manager given in the <code>manager</code> array where <code>manager[i]</code> is the direct manager of the <code>i-th</code> employee, <code>manager[headID] = -1</code>. Also, it is guaranteed that the subordination relationships have a tree structure.</p>
 

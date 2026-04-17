@@ -80,6 +80,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
@@ -242,6 +243,7 @@
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
@@ -304,6 +306,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -531,6 +534,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -628,6 +632,7 @@
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
@@ -692,6 +697,7 @@
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
@@ -897,6 +903,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
 ## Graph Theory

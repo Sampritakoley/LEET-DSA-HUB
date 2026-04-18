@@ -1,45 +1,46 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int v=graph.length;
-        List<Integer> res=new ArrayList<>();
-        boolean[] visited=new boolean[v];
-        boolean[] path=new boolean[v];
-        boolean[] isSafe=new boolean[v];
-        Arrays.fill(isSafe,true);
-        for(int i=0;i<v;i++){
-            if(!visited[i]){
-                if(!dfs(i,path,visited,isSafe,graph)){
-                     isSafe[i]=false;
-                }
-            }
+         int n = graph.length;
+
+        List<List<Integer>> reverse = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            reverse.add(new ArrayList<>());
         }
-        for (int i = 0; i < v; i++) {
-            if (isSafe[i]) {
-                res.add(i);
+
+        int[] outdegree = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            outdegree[i] = graph[i].length;
+            for (int neighbor : graph[i]) {
+                reverse.get(neighbor).add(i);
             }
         }
 
-        return res;
-    }
-    public static boolean dfs(int src,boolean[] path,boolean[] visited,boolean[] isSafe,int[][] graph){
-        visited[src]=true;
-        path[src]=true;
-        for(int nb:graph[src]){
-            if (!visited[nb]){
-                if(!dfs(nb,path,visited,isSafe,graph)){
-                     path[nb]=false;
-                     isSafe[nb]=false;
-                     return false;
-                }
-            }else{
-                if(path[nb] || !isSafe[nb]){
-                   path[nb]=false;
-                   isSafe[nb]=false;
-                   return false;
+        Queue<Integer> q = new LinkedList<>();
+
+        for (int i = 0; i < n; i++) {
+            if (outdegree[i] == 0) {
+                q.offer(i);
+            }
+        }
+
+        boolean[] safe = new boolean[n];
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            safe[node] = true;
+
+            for (int prev : reverse.get(node)) {
+                outdegree[prev]--;
+                if (outdegree[prev] == 0) {
+                    q.offer(prev);
                 }
             }
         }
-        path[src]=false;
-        return isSafe[src];
+        List<Integer> result = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (safe[i]) result.add(i);
+        }
+
+        return result;
     }
 }

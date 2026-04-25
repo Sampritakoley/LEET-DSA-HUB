@@ -364,6 +364,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -790,6 +791,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0226-invert-binary-tree/) | Easy |
@@ -818,6 +820,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0450-delete-node-in-a-bst) |
@@ -847,6 +850,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0226-invert-binary-tree/) | Easy |
@@ -896,6 +900,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
 ## Linked List
@@ -928,4 +933,8 @@
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->

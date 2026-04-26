@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) return null;
 
@@ -25,13 +24,13 @@ class Solution {
             root.right = deleteNode(root.right, key);
         } 
         else {
-
             if (root.left == null) return root.right;
+
             if (root.right == null) return root.left;
 
-            TreeNode successor = findMin(root.right);
-            root.val = successor.val;
-            root.right = deleteNode(root.right, successor.val);
+            TreeNode minNode = findMin(root.right); 
+            root.val = minNode.val;               
+            root.right = deleteNode(root.right, minNode.val); 
         }
 
         return root;
@@ -43,4 +42,5 @@ class Solution {
         }
         return node;
     }
+    
 }

@@ -8,55 +8,36 @@
  * }
  */
 class Solution {
+     Map<Integer, List<Integer>> graph = new HashMap<>();
+    List<Integer> result = new ArrayList<>();
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
-        HashMap<TreeNode,TreeNode> map=new HashMap<>();
-        buildParent(map,root);
-        Queue<TreeNode> q=new LinkedList<>();
-        HashSet<TreeNode> set=new HashSet<>();
-        q.offer(target);set.add(target);
-        int count=-1;
-        ArrayList<Integer> list=new ArrayList<>();
-        
-        while(q.size()>0){
-            int size=q.size(); 
-            count++;
-           
-            for(int i=0;i<size;i++){
-                TreeNode curr=q.poll();
-                list.add(curr.val);
-                if(curr.left!=null && !set.contains(curr.left)){
-                    q.offer(curr.left);
-                    set.add(curr.left);
-                }
-
-                if(curr.right!=null && !set.contains(curr.right)){
-                    q.offer(curr.right);
-                    set.add(curr.right);
-                }
-
-                if(map.containsKey(curr) && !set.contains(map.get(curr))){
-                    q.offer(map.get(curr));
-                    set.add(map.get(curr));
-                }
-            }
-            if(k==count){
-                return list;
-            }
-            list.clear();
-        }
-        return list;
+        buildGraph(root, null);
+        Set<Integer> visited = new HashSet<>();
+        dfs(target.val, k, visited);
+        return result;
     }
-    public void buildParent(HashMap<TreeNode,TreeNode> map,TreeNode root){
-        if(root==null){
+    private void dfs(int node, int k, Set<Integer> visited) {
+        if (visited.contains(node))
+            return;
+        visited.add(node);
+        if (k == 0) {
+            result.add(node);
             return;
         }
-        if(root.left!=null){
-            map.put(root.left,root);
-            buildParent(map,root.left);
+        for (int neighbor : graph.getOrDefault(node, new ArrayList<>())) {
+            dfs(neighbor, k - 1, visited);
         }
-        if(root.right!=null){
-            map.put(root.right,root);
-            buildParent(map,root.right);
+    }
+    private void buildGraph(TreeNode node, TreeNode parent) {
+        if (node == null) return;
+        graph.putIfAbsent(node.val, new ArrayList<>());
+        if (parent != null) {
+            graph.putIfAbsent(parent.val, new ArrayList<>());
+
+            graph.get(node.val).add(parent.val);
+            graph.get(parent.val).add(node.val);
         }
+        buildGraph(node.left, node);
+        buildGraph(node.right, node);
     }
 }

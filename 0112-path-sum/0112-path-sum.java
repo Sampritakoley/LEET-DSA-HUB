@@ -15,24 +15,14 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        if(root==null){
+
+        if (root == null)
             return false;
-        }
-        return hasPath(root,targetSum);
-    }public boolean hasPath(TreeNode node,int target){
-        if(node.left==null && node.right==null && node.val==target){
-            return true;
-        }
-        if(node.left==null && node.right==null && node.val!=target){
-            return false;
-        }
-        boolean left=false;boolean right=false;
-        if(node.left!=null){
-            left=hasPath(node.left,target-node.val);
-        }
-        if(node.right!=null){
-            right=hasPath(node.right,target-node.val);
-        }
-        return left||right;
+
+        if (root.left == null && root.right == null)
+            return targetSum == root.val;
+
+        return hasPathSum(root.left, targetSum - root.val)
+                || hasPathSum(root.right, targetSum - root.val);
     }
 }

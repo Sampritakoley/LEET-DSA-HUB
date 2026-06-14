@@ -92,6 +92,7 @@
 | [1036-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
+| [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -252,6 +253,7 @@
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
+| [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
 | [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 ## Simulation
@@ -341,6 +343,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |

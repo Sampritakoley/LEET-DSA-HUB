@@ -14,15 +14,39 @@
  * }
  */
 class Solution {
-    private TreeNode next = null;
     public void flatten(TreeNode root) {
-        if(root==null){
-            return;
+        helper(root);
+    }
+    public TreeNode helper(TreeNode root) {
+        if(root == null)
+        return null;
+
+        if(root.left == null && root.right == null)
+        return root;
+
+        TreeNode left = helper(root.left);
+        TreeNode right = helper(root.right);
+
+        root.left = null;
+
+        if(left != null)
+        {
+           TreeNode tail = findLast(left);
+           root.right = left;
+           tail.right = right;
         }
-        flatten(root.right);
-        flatten(root.left);
-        root.right=next;
-        root.left=null;
-        next=root;
+        else
+        {
+           root.right = right;
+        }
+        return root;
+    }public TreeNode findLast(TreeNode root){
+        if(root==null){
+            return null;
+        }
+        while(root.right!=null){
+            root=root.right;
+        }
+        return root;
     }
 }

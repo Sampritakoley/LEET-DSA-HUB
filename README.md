@@ -83,6 +83,7 @@
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
@@ -228,6 +229,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-buddy-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-buddy-strings) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -840,6 +843,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -912,6 +916,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |

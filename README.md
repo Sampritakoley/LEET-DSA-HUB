@@ -340,6 +340,7 @@
 | [0090-subsets-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0216-combination-sum-iii) |
@@ -425,6 +426,7 @@
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0133-clone-graph/) | Medium |
@@ -478,6 +480,7 @@
 | [0091-decode-ways](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0132-palindrome-partitioning-ii) |
@@ -705,6 +708,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0199-binary-tree-right-side-view/) | Medium |

@@ -1,35 +1,38 @@
 class Solution {
-    public boolean isBipartite(int[][] graph) {
-         int n = graph.length;
-        int[] color = new int[n];
-        
-        Arrays.fill(color, -1); 
-        
-        for (int i = 0; i < n; i++) {
-            if (color[i] == -1) {
-                if (!bfs(graph, i, color)) {
-                    return false;
-                }
-            }
+    public class Pair{
+        public int src;
+        public int color;
+        public Pair(int src,int color){
+            this.src=src;
+            this.color=color;
         }
-        return true;
     }
-    private boolean bfs(int[][] graph, int start, int[] color) {
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(start);
-        color[start] = 0;
-        
-        while (!q.isEmpty()) {
-            int node = q.poll();
-            
-            for (int neighbor : graph[node]) {
-                if (color[neighbor] == -1) {
-                    color[neighbor] = 1 - color[node];
-                    q.offer(neighbor);
-                } else if (color[neighbor] == color[node]) {
-                    return false; 
+    public boolean isBipartite(int[][] graph) {
+        int n=graph.length;
+        Queue<Pair> q=new LinkedList<>();
+        int[] visited=new int[n];
+        Arrays.fill(visited,-1);
+        for(int i=0;i<n;i++){
+            if(visited[i]!=-1){
+                continue;
+            }
+            q.offer(new Pair(i,1)); 
+            while(q.size()>0){
+            Pair c=q.poll();
+            if(visited[c.src]!=-1){
+                if(visited[c.src]!=c.color){
+                    return false;
+                }else{
+                    continue;
                 }
             }
+            visited[c.src]=c.color;
+            for(int nb:graph[c.src]){
+                if(visited[nb]==-1){
+                    q.offer(new Pair(nb,1-c.color));
+                }
+            }
+         }
         }
         return true;
     }

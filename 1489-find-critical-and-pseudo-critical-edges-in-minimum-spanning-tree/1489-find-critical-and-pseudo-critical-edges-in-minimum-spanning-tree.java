@@ -111,15 +111,9 @@ class Solution {
 
         for (int i = 0; i < m; i++) {
 
-            if (kruskal(n, newEdges, i, -1)
-                    > mstWeight) {
-
+            if (kruskal(n, newEdges, i, -1)> mstWeight) {
                 critical.add(newEdges[i][3]);
-
-            } else if (
-                    kruskal(n, newEdges, -1, i)
-                            == mstWeight) {
-
+            } else if (kruskal(n, newEdges, -1, i)== mstWeight) {
                 pseudo.add(newEdges[i][3]);
             }
         }

@@ -677,6 +677,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -1005,6 +1006,7 @@
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1584-min-cost-to-connect-all-points) |
 ## Iterator
@@ -1020,4 +1022,8 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

@@ -12,7 +12,7 @@ class Solution {
         }
 
         Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{src, 0}); // city, cost
+        queue.offer(new int[]{src, 0});
 
         int[] minCost = new int[n];
         Arrays.fill(minCost, Integer.MAX_VALUE);

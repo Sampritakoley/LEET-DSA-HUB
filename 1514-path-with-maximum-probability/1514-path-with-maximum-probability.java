@@ -1,4 +1,5 @@
 class Solution {
+
     class Pair {
         int node;
         double prob;
@@ -8,12 +9,19 @@ class Solution {
             this.prob = prob;
         }
     }
-    public double maxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
+
+    public double maxProbability(int n, int[][] edges,
+                                 double[] succProb,
+                                 int start,
+                                 int end) {
+
         List<List<Pair>> graph = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
+
+        for (int i = 0; i < n; i++)
             graph.add(new ArrayList<>());
-        }
+
         for (int i = 0; i < edges.length; i++) {
+
             int u = edges[i][0];
             int v = edges[i][1];
             double p = succProb[i];
@@ -21,37 +29,38 @@ class Solution {
             graph.get(u).add(new Pair(v, p));
             graph.get(v).add(new Pair(u, p));
         }
-        double[] maxProb = new double[n];
-        Arrays.fill(maxProb, -1.0);
-        maxProb[start_node] = 1.0;
-        PriorityQueue<Pair> pq = new PriorityQueue<>(
-                (a, b) -> Double.compare(b.prob, a.prob)   // highest probability first
-        );
 
-        pq.offer(new Pair(start_node, 1.0));
-        while (!pq.isEmpty()){
+        double[] best = new double[n];
+
+        PriorityQueue<Pair> pq =
+                new PriorityQueue<>((a, b) ->
+                        Double.compare(b.prob, a.prob)); 
+
+        best[start] = 1.0;
+        pq.offer(new Pair(start, 1.0));
+
+        while (!pq.isEmpty()) {
+
             Pair curr = pq.poll();
 
-            int node = curr.node;
-            double prob = curr.prob;
+            if (curr.node == end)
+                return curr.prob;
 
-            if (node == end_node) {
-                return prob;
-            }
+            if (curr.prob < best[curr.node])
+                continue;
 
-            if (prob < maxProb[node]) continue;
+            for (Pair next : graph.get(curr.node)) {
 
-            for (Pair nei : graph.get(node)) {
-                double newProb = prob * nei.prob;
+                double newProb = curr.prob * next.prob;
 
-                if (newProb > maxProb[nei.node]) {
-                    maxProb[nei.node] = newProb;
-                    pq.offer(new Pair(nei.node, newProb));
+                if (newProb > best[next.node]) {
+
+                    best[next.node] = newProb;
+                    pq.offer(new Pair(next.node, newProb));
                 }
             }
         }
 
         return 0.0;
-
     }
 }

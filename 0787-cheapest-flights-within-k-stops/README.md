@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops">787. Cheapest Flights Within K Stops</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> cities connected by some number of flights. You are given an array <code>flights</code> where <code>flights[i] = [from<sub>i</sub>, to<sub>i</sub>, price<sub>i</sub>]</code> indicates that there is a flight from city <code>from<sub>i</sub></code> to city <code>to<sub>i</sub></code> with cost <code>price<sub>i</sub></code>.</p>
+<h2><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/">803. Cheapest Flights Within K Stops</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> cities connected by some number of flights. You are given an array <code>flights</code> where <code>flights[i] = [from<sub>i</sub>, to<sub>i</sub>, price<sub>i</sub>]</code> indicates that there is a flight from city <code>from<sub>i</sub></code> to city <code>to<sub>i</sub></code> with cost <code>price<sub>i</sub></code>.</p>
 
 <p>You are also given three integers <code>src</code>, <code>dst</code>, and <code>k</code>, return <em><strong>the cheapest price</strong> from </em><code>src</code><em> to </em><code>dst</code><em> with at most </em><code>k</code><em> stops. </em>If there is no such route, return<em> </em><code>-1</code>.</p>
 
@@ -38,7 +38,7 @@ The optimal path with no stops from city 0 to 2 is marked in red and has cost 50
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 100</code></li>
+	<li><code>2 &lt;= n &lt;= 100</code></li>
 	<li><code>0 &lt;= flights.length &lt;= (n * (n - 1) / 2)</code></li>
 	<li><code>flights[i].length == 3</code></li>
 	<li><code>0 &lt;= from<sub>i</sub>, to<sub>i</sub> &lt; n</code></li>

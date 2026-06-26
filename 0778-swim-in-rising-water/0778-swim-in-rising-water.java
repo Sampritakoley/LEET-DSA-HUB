@@ -1,49 +1,57 @@
 class Solution {
-    public class Pair {
-        int tsf; 
-        int row;
-        int col;
 
-        public Pair(int tsf, int row, int col) {
-            this.tsf = tsf;
+    class Cell {
+        int row, col, time;
+
+        Cell(int row, int col, int time) {
             this.row = row;
             this.col = col;
+            this.time = time;
         }
     }
 
     public int swimInWater(int[][] grid) {
+
         int n = grid.length;
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>(
-            (a, b) -> a.tsf - b.tsf
+        int[][] time = new int[n][n];
+        for (int[] row : time)
+            Arrays.fill(row, Integer.MAX_VALUE);
+
+        PriorityQueue<Cell> pq = new PriorityQueue<>(
+            (a, b) -> a.time - b.time
         );
 
-        boolean[][] visited = new boolean[n][n];
+        time[0][0] = grid[0][0];
+        pq.offer(new Cell(0, 0, grid[0][0]));
 
-        pq.offer(new Pair(grid[0][0], 0, 0));
-        visited[0][0] = true;
-
-        int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
+        int[] dr = {-1, 1, 0, 0};
+        int[] dc = {0, 0, -1, 1};
 
         while (!pq.isEmpty()) {
-            Pair curr = pq.poll();
 
-            if (curr.row == n - 1 && curr.col == n - 1) {
-                return curr.tsf;
-            }
+            Cell curr = pq.poll();
 
-            for (int[] d : dirs) {
-                int nr = curr.row + d[0];
-                int nc = curr.col + d[1];
+            if (curr.row == n - 1 && curr.col == n - 1)
+                return curr.time;
 
-                if (nr >= 0 && nc >= 0 && nr < n && nc < n && !visited[nr][nc]) {
-                    visited[nr][nc] = true;
+            if (curr.time > time[curr.row][curr.col])
+                continue;
 
-                    pq.offer(new Pair(
-                        Math.max(curr.tsf, grid[nr][nc]),
-                        nr,
-                        nc
-                    ));
+            for (int k = 0; k < 4; k++) {
+
+                int nr = curr.row + dr[k];
+                int nc = curr.col + dc[k];
+
+                if (nr < 0 || nr >= n || nc < 0 || nc >= n)
+                    continue;
+
+                int newTime = Math.max(curr.time, grid[nr][nc]);
+
+                if (newTime < time[nr][nc]) {
+
+                    time[nr][nc] = newTime;
+                    pq.offer(new Cell(nr, nc, newTime));
                 }
             }
         }

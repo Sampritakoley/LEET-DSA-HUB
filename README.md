@@ -196,6 +196,7 @@
 | [1250-longest-common-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1250-longest-common-subsequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -978,6 +979,7 @@
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1023,6 +1025,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1584-min-cost-to-connect-all-points) |

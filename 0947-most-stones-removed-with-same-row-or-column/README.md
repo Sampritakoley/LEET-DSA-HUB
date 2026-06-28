@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/">947. Most Stones Removed with Same Row or Column</a></h2><h3>Medium</h3><hr><p>On a 2D plane, we place <code>n</code> stones at some integer coordinate points. Each coordinate point may have at most one stone.</p>
+<h2><a href="https://leetcode.com/problems/most-stones-removed-with-same-row-or-column">984. Most Stones Removed with Same Row or Column</a></h2><h3>Medium</h3><hr><p>On a 2D plane, we place <code>n</code> stones at some integer coordinate points. Each coordinate point may have at most one stone.</p>
 
 <p>A stone can be removed if it shares either <strong>the same row or the same column</strong> as another stone that has not been removed.</p>
 

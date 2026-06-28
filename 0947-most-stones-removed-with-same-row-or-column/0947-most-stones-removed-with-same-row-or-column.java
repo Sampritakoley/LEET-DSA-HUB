@@ -1,57 +1,76 @@
 class Solution {
+
     public int removeStones(int[][] stones) {
-        int n = stones.length;
-        int maxRow = 0, maxCol = 0;
-        for (int[] s : stones) {
-            maxRow = Math.max(maxRow, s[0]);
-            maxCol = Math.max(maxCol, s[1]);
+
+        int maxRow = 0;
+        int maxCol = 0;
+
+        for (int[] stone : stones) {
+            maxRow = Math.max(maxRow, stone[0]);
+            maxCol = Math.max(maxCol, stone[1]);
         }
-        int offset = maxRow + 1;
-        DSU dsu = new DSU(maxRow + maxCol + 2);
-        for (int[] s : stones) {
-            int r = s[0];
-            int c = s[1] + offset;
-            dsu.union(r, c);
+
+        UnionFind uf = new UnionFind(maxRow + maxCol + 2);
+
+        HashSet<Integer> usedNodes = new HashSet<>();
+
+        for (int[] stone : stones) {
+
+            int rowNode = stone[0];
+            int colNode = stone[1] + maxRow + 1;
+
+            uf.union(rowNode, colNode);
+
+            usedNodes.add(rowNode);
+            usedNodes.add(colNode);
         }
-        HashSet<Integer> seen = new HashSet<>();
-        for (int[] s : stones) {
-            seen.add(dsu.findPar(s[0]));
-            seen.add(dsu.findPar(s[1] + offset));
+        int components = 0;
+        for (int node : usedNodes) {
+            if (uf.find(node) == node)
+                components++;
         }
-        int components = seen.size();
-        return n - components;
+        return stones.length - components;
     }
-    class DSU {
-        int[] parent, size;
+}
 
-        public DSU(int n) {
-            parent = new int[n];
-            size = new int[n];
-            for (int i = 0; i < n; i++) {
-                parent[i] = i;
-                size[i] = 1;
-            }
+class UnionFind {
+
+    int[] parent;
+    int[] size;
+
+    UnionFind(int n) {
+
+        parent = new int[n];
+        size = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
+    }
 
-        public int findPar(int u) {
-            if (parent[u] != u) {
-                parent[u] = findPar(parent[u]);
-            }
-            return parent[u];
-        }
+    int find(int node) {
 
-        public void union(int u, int v) {
-            int pu = findPar(u);
-            int pv = findPar(v);
-            if (pu == pv) return;
+        if (parent[node] == node)
+            return node;
 
-            if (size[pu] < size[pv]) {
-                parent[pu] = pv;
-                size[pv] += size[pu];
-            } else {
-                parent[pv] = pu;
-                size[pu] += size[pv];
-            }
+        return parent[node] = find(parent[node]);
+    }
+
+    void union(int u, int v) {
+
+        int pu = find(u);
+        int pv = find(v);
+
+        if (pu == pv)
+            return;
+
+        if (size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        } else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
         }
     }
 }

@@ -1,70 +1,110 @@
 class Solution {
+
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
-        HashMap<String,Integer> map=new HashMap<>();
-        DSU dsu=new DSU(accounts.size());
-        for(int i=0;i<accounts.size();i++){
-            List<String> list=accounts.get(i);
-            for(int j=1;j<list.size();j++){
-                if(!map.containsKey(list.get(j))){
-                    map.put(list.get(j),i);
-                }else{
-                    dsu.union(i, map.get(list.get(j)));
+
+        int n = accounts.size();
+
+        UnionFind uf = new UnionFind(n);
+
+        HashMap<String, Integer> mailToNode = new HashMap<>();
+
+        for (int i = 0; i < n; i++) {
+
+            List<String> account = accounts.get(i);
+
+            for (int j = 1; j < account.size(); j++) {
+
+                String mail = account.get(j);
+
+                if (!mailToNode.containsKey(mail)) {
+                    mailToNode.put(mail, i);
+                } else {
+                    uf.union(i, mailToNode.get(mail));
                 }
             }
         }
 
-        Map<Integer, TreeSet<String>> rootToEmails = new HashMap<>();
-        for (Map.Entry<String, Integer> entry : map.entrySet()) {
-            String email = entry.getKey();
-            int root = dsu.findPar(entry.getValue());
+        ArrayList<String>[] mergedMail = new ArrayList[n];
 
-            rootToEmails.computeIfAbsent(root, k -> new TreeSet<>()).add(email);
+        for (int i = 0; i < n; i++) {
+            mergedMail[i] = new ArrayList<>();
         }
 
-        List<List<String>> res = new ArrayList<>();
-        for (Map.Entry<Integer, TreeSet<String>> entry : rootToEmails.entrySet()) {
-            int root = entry.getKey();
-            String name = accounts.get(root).get(0);
+        for (Map.Entry<String, Integer> entry : mailToNode.entrySet()) {
 
-            List<String> merged = new ArrayList<>();
-            merged.add(name);
-            merged.addAll(entry.getValue());
+            String mail = entry.getKey();
+            int node = entry.getValue();
 
-            res.add(merged);
+            int parent = uf.find(node);
+
+            mergedMail[parent].add(mail);
         }
 
-        return res;
+        List<List<String>> ans = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+
+            if (mergedMail[i].size() == 0)
+                continue;
+
+            Collections.sort(mergedMail[i]);
+
+            List<String> temp = new ArrayList<>();
+
+            temp.add(accounts.get(i).get(0));
+
+            temp.addAll(mergedMail[i]);
+
+            ans.add(temp);
+        }
+
+        return ans;
     }
-    public static class DSU{
-        public static int[] parent;
-        public static int[] size;
-        public DSU(int n){
-            parent=new int[n];
-            size=new int[n];
-            for(int i=0;i<n;i++){
-                parent[i]=i;
-                size[i]=1;
-            }
-        } 
-        public static int findPar(int u){
-            if(parent[u]!=u){
-                parent[u]=findPar(parent[u]);
-            }
-            return parent[u];
-        }
-        public static void union(int u,int v){
-            int pu=findPar(u);
-            int pv=findPar(v);
+}
 
-            if(pu==pv){
-                return;
-            }else if(size[pu]<size[pv]){
-                 parent[pu]=pv;
-                 size[pv]+=size[pu];
-            }else{
-                parent[pv]=pu;
-                size[pu]+=size[pv];
-            }
+class UnionFind {
+
+    int[] parent;
+    int[] rank;
+
+    UnionFind(int n) {
+
+        parent = new int[n];
+        rank = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+    }
+
+    int find(int node) {
+
+        if (parent[node] == node)
+            return node;
+
+        return parent[node] = find(parent[node]);
+    }
+
+    void union(int u, int v) {
+
+        int pu = find(u);
+        int pv = find(v);
+
+        if (pu == pv)
+            return;
+
+        if (rank[pu] < rank[pv]) {
+
+            parent[pu] = pv;
+
+        } else if (rank[pv] < rank[pu]) {
+
+            parent[pv] = pu;
+
+        } else {
+
+            parent[pv] = pu;
+            rank[pu]++;
         }
     }
 }

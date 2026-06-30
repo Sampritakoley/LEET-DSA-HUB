@@ -706,6 +706,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1462-course-schedule-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
@@ -790,6 +791,7 @@
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1462-course-schedule-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
@@ -989,6 +991,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1462-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -1054,6 +1057,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1462-course-schedule-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1462-course-schedule-iv) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1584-min-cost-to-connect-all-points) |

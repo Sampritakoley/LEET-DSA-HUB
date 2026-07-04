@@ -82,6 +82,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
@@ -192,6 +193,7 @@
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -461,6 +463,7 @@
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |

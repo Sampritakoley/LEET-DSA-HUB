@@ -175,6 +175,7 @@
 | [0198-house-robber](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0322-coin-change) |
@@ -314,6 +315,7 @@
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
@@ -765,6 +767,7 @@
 | [0207-course-schedule](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0322-coin-change) |

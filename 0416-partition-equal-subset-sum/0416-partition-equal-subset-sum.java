@@ -1,7 +1,5 @@
 class Solution {
 
-    Boolean[][] dp;
-
     public boolean canPartition(int[] nums) {
 
         int sum = 0;
@@ -9,34 +7,26 @@ class Solution {
         for (int x : nums)
             sum += x;
 
-        if (sum % 2 == 1)
+        if ((sum & 1) == 1)
             return false;
 
         int target = sum / 2;
 
-        dp = new Boolean[nums.length][target + 1];
+        boolean[][] dp = new boolean[nums.length + 1][target + 1];
 
-        return solve(0, target, nums);
-    }
+        dp[0][0] = true;
 
-    boolean solve(int i, int target, int[] nums) {
+        for (int i = 1; i <= nums.length; i++) {
 
-        if (target == 0)
-            return true;
+            for (int j = 0; j <= target; j++) {
 
-        if (i == nums.length)
-            return false;
+                dp[i][j] = dp[i - 1][j];
 
-        if (dp[i][target] != null)
-            return dp[i][target];
+                if (j >= nums[i - 1])
+                    dp[i][j] |= dp[i - 1][j - nums[i - 1]];
+            }
+        }
 
-        boolean take = false;
-
-        if (nums[i] <= target)
-            take = solve(i + 1, target - nums[i], nums);
-
-        boolean skip = solve(i + 1, target, nums);
-
-        return dp[i][target] = take || skip;
+        return dp[nums.length][target];
     }
 }

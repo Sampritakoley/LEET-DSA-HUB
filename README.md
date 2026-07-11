@@ -36,6 +36,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -134,6 +135,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0160-intersection-of-two-linked-lists) |
@@ -441,6 +443,7 @@
 | [0047-permutations-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |

@@ -1,42 +1,62 @@
 class Solution {
-    int[][] dp;                
-    int rows, cols;
 
-    int[] dx = {1, -1, 0, 0};
-    int[] dy = {0, 0, 1, -1};
+    // 4 possible directions
+    private final int[][] DIRS = {
+        {1, 0},   // Down
+        {-1, 0},  // Up
+        {0, 1},   // Right
+        {0, -1}   // Left
+    };
+
+    private int[][] dp;
+    private int m, n;
 
     public int longestIncreasingPath(int[][] matrix) {
-        rows = matrix.length;
-        cols = matrix[0].length;
-        dp = new int[rows][cols];
 
-        int maxPath = 0;
+        m = matrix.length;
+        n = matrix[0].length;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                maxPath = Math.max(maxPath, dfs(matrix, i, j));
+        dp = new int[m][n];
+
+        int ans = 0;
+
+        // Start DFS from every cell
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                ans = Math.max(ans, dfs(matrix, i, j));
             }
         }
 
-        return maxPath;
+        return ans;
     }
 
-    private int dfs(int[][] matrix, int i, int j) {
-        if (dp[i][j] != 0) return dp[i][j];
+    private int dfs(int[][] matrix, int row, int col) {
 
-        int best = 1;
+        if (dp[row][col] != 0)
+            return dp[row][col];
 
-        for (int k = 0; k < 4; k++) {
-            int ni = i + dx[k];
-            int nj = j + dy[k];
+        int maxLength = 1; 
 
-            if (ni >= 0 && nj >= 0 && ni < rows && nj < cols &&
-                matrix[ni][nj] > matrix[i][j]) {
-                best = Math.max(best, 1 + dfs(matrix, ni, nj));
+        for (int[] dir : DIRS) {
+
+            int newRow = row + dir[0];
+            int newCol = col + dir[1];
+
+            if (newRow < 0 || newRow >= m || newCol < 0 || newCol >= n)
+                continue;
+
+            if (matrix[newRow][newCol] > matrix[row][col]) {
+                maxLength = Math.max(maxLength,
+                        1 + dfs(matrix, newRow, newCol));
             }
         }
 
-        dp[i][j] = best;
-        return best;
+        dp[row][col] = maxLength;
+
+        return maxLength;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

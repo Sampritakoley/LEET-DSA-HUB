@@ -1,23 +1,34 @@
 class Solution {
+
     public int maxProfit(int k, int[] prices) {
-        int[] minPrice=new int[k];
-        int[] maxProfit=new int[k];
-        for(int i=0;i<k;i++){
-            minPrice[i]=Integer.MAX_VALUE;
-            maxProfit[i]=0;
-        }
-        for(int i=0;i<prices.length;i++){
-            int j=0;
-            while(j<k){
-                int m=0;
-                if(j>0){
-                  m=maxProfit[j-1];
+
+        int n = prices.length;
+
+        if (n == 0)
+            return 0;
+
+        int[][] dp = new int[k + 1][n];
+
+        for (int t = 1; t <= k; t++) {
+
+            for (int d = 1; d < n; d++) {
+
+                int max = dp[t][d - 1];
+
+                for (int m = 0; m < d; m++) {
+
+                    max = Math.max(max,
+                            dp[t - 1][m] + prices[d] - prices[m]);
                 }
-                minPrice[j]=Math.min(minPrice[j],prices[i]-m);
-                maxProfit[j]=Math.max(maxProfit[j],prices[i]-minPrice[j]);
-                j++;
+
+                dp[t][d] = max;
             }
         }
-        return maxProfit[k-1];
+
+        return dp[k][n - 1];
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

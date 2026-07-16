@@ -1,31 +1,24 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-        ArrayList<Integer> result=new ArrayList<>();
-        int right=digits.length-1;
-        int carry=0;
-        while(right>=0){
-            int sum;
-            if(right==digits.length-1){
-                sum=digits[right]+1+carry;
+        int n=digits.length;
+        ArrayList<Integer> list=new ArrayList<>();
+        int carry=1;
+        for(int i=n-1;i>=0;i--){
+            int sum=digits[i]+carry;
+            if(sum>9){
+                 list.add(0,0);
             }else{
-                sum=digits[right]+carry;
+                 list.add(0,sum);
+                 carry=0;
             }
-            carry=0;
-            if(sum==10){
-                result.add(0,0);
-                carry=1;
-            }else{
-                result.add(0,sum);
-            }
-            right--;
         }
-         
-        if(carry==1){
-            result.add(0,1);
+        if(carry!=0){
+            list.add(0,1);
         }
-        int[] array = result.stream().mapToInt(Integer::intValue).toArray();
-        return array;
-
-
+        return list.stream().mapToInt(Integer::intValue).toArray();
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

@@ -503,6 +503,7 @@
 | [0133-clone-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0133-clone-graph/) | Medium |
 | [0139-word-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
@@ -1074,6 +1075,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
@@ -1089,6 +1091,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0143-reorder-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0206-reverse-linked-list) |
@@ -1148,4 +1151,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

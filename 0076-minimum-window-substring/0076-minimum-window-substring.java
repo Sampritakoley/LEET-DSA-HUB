@@ -1,50 +1,63 @@
 class Solution {
     public String minWindow(String s, String t) {
-       HashMap<Character,Integer> tmap=new HashMap<>();
-        for(int i=0;i<t.length();i++){
-            if(tmap.containsKey(t.charAt(i))){
-                tmap.put(t.charAt(i), tmap.get(t.charAt(i))+1);
-            }else{
-                tmap.put(t.charAt(i), 1);
+
+        if (s.length() < t.length()) {
+            return "";
+        }
+
+        int[] need = new int[128];
+        int[] window = new int[128];
+
+        for (char c : t.toCharArray()) {
+            need[c]++;
+        }
+
+        int required = 0;
+        for (int i = 0; i < 128; i++) {
+            if (need[i] > 0) {
+                required++;
             }
         }
-        int totalSum = tmap.values().stream().mapToInt(Integer::intValue).sum();
-        String res="";int min=Integer.MAX_VALUE;
-        HashMap<Character,Integer> smap=new HashMap<>();
-        int left=0;int right=left;int matchVal=0; int matchKey=0;
-        while(right<s.length()){
-           char ch=s.charAt(right);
-           if(tmap.containsKey(ch)){
-               if(smap.containsKey(ch)){
-                   matchVal=tmap.get(ch)>smap.get(ch)?matchVal+1:matchVal;
-                   smap.put(ch, smap.get(ch)+1);
-               }else{
-                smap.put(ch, 1);
-                matchKey++;
-                matchVal++;
-               }
-           }
-            while(matchVal>=totalSum && matchKey==tmap.size() && left<=right){
-                    char ch1=s.charAt(left);
-                    if(tmap.containsKey(ch1)){
-                        if(smap.containsKey(ch1) && smap.get(ch1)>1){
-                        smap.put(ch1, smap.get(ch1)-1);
-                        if(smap.get(ch1)<tmap.get(ch1)){
-                           matchVal--;
-                        }
-                        }else if(smap.containsKey(ch1) && smap.get(ch1)==1){
-                        smap.remove(ch1);
-                        matchVal--;
-                        matchKey--;
-                        }
-                    }
-                res=min>=s.substring(left, right+1).length()?s.substring(left, right+1):res;
-                min=res.length();
+
+        int formed = 0;
+        int left = 0;
+        int minLen = Integer.MAX_VALUE;
+        int start = 0;
+
+        for (int right = 0; right < s.length(); right++) {
+
+            char ch = s.charAt(right);
+            window[ch]++;
+
+            if (need[ch] > 0 && window[ch] == need[ch]) {
+                formed++;
+            }
+
+            while (formed == required) {
+
+                if (right - left + 1 < minLen) {
+                    minLen = right - left + 1;
+                    start = left;
+                }
+
+                char leftChar = s.charAt(left);
+                window[leftChar]--;
+
+                if (need[leftChar] > 0 &&
+                    window[leftChar] < need[leftChar]) {
+                    formed--;
+                }
+
                 left++;
             }
-           right++;
-
         }
-        return res;
+
+        return minLen == Integer.MAX_VALUE
+                ? ""
+                : s.substring(start, start + minLen);
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

@@ -16,15 +16,19 @@
 class Solution {
     int diameter=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        int res=findDiameter(root);
-        return diameter;    
-    }public int findDiameter(TreeNode node){
-        if(node==null){
+        findHeight(root);
+        return diameter;
+    }public int findHeight(TreeNode root){
+        if(root==null){
             return 0;
         }
-        int left=findDiameter(node.left);
-        int right=findDiameter(node.right);
+        int left=findHeight(root.left);
+        int right=findHeight(root.right);
         diameter=Math.max(diameter,left+right);
         return Math.max(left,right)+1;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

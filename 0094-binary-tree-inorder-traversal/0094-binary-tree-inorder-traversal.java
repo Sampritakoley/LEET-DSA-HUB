@@ -16,22 +16,19 @@
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list=new ArrayList<>();
-        if(root==null){
-            return list;
-        }
-        Stack<TreeNode> st=new Stack<>();
-        TreeNode c=root;
-        while(c!=null || !st.isEmpty()){
-             while(c!=null){
-                st.push(c);
-                c=c.left;
-             }
-                c=st.pop();
-                list.add(c.val);
-                c=c.right;
-             
-             
-        }
+        inorder(root,list);
         return list;
     }
+    public void inorder(TreeNode root,List<Integer> list){
+        if(root==null){
+            return;
+        }
+        inorder(root.left,list);
+        list.add(root.val);
+        inorder(root.right,list);
+    }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

@@ -20,22 +20,24 @@ class Solution {
         if(root==null){
             return list;
         }
-        TreeNode c=root;
-        TreeNode lastVisited=null;
-        while(!st.isEmpty() || c!=null){
-            if(c!=null){
+        TreeNode c=root;TreeNode lastPopped=null;
+        while(c!=null || !st.isEmpty()){
+            while(c!=null){
                 st.push(c);
                 c=c.left;
+            }
+            TreeNode peek=st.peek();
+            if(peek.right!=null && lastPopped!=peek.right){
+                c=peek.right;
             }else{
-                TreeNode peek=st.peek();
-                if(peek.right!=null && lastVisited!=peek.right){
-                    c=peek.right;
-                }else{
-                    list.add(peek.val);
-                    lastVisited=st.pop();
-                }
+                list.add(peek.val);
+                lastPopped=st.pop();
             }
         }
         return list;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

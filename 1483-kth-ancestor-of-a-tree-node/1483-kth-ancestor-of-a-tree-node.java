@@ -1,25 +1,25 @@
 class TreeAncestor {
 
-    private int[][] up;
+    private int[][] mat;
     private int MAX = 17; 
 
     public TreeAncestor(int n, int[] parent) {
 
-        up = new int[n][MAX];
+        mat = new int[MAX][n];
 
         for (int i = 0; i < n; i++) {
-            up[i][0] = parent[i];
+            mat[0][i] = parent[i];
         }
 
-        for (int j = 1; j < MAX; j++) {
-            for (int i = 0; i < n; i++) {
+        for (int i = 1; i < MAX; i++) {
+            for (int j = 0; j < n; j++) {
 
-                int ancestor = up[i][j - 1];
+                int ancestor = mat[i-1][j];
 
                 if (ancestor == -1) {
-                    up[i][j] = -1;
+                    mat[i][j] = -1;
                 } else {
-                    up[i][j] = up[ancestor][j - 1];
+                    mat[i][j] = mat[i-1][ancestor];
                 }
             }
         }
@@ -27,11 +27,12 @@ class TreeAncestor {
 
     public int getKthAncestor(int node, int k) {
 
-        for (int j = 0; j < MAX; j++) {
+        for (int i = 0; i < MAX; i++) {
+            int mask=(1<<i);
 
-            if ((k & (1 << j)) != 0) {
+            if ((k & (mask)) >0) {
 
-                node = up[node][j];
+                node = mat[i][node];
 
                 if (node == -1) {
                     return -1;

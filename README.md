@@ -86,6 +86,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -285,6 +286,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Matrix
 |  |
@@ -447,6 +449,7 @@
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -462,6 +465,7 @@
 | [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sorting
@@ -971,6 +975,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1052,6 +1057,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
+| [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |

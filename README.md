@@ -227,6 +227,7 @@
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0834-sum-of-distances-in-tree) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
@@ -757,6 +758,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0820-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0834-sum-of-distances-in-tree) |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
@@ -972,6 +974,7 @@
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -1145,6 +1148,7 @@
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0834-sum-of-distances-in-tree) |
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |

@@ -1,59 +1,64 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    TreeNode st;
+
+    Map<Integer, List<Integer>> graph = new HashMap<>();
+
     public int amountOfTime(TreeNode root, int start) {
-       HashMap<TreeNode,TreeNode> parentMap=new HashMap<>();
-       buildParent(root,start,parentMap);
-       Queue<TreeNode> queue=new LinkedList<>();
-       HashSet<TreeNode> set=new HashSet<>();
-       queue.offer(st);int count=-1; set.add(st);
-       while(queue.size()>0){
-            int levelSize=queue.size();
-            count++;
-            for(int i=0;i<levelSize;i++){
-               TreeNode n=queue.poll();
-               if(n.left!=null && !set.contains(n.left)){
-                  queue.offer(n.left);
-                  set.add(n.left);
-               }
-               if(n.right!=null && !set.contains(n.right)){
-                  queue.offer(n.right);
-                  set.add(n.right);
-               }
-               if(parentMap.containsKey(n) && !set.contains(parentMap.get(n))){
-                  queue.offer(parentMap.get(n));
-                  set.add(parentMap.get(n));
-               }
+
+        buildGraph(root, null);
+
+        Queue<Integer> queue = new LinkedList<>();
+        Set<Integer> visited = new HashSet<>();
+
+        queue.offer(start);
+        visited.add(start);
+
+        int minutes = -1;
+
+        while (!queue.isEmpty()) {
+
+            int size = queue.size();
+            minutes++;
+
+            while (size-- > 0) {
+
+                int node = queue.poll();
+
+                for (int next : graph.getOrDefault(node, new ArrayList<>())) {
+
+                    if (!visited.contains(next)) {
+
+                        visited.add(next);
+                        queue.offer(next);
+                    }
+                }
             }
-       }
-       return count;
+        }
+
+        return minutes;
     }
-    public void buildParent(TreeNode root, int start,HashMap<TreeNode,TreeNode> parentMap){
-        if(root.val==start){
-            st=root;
+
+    private void buildGraph(TreeNode node, TreeNode parent) {
+
+        if (node == null)
+            return;
+
+        graph.putIfAbsent(node.val, new ArrayList<>());
+
+        if (parent != null) {
+
+            graph.get(node.val).add(parent.val);
+
+            graph.putIfAbsent(parent.val, new ArrayList<>());
+
+            graph.get(parent.val).add(node.val);
         }
-        if(root.left!=null){
-            parentMap.put(root.left,root);
-            buildParent(root.left,start,parentMap);
-        }
-        if(root.right!=null){
-            parentMap.put(root.right,root);
-            buildParent(root.right,start,parentMap);
-        }
-        return;
+
+        buildGraph(node.left, node);
+
+        buildGraph(node.right, node);
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

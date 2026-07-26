@@ -1,37 +1,63 @@
 class Solution {
-    public static class Pair{
-        String w;
-        int seq;
-        public Pair(String w, int seq){
-            this.w=w;
-            this.seq=seq;
-        }
-    }
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        Queue<Pair> q=new LinkedList<>();
-        q.add(new Pair(beginWord,1));
-        Set<String> set=new HashSet<>();
-        for(int i=0;i<wordList.size();i++){
-            set.add(wordList.get(i));
+
+        if (!wordList.contains(endWord))
+            return 0;
+
+        int L = beginWord.length();
+
+        Map<String, List<String>> map = new HashMap<>();
+
+        for (String word : wordList) {
+            for (int i = 0; i < L; i++) {
+                String pattern = word.substring(0, i) + "*" + word.substring(i + 1);
+                map.computeIfAbsent(pattern, k -> new ArrayList<>()).add(word);
+            }
         }
-        while(q.size()>0){
-            Pair p=q.poll();
-            String word=p.w;
-            for(int i=0;i<word.length();i++){
-                char ch=word.charAt(i);
-                for(int j=0;j<26;j++){
-                    char newChar = (char)('a' + j);
-                    String newStr = word.substring(0, i) + newChar + word.substring(i+1);
-                    if(newStr.equals(endWord) && set.contains(newStr)){
-                        return p.seq+1;
-                    }
-                    if(set.contains(newStr)){
-                        q.add(new Pair(newStr,p.seq+1));
-                        set.remove(newStr);
+
+        Queue<String> q = new LinkedList<>();
+        Set<String> visited = new HashSet<>();
+
+        q.offer(beginWord);
+        visited.add(beginWord);
+
+        int level = 1;
+
+        while (!q.isEmpty()) {
+
+            int size = q.size();
+
+            for (int i = 0; i < size; i++) {
+
+                String curr = q.poll();
+
+                if (curr.equals(endWord))
+                    return level;
+
+                for (int j = 0; j < L; j++) {
+
+                    String pattern =
+                        curr.substring(0, j) + "*" + curr.substring(j + 1);
+
+                    List<String> neighbors =
+                        map.getOrDefault(pattern, new ArrayList<>());
+
+                    for (String next : neighbors) {
+                        if (!visited.contains(next)) {
+                            visited.add(next);
+                            q.offer(next);
+                        }
                     }
                 }
             }
+
+            level++;
         }
+
         return 0;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

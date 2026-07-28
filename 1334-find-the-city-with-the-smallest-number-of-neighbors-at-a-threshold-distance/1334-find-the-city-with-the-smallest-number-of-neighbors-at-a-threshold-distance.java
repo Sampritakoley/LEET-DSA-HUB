@@ -61,7 +61,6 @@ class Solution {
             }
 
             int count = 0;
-
             for (int city = 0; city < n; city++) {
 
                 if (city != src && dist[city] <= distanceThreshold)
@@ -77,3 +76,7 @@ class Solution {
         return answer;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

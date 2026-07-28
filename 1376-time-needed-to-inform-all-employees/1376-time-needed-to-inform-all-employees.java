@@ -1,27 +1,32 @@
 class Solution {
-    public class pair{
-        int node;
-        int tsf;
-        public pair(int node,int tsf){
-            this.node=node;
-            this.tsf=tsf;
-        }
-    }
+
     public int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
-        HashMap<Integer,List<Integer>> map=new HashMap<>();
-        for(int i=0;i<n;i++){
-            map.putIfAbsent(manager[i], new ArrayList<>());
-            map.get(manager[i]).add(i);
+
+        List<Integer>[] graph = new ArrayList[n];
+
+        for (int i = 0; i < n; i++)
+            graph[i] = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (manager[i] != -1)
+                graph[manager[i]].add(i);
         }
-        Queue<pair> q=new LinkedList<>();
-        q.offer(new pair(headID,0));int maxTime=0;
-        while(q.size()>0){
-            pair curr=q.poll();
-            maxTime=Math.max(maxTime,curr.tsf);
-            for(int ch:map.getOrDefault(curr.node, new ArrayList<>())){
-                 q.offer(new pair(ch,curr.tsf+informTime[curr.node]));
-            }
+
+        return dfs(headID, graph, informTime);
+    }
+
+    private int dfs(int employee, List<Integer>[] graph, int[] informTime) {
+
+        int maxChildTime = 0;
+
+        for (int child : graph[employee]) {
+            maxChildTime = Math.max(maxChildTime,
+                    dfs(child, graph, informTime));
         }
-        return maxTime;
+
+        return informTime[employee] + maxChildTime;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

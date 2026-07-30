@@ -11,34 +11,30 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-       int lenA = getLength(headA);
-    int lenB = getLength(headB);
 
-    ListNode a = headA;
-    ListNode b = headB;
+        ListNode pA = headA;
+        ListNode pB = headB;
 
-    if (lenA > lenB) {
-        for (int i = 0; i < lenA - lenB; i++)
-            a = a.next;
-    } else {
-        for (int i = 0; i < lenB - lenA; i++)
-            b = b.next;
-    }
+        while (pA != pB) {
 
-    while (a != b) {
-        a = a.next;
-        b = b.next;
-    }
+            if (pA == null) {
+                pA = headB;
+            } else {
+                pA = pA.next;
+            }
 
-    return a;
-}
 
-private int getLength(ListNode node) {
-    int count = 0;
-    while (node != null) {
-        count++;
-        node = node.next;
-    }
-    return count;
+            if (pB == null) {
+                pB = headA;
+            } else {
+                pB = pB.next;
+            }
+        }
+
+        return pA;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

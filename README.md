@@ -279,6 +279,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -645,6 +646,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
@@ -687,6 +689,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Ordered Set
 |  |
@@ -1132,6 +1135,7 @@
 | [0002-add-two-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |

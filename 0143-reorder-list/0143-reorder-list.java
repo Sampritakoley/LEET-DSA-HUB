@@ -1,34 +1,64 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+
 class Solution {
 
-    ListNode fleft;
-    int size = 0;
-
     public void reorderList(ListNode head) {
-        if (head == null || head.next == null) return;
 
-        ListNode temp = head;
-        while (temp != null) {
-            size++;
-            temp = temp.next;
+        if (head == null || head.next == null)
+            return;
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast.next != null && fast.next.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        fleft = head;
-        foldHelper(head, 0);
+        ListNode second = reverse(slow.next);
+        slow.next = null; 
+
+        ListNode first = head;
+
+        while (second != null) {
+
+            ListNode temp1 = first.next;
+            ListNode temp2 = second.next;
+
+            first.next = second;
+            second.next = temp1;
+
+            first = temp1;
+            second = temp2;
+        }
     }
 
-    private void foldHelper(ListNode right, int floor) {
-        if (right == null) return;
+    private ListNode reverse(ListNode head) {
 
-        foldHelper(right.next, floor + 1);
+        ListNode prev = null;
+        ListNode curr = head;
 
-        if (floor > size / 2) {
-            ListNode temp = fleft.next;
-            fleft.next = right;
-            right.next = temp;
-            fleft = temp;
-        } 
-        else if (floor == size / 2) {
-            right.next = null;  
+        while (curr != null) {
+
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
+
+        return prev;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

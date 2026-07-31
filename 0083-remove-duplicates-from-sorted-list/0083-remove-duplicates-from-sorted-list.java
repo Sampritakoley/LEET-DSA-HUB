@@ -9,19 +9,24 @@
  * }
  */
 class Solution {
+
     public ListNode deleteDuplicates(ListNode head) {
-        if (head == null) return null;
 
-        ListNode current = head;
+        ListNode curr = head;
 
-        while (current != null && current.next != null) {
-            if (current.val == current.next.val) {
-                current.next = current.next.next;  
+        while (curr != null && curr.next != null) {
+
+            if (curr.val == curr.next.val) {
+                curr.next = curr.next.next;
             } else {
-                current = current.next;  
+                curr = curr.next;
             }
         }
 
         return head;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

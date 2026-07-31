@@ -10,6 +10,9 @@
  */
 class Solution {
 
+    ListNode th = null;
+    ListNode tt = null;
+
     public ListNode reverseKGroup(ListNode head, int k) {
 
         if (head == null || k == 1)
@@ -19,44 +22,50 @@ class Solution {
 
         ListNode curr = head;
 
-        ListNode overallHead = null;
-        ListNode overallTail = null;
+        ListNode oh = null;  
+        ListNode ot = null; 
 
         while (len >= k) {
 
-            ListNode th = null; 
-            ListNode tt = null; 
+            th = null;
+            tt = null;
 
             for (int i = 0; i < k; i++) {
 
                 ListNode next = curr.next;
+
                 curr.next = null;
 
-                if (th == null) {
-                    th = curr;
-                    tt = curr;
-                } else {
-                    curr.next = th;
-                    th = curr;
-                }
+                addFirst(curr);
 
                 curr = next;
             }
 
-            if (overallHead == null) {
-                overallHead = th;
-                overallTail = tt;
-            } else {
-                overallTail.next = th;
-                overallTail = tt;
+            if (oh == null) {
+                oh = th;
+                ot = tt;
+            }
+            else {
+                ot.next = th;
+                ot = tt;
             }
 
             len -= k;
         }
+        ot.next = curr;
 
-        overallTail.next = curr;
+        return oh;
+    }
 
-        return overallHead;
+    private void addFirst(ListNode node) {
+
+        if (th == null) {
+            th = node;
+            tt = node;
+        } else {
+            node.next = th;
+            th = node;
+        }
     }
 
     private int length(ListNode head) {

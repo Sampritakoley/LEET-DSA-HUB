@@ -9,25 +9,36 @@
  * }
  */
 class Solution {
+
     public ListNode partition(ListNode head, int x) {
-        ListNode beforeHead = new ListNode(0); 
-        ListNode afterHead = new ListNode(0); 
-        ListNode before = beforeHead, after = afterHead;
+
+        ListNode smallDummy = new ListNode(0);
+        ListNode largeDummy = new ListNode(0);
+
+        ListNode small = smallDummy;
+        ListNode large = largeDummy;
 
         while (head != null) {
+
             if (head.val < x) {
-                before.next = head;
-                before = before.next;
+                small.next = head;
+                small = small.next;
             } else {
-                after.next = head;
-                after = after.next;
+                large.next = head;
+                large = large.next;
             }
+
             head = head.next;
         }
 
-        after.next = null;         
-        before.next = afterHead.next;
+        large.next = null;
 
-        return beforeHead.next;
+        small.next = largeDummy.next;
+
+        return smallDummy.next;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

@@ -367,6 +367,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1922-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1180,6 +1181,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Union-Find
 |  |
 | ------- |

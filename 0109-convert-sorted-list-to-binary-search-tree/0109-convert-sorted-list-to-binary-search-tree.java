@@ -24,23 +24,38 @@
  * }
  */
 class Solution {
+
     public TreeNode sortedListToBST(ListNode head) {
-        if(head==null){return null;}
-        return build(head,null);
-    }
-    public TreeNode build(ListNode head,ListNode tail){
-        if(head==tail){
+
+        if (head == null) {
             return null;
         }
-        ListNode fast=head;
-        ListNode slow=head;
-        while(fast!=tail && fast.next!=tail){
-             slow=slow.next;
-             fast=fast.next.next;
-        } 
-        TreeNode root=new TreeNode(slow.val);
-        root.left=build(head,slow);
-        root.right=build(slow.next,tail);
+
+        if (head.next == null) {
+            return new TreeNode(head.val);
+        }
+
+        ListNode prev = null;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        prev.next = null;
+
+        TreeNode root = new TreeNode(slow.val);
+        root.left = sortedListToBST(head);
+
+        root.right = sortedListToBST(slow.next);
+
         return root;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

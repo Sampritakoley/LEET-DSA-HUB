@@ -25,14 +25,13 @@ class Solution {
         }
 
         return maxArea;
-    }private int largestRectangleArea(int[] heights) {
+    }
+    private int largestRectangleArea(int[] heights) {
     Stack<Integer> stack = new Stack<>();
     int max = 0;
-
     for (int i = 0; i <= heights.length; i++) {
 
         int currHeight = (i == heights.length) ? 0 : heights[i];
-
         while (!stack.isEmpty() && currHeight < heights[stack.peek()]) {
 
             int height = heights[stack.pop()];
@@ -53,3 +52,7 @@ class Solution {
     return max;
 }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

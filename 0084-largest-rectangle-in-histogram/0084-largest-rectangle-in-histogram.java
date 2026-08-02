@@ -1,50 +1,36 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-
-        int[] left = new int[n];  
-        int[] right = new int[n];  
 
         Stack<Integer> stack = new Stack<>();
-
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-                stack.pop();
-            }
-
-            if (stack.isEmpty()) {
-                left[i] = -1;
-            } else {
-                left[i] = stack.peek();
-            }
-
-            stack.push(i);
-        }
-
-        stack.clear();
-
-        for (int i = n - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && heights[stack.peek()] >= heights[i]) {
-                stack.pop();
-            }
-
-            if (stack.isEmpty()) {
-                right[i] = n;
-            } else {
-                right[i] = stack.peek();
-            }
-
-            stack.push(i);
-        }
-
         int maxArea = 0;
 
-        for (int i = 0; i < n; i++) {
-            int width = right[i] - left[i] - 1;
-            int area = heights[i] * width;
-            maxArea = Math.max(maxArea, area);
+        for (int i = 0; i <= heights.length; i++) {
+
+            int currentHeight = (i == heights.length)
+                    ? 0
+                    : heights[i];
+
+            while (!stack.isEmpty()
+                    && heights[stack.peek()] > currentHeight) {
+
+                int height = heights[stack.pop()];
+
+                int width = stack.isEmpty()
+                        ? i
+                        : i - stack.peek() - 1;
+
+                maxArea = Math.max(maxArea, height * width);
+            }
+
+            if (i < heights.length) {
+                stack.push(i);
+            }
         }
 
         return maxArea;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

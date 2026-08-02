@@ -1,42 +1,56 @@
 class Solution {
     public int calculate(String s) {
-          Stack<Integer> stack = new Stack<>();
-        int num = 0;
+
+        Stack<Integer> stack = new Stack<>();
+
+        int number = 0;
         char sign = '+';
 
-        for(int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
 
-            char c = s.charAt(i);
+            char ch = s.charAt(i);
 
-            if(Character.isDigit(c)) {
-                num = num * 10 + (c - '0');
+            if (Character.isDigit(ch)) {
+                number = number * 10 + (ch - '0');
             }
 
-            if((!Character.isDigit(c) && c != ' ') || i == s.length() - 1) {
+            if ((!Character.isDigit(ch) && ch != ' ') 
+                    || i == s.length() - 1) {
 
-                if(sign == '+')
-                    stack.push(num);
+                switch (sign) {
 
-                else if(sign == '-')
-                    stack.push(-num);
+                    case '+':
+                        stack.push(number);
+                        break;
 
-                else if(sign == '*')
-                    stack.push(stack.pop() * num);
+                    case '-':
+                        stack.push(-number);
+                        break;
 
-                else if(sign == '/')
-                    stack.push(stack.pop() / num);
+                    case '*':
+                        stack.push(stack.pop() * number);
+                        break;
 
-                sign = c;
-                num = 0;
+                    case '/':
+                        stack.push(stack.pop() / number);
+                        break;
+                }
+
+                sign = ch;
+                number = 0;
             }
         }
 
         int result = 0;
 
-        while(!stack.isEmpty()) {
-            result += stack.pop();
+        for (int value : stack) {
+            result += value;
         }
 
         return result;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

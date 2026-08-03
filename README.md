@@ -88,6 +88,7 @@
 | [0518-coin-change-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
+| [0636-exclusive-time-of-functions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0636-exclusive-time-of-functions) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -486,6 +487,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0636-exclusive-time-of-functions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |

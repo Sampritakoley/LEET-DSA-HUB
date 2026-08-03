@@ -123,6 +123,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
 | [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -496,6 +497,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1019-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -1194,6 +1196,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Linked List

@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-subarray-minimums">907. Sum of Subarray Minimums</a></h2><h3>Medium</h3><hr><p>Given an array of integers arr, find the sum of <code>min(b)</code>, where <code>b</code> ranges over every (contiguous) subarray of <code>arr</code>. Since the answer may be large, return the answer <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-subarray-minimums">943. Sum of Subarray Minimums</a></h2><h3>Medium</h3><hr><p>Given an array of integers arr, find the sum of <code>min(b)</code>, where <code>b</code> ranges over every (contiguous) subarray of <code>arr</code>. Since the answer may be large, return the answer <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

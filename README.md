@@ -1313,4 +1313,8 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->

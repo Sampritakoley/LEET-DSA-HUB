@@ -38,7 +38,6 @@ class Solution {
                     if (!words.contains(next))
                         continue;
 
-                    // First time visiting next
                     if (!level.containsKey(next)) {
 
                         level.put(next, currLevel + 1);
@@ -47,7 +46,6 @@ class Solution {
                         parents.putIfAbsent(next, new ArrayList<>());
                         parents.get(next).add(curr);
                     }
-                    // Another shortest path to next
                     else if (level.get(next) == currLevel + 1) {
 
                         parents.get(next).add(curr);
@@ -93,3 +91,7 @@ class Solution {
         }
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

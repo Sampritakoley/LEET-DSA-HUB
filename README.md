@@ -263,6 +263,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1416-restore-the-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1416-restore-the-array) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -678,6 +679,7 @@
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1416-restore-the-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1416-restore-the-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |

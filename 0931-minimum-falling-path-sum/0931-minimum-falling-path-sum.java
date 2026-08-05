@@ -1,28 +1,45 @@
+
 class Solution {
     public int minFallingPathSum(int[][] matrix) {
-           int n = matrix.length;
-    int[] dp = new int[n];
 
-    for (int j = 0; j < n; j++) {
-        dp[j] = matrix[0][j];
-    }
+        int n = matrix.length;
 
-    for (int i = 1; i < n; i++) {
-        int[] newDp = new int[n];
-        for (int j = 0; j < n; j++) {
-            int min = dp[j];
+        int[][] dp = new int[n][n];
 
-            if (j > 0) min = Math.min(min, dp[j - 1]);
-            if (j < n - 1) min = Math.min(min, dp[j + 1]);
-
-            newDp[j] = matrix[i][j] + min;
+        for (int col = 0; col < n; col++) {
+            dp[0][col] = matrix[0][col];
         }
-        dp = newDp;
-    }
 
-    int ans = Integer.MAX_VALUE;
-    for (int val : dp) ans = Math.min(ans, val);
+        for (int row = 1; row < n; row++) {
 
-    return ans;
+            for (int col = 0; col < n; col++) {
+
+                int min = dp[row - 1][col];
+
+                if (col > 0) {
+                    min = Math.min(min, dp[row - 1][col - 1]);
+                }
+
+                if (col < n - 1) {
+                    min = Math.min(min, dp[row - 1][col + 1]);
+                }
+
+                dp[row][col] = matrix[row][col] + min;
+            }
+        }
+
+        int answer = Integer.MAX_VALUE;
+
+        for (int col = 0; col < n; col++) {
+            answer = Math.min(answer, dp[n - 1][col]);
+        }
+
+        return answer;
     }
 }
+
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

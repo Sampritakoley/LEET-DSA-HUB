@@ -1329,4 +1329,12 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

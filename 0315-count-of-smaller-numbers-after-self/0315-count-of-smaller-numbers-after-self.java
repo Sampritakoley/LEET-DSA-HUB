@@ -1,30 +1,88 @@
 class Solution {
-    public List<Integer> countSmaller(int[] nums) {
-        List<Integer> result = new ArrayList<>();
-        List<Integer> sorted = new ArrayList<>();
 
-        for (int i = nums.length - 1; i >= 0; i--) {
-            int index = findInsertIndex(sorted, nums[i]);
-            result.add(index);
-            sorted.add(index, nums[i]);
+    int[] count;
+    int[][] arr;
+
+    public List<Integer> countSmaller(int[] nums) {
+
+        int n = nums.length;
+
+        count = new int[n];
+        arr = new int[n][2];
+
+        for (int i = 0; i < n; i++) {
+            arr[i][0] = nums[i];
+            arr[i][1] = i;
         }
 
-        Collections.reverse(result);
+        mergeSort(0, n - 1);
+
+        List<Integer> result = new ArrayList<>();
+
+        for (int x : count) {
+            result.add(x);
+        }
+
         return result;
     }
 
-    private int findInsertIndex(List<Integer> list, int num) {
-        int left = 0, right = list.size();
+    private void mergeSort(int left, int right) {
 
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (list.get(mid) < num) {
-                left = mid + 1;
+        if (left >= right) {
+            return;
+        }
+
+        int mid = left + (right - left) / 2;
+
+        mergeSort(left, mid);
+        mergeSort(mid + 1, right);
+
+        merge(left, mid, right);
+    }
+
+    private void merge(int left, int mid, int right) {
+
+        int[][] temp = new int[right - left + 1][2];
+
+        int i = left;
+        int j = mid + 1;
+        int k = 0;
+
+        int rightCount = 0;
+
+        while (i <= mid && j <= right) {
+
+            if (arr[j][0] < arr[i][0]) {
+
+                rightCount++;
+
+                temp[k++] = arr[j++];
+
             } else {
-                right = mid;
+
+                count[arr[i][1]] += rightCount;
+
+                temp[k++] = arr[i++];
             }
         }
 
-        return left;
+        while (i <= mid) {
+
+            count[arr[i][1]] += rightCount;
+
+            temp[k++] = arr[i++];
+        }
+
+        while (j <= right) {
+            temp[k++] = arr[j++];
+        }
+
+        for (int x = 0; x < temp.length; x++) {
+            arr[left + x] = temp[x];
+        }
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

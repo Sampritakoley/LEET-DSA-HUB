@@ -1319,4 +1319,8 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->

@@ -19,7 +19,7 @@ class Solution {
             if (i + 1 < n) {
                 int num = (s.charAt(i) - '0') * 10 + (s.charAt(i + 1) - '0');
 
-                if (num >= 10 && num <= 26) {
+                if (num <= 26) {
                     dp[i] += dp[i + 2];
                 }
             }
@@ -28,3 +28,7 @@ class Solution {
         return dp[0];
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

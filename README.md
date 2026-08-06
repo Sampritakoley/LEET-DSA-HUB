@@ -99,6 +99,7 @@
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
@@ -247,6 +248,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -340,6 +342,7 @@
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0741-cherry-pickup) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |

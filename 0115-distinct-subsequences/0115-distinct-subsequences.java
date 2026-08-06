@@ -1,28 +1,36 @@
 class Solution {
+
     public int numDistinct(String s, String t) {
-        ArrayList<String> result=findSubsequenceLIST(s);
-        int count = 0;
-        for (String str : result) {
-             if (t.equals(str)) {
-               count++;
+
+        int n = s.length();
+        int m = t.length();
+
+        long[][] dp = new long[n + 1][m + 1];
+
+        for (int i = 0; i <= n; i++)
+            dp[i][0] = 1;
+
+        for (int i = 1; i <= n; i++) {
+
+            for (int j = 1; j <= m; j++) {
+
+                if (s.charAt(i - 1) == t.charAt(j - 1))
+
+                    dp[i][j] =
+                            dp[i - 1][j - 1]
+                          + dp[i - 1][j];
+
+                else
+
+                    dp[i][j] =
+                            dp[i - 1][j];
             }
         }
-        return count;
-    }public static ArrayList<String> findSubsequenceLIST(String str){
-       if(str.length()==1){
-           ArrayList<String> listStr=new ArrayList<>();
-           listStr.add("");
-           listStr.add(str);
-           return listStr;
-       }
-       char ch=str.charAt(str.length()-1);
-       String restStr=str.substring(0, str.length()-1);
-       ArrayList<String> res=findSubsequenceLIST(restStr);
-       ArrayList<String> restRes=new ArrayList<>();
-       for(int i=0;i<res.size();i++){
-          restRes.add(res.get(i)+ch);
-       }
-       res.addAll(restRes);
-       return res;
+
+        return (int) dp[n][m];
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

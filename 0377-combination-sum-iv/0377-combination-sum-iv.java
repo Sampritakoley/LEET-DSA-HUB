@@ -6,14 +6,12 @@ class Solution {
 
         dp[0] = 1;
 
-        for (int sum = 1; sum <= target; sum++) {
+        for (int t = 1; t <= target; t++) {
 
             for (int num : nums) {
 
-                if (sum >= num) {
-
-                    dp[sum] += dp[sum - num];
-                }
+                if (num <= t)
+                    dp[t] += dp[t - num];
             }
         }
 

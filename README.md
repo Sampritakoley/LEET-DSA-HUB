@@ -73,6 +73,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
@@ -554,6 +555,7 @@
 | [0147-insertion-sort-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
@@ -667,6 +669,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0402-remove-k-digits) |
@@ -736,6 +739,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -834,6 +838,7 @@
 | [0257-binary-tree-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0337-house-robber-iii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -1291,6 +1296,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0133-clone-graph/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1362,4 +1368,16 @@
 |  |
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1092-shortest-common-supersequence) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->

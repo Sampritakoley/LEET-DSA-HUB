@@ -1358,4 +1358,8 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0474-ones-and-zeroes) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->

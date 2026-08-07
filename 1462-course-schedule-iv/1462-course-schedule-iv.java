@@ -1,60 +1,49 @@
 class Solution {
-    public List<Boolean> checkIfPrerequisite(int numCourses,
-                                             int[][] prerequisites,
-                                             int[][] queries) {
 
-        List<List<Integer>> graph = new ArrayList<>();
+    public List<Boolean> checkIfPrerequisite(
+            int numCourses,
+            int[][] prerequisites,
+            int[][] queries) {
 
-        for (int i = 0; i < numCourses; i++)
-            graph.add(new ArrayList<>());
+        boolean[][] reachable =
+                new boolean[numCourses][numCourses];
 
-        int[] indegree = new int[numCourses];
+        for (int[] p : prerequisites) {
 
-        boolean[][] pre = new boolean[numCourses][numCourses];
+            int prerequisite = p[0];
+            int course = p[1];
 
-        for (int[] edge : prerequisites) {
-
-            int u = edge[0];
-            int v = edge[1];
-
-            graph.get(u).add(v);
-            indegree[v]++;
-
-            pre[u][v] = true;
+            reachable[prerequisite][course] = true;
         }
 
-        Queue<Integer> q = new LinkedList<>();
+        for (int k = 0; k < numCourses; k++) {
 
-        for (int i = 0; i < numCourses; i++)
-            if (indegree[i] == 0)
-                q.offer(i);
+            for (int i = 0; i < numCourses; i++) {
 
-        while (!q.isEmpty()) {
+                for (int j = 0; j < numCourses; j++) {
 
-            int curr = q.poll();
-
-            for (int next : graph.get(curr)) {
-
-                for (int i = 0; i < numCourses; i++) {
-
-                    if (pre[i][curr]) {
-                        pre[i][next] = true;
-                    }
+                    reachable[i][j] =
+                            reachable[i][j]
+                            || (reachable[i][k]
+                            && reachable[k][j]);
                 }
-
-                indegree[next]--;
-
-                if (indegree[next] == 0)
-                    q.offer(next);
             }
         }
 
-        List<Boolean> ans = new ArrayList<>();
+        List<Boolean> answer = new ArrayList<>();
 
-        for (int[] qy : queries) {
-            ans.add(pre[qy[0]][qy[1]]);
+        for (int[] query : queries) {
+
+            int u = query[0];
+            int v = query[1];
+
+            answer.add(reachable[u][v]);
         }
 
-        return ans;
+        return answer;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

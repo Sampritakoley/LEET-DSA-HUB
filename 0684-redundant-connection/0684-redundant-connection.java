@@ -19,7 +19,7 @@ class Solution {
             for (int i = 0; i <= n; i++) {
                parent[i] = i;
                rank[i] = 0;
-            }
+            } 
         }
         public int parent(int u){
             if(parent[u]!=u){
@@ -46,3 +46,7 @@ class Solution {
         }
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

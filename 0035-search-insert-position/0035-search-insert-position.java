@@ -1,24 +1,25 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int left=0;
-        int right=nums.length-1;
 
-        while(left<=right){
-            if(right==nums.length-1 && nums[right]<target){
-                 return right+1;
-            }
-            if(nums[left]<target){
-                left++;
-            }else if(nums[left]>=target){
-                return left;
-            }
-            else if(nums[right]>target){
-                right--;
-                continue;
-            }else{
-                return right;
+        int low = 0;
+        int high = nums.length - 1;
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
-        return -1;
+
+        return low;
     }
 }
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

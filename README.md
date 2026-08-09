@@ -1413,4 +1413,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

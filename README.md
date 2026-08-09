@@ -111,6 +111,7 @@
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0815-bus-routes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -446,6 +447,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1425,4 +1427,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

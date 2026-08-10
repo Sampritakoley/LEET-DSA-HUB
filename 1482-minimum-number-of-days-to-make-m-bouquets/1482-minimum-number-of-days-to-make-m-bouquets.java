@@ -1,43 +1,69 @@
+
 class Solution {
+
     public int minDays(int[] bloomDay, int m, int k) {
-        if (bloomDay.length < m * k) return -1;
 
-        int left = 1;
-        int right = 0;
-
-        for (int day : bloomDay) {
-            right = Math.max(right, day);
+        int n = bloomDay.length;
+        if ((long) m * k > n) {
+            return -1;
         }
 
-        while (left < right) {
-            int mid = left + (right - left) / 2;
+        int low = Integer.MAX_VALUE;
+        int high = Integer.MIN_VALUE;
+        for (int day : bloomDay) {
+            low = Math.min(low, day);
+            high = Math.max(high, day);
+        }
+        while (low < high) {
+
+            int mid = low + (high - low) / 2;
 
             if (canMake(bloomDay, m, k, mid)) {
-                right = mid; 
+                high = mid;
+
             } else {
-                left = mid + 1;
+                low = mid + 1;
             }
         }
 
-        return left;
+        return low;
     }
 
-    public static boolean canMake(int[] bloomDay, int m, int k, int day) {
+
+    private boolean canMake(
+        int[] bloomDay,
+        int m,
+        int k,
+        int day
+    ) {
+
         int bouquets = 0;
-        int consecutiveFlowers = 0;
+        int consecutive = 0;
 
         for (int bloom : bloomDay) {
+
             if (bloom <= day) {
-                consecutiveFlowers++;
-                if (consecutiveFlowers == k) {
+                consecutive++;
+                if (consecutive == k) {
+
                     bouquets++;
-                    consecutiveFlowers = 0;
+                    consecutive = 0;
+                    if (bouquets == m) {
+                        return true;
+                    }
                 }
+
             } else {
-                consecutiveFlowers = 0;
+
+                consecutive = 0;
             }
         }
 
-        return bouquets >= m;
+        return false;
     }
 }
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

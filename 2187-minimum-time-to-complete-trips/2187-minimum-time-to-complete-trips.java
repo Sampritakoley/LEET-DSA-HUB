@@ -21,9 +21,7 @@ class Solution {
             for (int t : time) {
 
                 trips += mid / t;
-                if (trips >= totalTrips) {
-                    break;
-                }
+                
             }
 
             if (trips >= totalTrips) {

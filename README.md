@@ -80,6 +80,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0416-partition-equal-subset-sum) |
@@ -361,6 +362,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
@@ -450,6 +452,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0354-russian-doll-envelopes) |
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
@@ -592,6 +595,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
@@ -775,6 +779,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |

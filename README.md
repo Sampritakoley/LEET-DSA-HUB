@@ -142,6 +142,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
@@ -457,6 +458,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |

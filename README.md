@@ -138,6 +138,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -375,6 +376,7 @@
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
@@ -461,6 +463,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |

@@ -1,48 +1,55 @@
-class Solution {
-    public int splitArray(int[] nums, int k) {
-        int low = getMax(nums);
-        int high = getSum(nums);
-        int result = high;
 
-        while (low <= high) {
+class Solution {
+
+    public int splitArray(int[] nums, int k) {
+
+        int low = 0;
+        int high = 0;
+
+        for (int num : nums) {
+            low = Math.max(low, num);
+            high += num;
+        }
+        while (low < high) {
+
             int mid = low + (high - low) / 2;
+
             if (canSplit(nums, k, mid)) {
-                result = mid;
-                high = mid - 1; 
+                high = mid;
+
             } else {
                 low = mid + 1;
             }
         }
 
-        return result;
+        return low;
     }
 
+
     private boolean canSplit(int[] nums, int k, int maxSum) {
+
+        int parts = 1;
         int currentSum = 0;
-        int splits = 1;
 
         for (int num : nums) {
             if (currentSum + num > maxSum) {
-                splits++;
+                parts++;
                 currentSum = num;
-                if (splits > k) return false;
+                if (parts > k) {
+                    return false;
+                }
+
             } else {
+
                 currentSum += num;
             }
         }
 
         return true;
     }
-
-    private int getMax(int[] nums) {
-        int max = nums[0];
-        for (int num : nums) max = Math.max(max, num);
-        return max;
-    }
-
-    private int getSum(int[] nums) {
-        int sum = 0;
-        for (int num : nums) sum += num;
-        return sum;
-    }
 }
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

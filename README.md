@@ -175,6 +175,7 @@
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
@@ -306,6 +307,7 @@
 | [2050-parallel-courses-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2050-parallel-courses-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -498,6 +501,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2187-minimum-time-to-complete-trips) |
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -634,6 +638,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |

@@ -1,49 +1,82 @@
+import java.util.*;
+
 class Solution {
-    public int numBusesToDestination(int[][] routes, int source, int target) {
-        HashMap<Integer,HashSet<Integer>> map=new HashMap<>();
-        buildMap(routes,map);
-        Queue<Integer> q=new ArrayDeque<>();
-        HashSet<Integer> visitedBus=new HashSet<>();
-        HashSet<Integer> visitedStops = new HashSet<>();
-        if(source==target){
+
+    public int numBusesToDestination(
+            int[][] routes,
+            int source,
+            int target) {
+        if (source == target) {
             return 0;
         }
-        q.add(source); visitedStops.add(source); int buses=1;
-        while(q.size()>0){
-            int size=q.size();
-            while(size-- >0){
-                Integer c=q.poll();
-                if (!map.containsKey(c))
-                continue;
-                for(int bus:map.get(c)){
-                    if(visitedBus.contains(bus)){
-                       continue;
+
+        Map<Integer, List<Integer>> stopToBuses =
+                new HashMap<>();
+        for (int bus = 0; bus < routes.length; bus++) {
+
+            for (int stop : routes[bus]) {
+
+                stopToBuses
+                    .computeIfAbsent(
+                        stop,
+                        k -> new ArrayList<>()
+                    )
+                    .add(bus);
+            }
+        }
+
+        Queue<Integer> queue =
+                new LinkedList<>();
+
+        queue.offer(source);
+        Set<Integer> visitedStops =
+                new HashSet<>();
+
+        visitedStops.add(source);
+        boolean[] visitedBus =
+                new boolean[routes.length];
+
+        int busesTaken = 0;
+
+        while (!queue.isEmpty()) {
+
+            int size = queue.size();
+            busesTaken++;
+
+            for (int i = 0; i < size; i++) {
+
+                int currentStop = queue.poll();
+                List<Integer> buses =
+                        stopToBuses.get(currentStop);
+
+                if (buses == null) {
+                    continue;
+                }
+
+                for (int bus : buses) {
+                    if (visitedBus[bus]) {
+                        continue;
                     }
-                    visitedBus.add(bus);
-                    for(int stops:routes[bus]){
-                        
-                        if(stops==target){
-                           return buses;
+
+                    visitedBus[bus] = true;
+                    for (int nextStop : routes[bus]) {
+
+                        if (nextStop == target) {
+                            return busesTaken;
                         }
-                        if(visitedStops.add(stops)){
-                            q.offer(stops);
+
+                        if (visitedStops.add(nextStop)) {
+                            queue.offer(nextStop);
                         }
                     }
                 }
             }
-            buses++;
         }
+
         return -1;
-    }public void buildMap(int[][] routes,HashMap<Integer,HashSet<Integer>> map){
-        int i=0;
-        for(int[] r:routes){
-            for(int num:r){
-                if(!map.containsKey(num)){
-                    map.put(num,new HashSet<>());
-                }
-                map.get(num).add(i);
-            }
-            i++;
-        }
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

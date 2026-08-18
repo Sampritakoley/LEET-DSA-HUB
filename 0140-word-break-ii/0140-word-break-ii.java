@@ -1,28 +1,58 @@
+import java.util.*;
+
 class Solution {
+
+    private Set<String> dict;
+    private String s;
+    private Map<Integer, List<String>> memo;
+
     public List<String> wordBreak(String s, List<String> wordDict) {
-        Set<String> set=new HashSet<>(wordDict);
-        ArrayList<String>[] dp=new ArrayList[s.length()+1];
-        dp[0]=new ArrayList<>();
-        dp[0].add("");
-        for(int i=1;i<s.length()+1;i++){
-            dp[i]=new ArrayList<>();
-            for(int j=i-1;j>=0;j--){
-                String str=s.substring(j,i);
-                if(set.contains(str)){
-                    ArrayList<String> lst=dp[j];
-                    if(lst.size()==0){
-                        continue;
-                    }
-                    for(String prev:lst){
-                        if(prev.isEmpty()){
-                           dp[i].add(str);   
-                        }else{
-                           dp[i].add(prev+" "+str);
-                        }
-                    }
+
+        this.s = s;
+        this.dict = new HashSet<>(wordDict);
+        this.memo = new HashMap<>();
+
+        return dfs(0);
+    }
+
+    private List<String> dfs(int start) {
+
+        if (start == s.length()) {
+            return List.of("");
+        }
+
+        if (memo.containsKey(start)) {
+            return memo.get(start);
+        }
+
+        List<String> result = new ArrayList<>();
+
+        for (int end = start + 1; end <= s.length(); end++) {
+
+            String word = s.substring(start, end);
+
+            if (!dict.contains(word)) {
+                continue;
+            }
+
+            List<String> suffixSentences = dfs(end);
+
+            for (String suffix : suffixSentences) {
+
+                if (suffix.isEmpty()) {
+                    result.add(word);
+                } else {
+                    result.add(word + " " + suffix);
                 }
             }
         }
-        return dp[s.length()];
+
+        memo.put(start, result);
+
+        return result;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

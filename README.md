@@ -280,6 +280,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0741-cherry-pickup) |
@@ -760,6 +761,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |
@@ -1461,6 +1463,7 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1092-shortest-common-supersequence) |
 ## Eulerian Circuit
 |  |

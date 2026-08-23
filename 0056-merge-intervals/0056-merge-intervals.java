@@ -1,55 +1,42 @@
+import java.util.*;
+
 class Solution {
     public int[][] merge(int[][] intervals) {
+
         if (intervals.length <= 1) {
             return intervals;
         }
-        Pair[] arr = new Pair[intervals.length];
-        for (int i = 0; i < intervals.length; i++) {
-            arr[i] = new Pair(intervals[i][0], intervals[i][1]);
-        }
-        Arrays.sort(arr);
-        Stack<Pair> st=new Stack<>();
-        st.push(arr[0]);
-        for(int i=1;i<arr.length;i++){
-            Pair curr=arr[i];
-            Pair p=st.peek();
-            if(p.ed>=curr.st){
-                if(p.ed>=curr.ed){
-                    continue;
-                }else{
-                    st.pop();
-                    st.push(new Pair(p.st,curr.ed));
-                }
-            }else{
-                st.push(curr);
+
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+
+        List<int[]> result = new ArrayList<>();
+
+        int start = intervals[0][0];
+        int end = intervals[0][1];
+
+        for (int i = 1; i < intervals.length; i++) {
+
+            int nextStart = intervals[i][0];
+            int nextEnd = intervals[i][1];
+
+            if (nextStart <= end) {
+                end = Math.max(end, nextEnd);
+            }
+
+            else {
+                result.add(new int[]{start, end});
+
+                start = nextStart;
+                end = nextEnd;
             }
         }
-        Stack<Pair> rev=new Stack<>();
-        while(st.size()!=0){
-            rev.push(st.pop());
-        }
-        int[][] res=new int[rev.size()][2];
-        int i=0;
-        while(rev.size()!=0){
-            res[i][0]=rev.peek().st;
-            res[i][1]=rev.peek().ed;
-            rev.pop();
-            i++;
-        }
-        return res;
-    }public static class Pair implements Comparable<Pair> {
 
-        int st;
-        int ed;
+        result.add(new int[]{start, end});
 
-        public Pair(int st, int ed) {
-            this.st = st;
-            this.ed = ed;
-        }
-
-        @Override
-        public int compareTo(Pair other) {
-            return this.st - other.st;   
-        }
+        return result.toArray(new int[result.size()][]);
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

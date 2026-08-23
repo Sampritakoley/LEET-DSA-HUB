@@ -1,39 +1,56 @@
 class Solution {
 
     public List<List<String>> partition(String s) {
+        return getPartitions(s);
+    }
+
+    private List<List<String>> getPartitions(String str) {
+
+        if (str.length() == 0) {
+
+            List<List<String>> base = new ArrayList<>();
+
+            base.add(new ArrayList<>());
+
+            return base;
+        }
 
         List<List<String>> result = new ArrayList<>();
 
-        backtrack(0, s, new ArrayList<>(), result);
+        for (int cut = 1; cut <= str.length(); cut++) {
+
+            String prefix = str.substring(0, cut);
+
+            if (isPalindrome(prefix)) {
+
+                String remaining = str.substring(cut);
+                List<List<String>> recursiveResult =
+                        getPartitions(remaining);
+
+                for (List<String> partition : recursiveResult) {
+
+                    List<String> newPartition =
+                            new ArrayList<>();
+
+                    newPartition.add(prefix);
+                    newPartition.addAll(partition);
+
+                    result.add(newPartition);
+                }
+            }
+        }
 
         return result;
     }
 
-    private void backtrack(
-            int index,
-            String s,
-            List<String> current,
-            List<List<String>> result) {
+    private boolean isPalindrome(String str) {
 
-        if (index == s.length()) {
-            result.add(new ArrayList<>(current));
-            return;
-        }
-        for (int end = index; end < s.length(); end++) {
-
-            if (isPalindrome(s, index, end)) {
-                current.add(s.substring(index, end + 1));
-                backtrack(end + 1, s, current, result);
-                current.remove(current.size() - 1);
-            }
-        }
-    }
-
-    private boolean isPalindrome(String s, int left, int right) {
+        int left = 0;
+        int right = str.length() - 1;
 
         while (left < right) {
 
-            if (s.charAt(left) != s.charAt(right)) {
+            if (str.charAt(left) != str.charAt(right)) {
                 return false;
             }
 

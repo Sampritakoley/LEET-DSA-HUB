@@ -69,6 +69,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0300-longest-increasing-subsequence) |
@@ -636,6 +637,7 @@
 | [0148-sort-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
@@ -1534,6 +1536,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1122-relative-sort-array) |
 ## Quicksort

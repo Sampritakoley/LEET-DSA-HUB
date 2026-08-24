@@ -1,24 +1,32 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int prod=1;
-        int[] res=new int[nums.length];
-        int zeroCount=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0){
-               prod*=nums[i];
-            }else{
-               zeroCount++;
-            }
+
+        int n = nums.length;
+
+        int[] answer = new int[n];
+
+        int prefix = 1;
+
+        for (int i = 0; i < n; i++) {
+
+            answer[i] = prefix;
+
+            prefix *= nums[i];
         }
-        for(int i=0;i<res.length;i++){
-            if(nums[i]!=0 && zeroCount==0){
-               res[i]=prod/nums[i];
-            }else if(nums[i]==0 && zeroCount==1){
-                res[i]=prod;
-            }else{
-                res[i]=0;
-            }
+
+        int suffix = 1;
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            answer[i] *= suffix;
+
+            suffix *= nums[i];
         }
-        return res;
+
+        return answer;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

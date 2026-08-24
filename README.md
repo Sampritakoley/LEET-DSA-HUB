@@ -99,6 +99,7 @@
 | [0496-next-greater-element-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0636-exclusive-time-of-functions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0636-exclusive-time-of-functions) |
@@ -353,6 +354,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2439-minimize-maximum-of-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2439-minimize-maximum-of-array) |
@@ -455,6 +457,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
@@ -693,6 +696,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
@@ -1547,4 +1551,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1122-relative-sort-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

@@ -139,6 +139,7 @@
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0978-valid-mountain-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |
@@ -361,6 +362,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2439-minimize-maximum-of-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2439-minimize-maximum-of-array) |
@@ -717,6 +719,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |

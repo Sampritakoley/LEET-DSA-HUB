@@ -1,40 +1,44 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-    List<Integer> result = new ArrayList<>();
-    if (matrix == null || matrix.length == 0) return result;
 
-    int top = 0;
-    int bottom = matrix.length - 1;
-    int left = 0;
-    int right = matrix[0].length - 1;
+        List<Integer> result = new ArrayList<>();
 
-    while (top <= bottom && left <= right) {
-        for (int i = left; i <= right; i++) {
-            result.add(matrix[top][i]);
-        }
-        top++;
+        int top = 0;
+        int bottom = matrix.length - 1;
+        int left = 0;
+        int right = matrix[0].length - 1;
 
-        for (int i = top; i <= bottom; i++) {
-            result.add(matrix[i][right]);
-        }
-        right--;
+        while (top <= bottom && left <= right) {
 
-        if (top <= bottom) {
-            for (int i = right; i >= left; i--) {
-                result.add(matrix[bottom][i]);
+            for (int col = left; col <= right; col++) {
+                result.add(matrix[top][col]);
             }
-            bottom--;
-        }
+            top++;
 
-        if (left <= right) {
-            for (int i = bottom; i >= top; i--) {
-                result.add(matrix[i][left]);
+            for (int row = top; row <= bottom; row++) {
+                result.add(matrix[row][right]);
             }
-            left++;
-        }
-    
-    }
-    return result;
-    }
+            right--;
 
+            if (top <= bottom) {
+                for (int col = right; col >= left; col--) {
+                    result.add(matrix[bottom][col]);
+                }
+                bottom--;
+            }
+
+            if (left <= right) {
+                for (int row = bottom; row >= top; row--) {
+                    result.add(matrix[row][left]);
+                }
+                left++;
+            }
+        }
+
+        return result;
+    }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

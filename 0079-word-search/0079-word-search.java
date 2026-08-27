@@ -1,39 +1,63 @@
 class Solution {
+
     public boolean exist(char[][] board, String word) {
-         boolean[][] visited=new boolean[board.length][board[0].length];
-         for(int i=0;i<board.length;i++){
-            for(int j=0;j<board[0].length;j++){
-                if(board[i][j]==word.charAt(0)){
-                    boolean res=dfs(board,word,i,j,1,visited);
-                    if(res){
-                        return true;
-                    }
+
+        int rows = board.length;
+        int cols = board[0].length;
+
+        boolean[][] visited = new boolean[rows][cols];
+
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
+
+                if (dfs(board, word, row, col, 0, visited)) {
+                    return true;
                 }
             }
-         }
-         return false;
+        }
+
+        return false;
     }
-    public static int[] x=new int[]{0,0,-1,1};
-    public static int[] y=new int[]{-1,1,0,0};
-    public boolean dfs(char[][] board, String word,int i,int j,int index,boolean[][] visited){
-          if(index==word.length()){
+
+    private boolean dfs(
+            char[][] board,
+            String word,
+            int row,
+            int col,
+            int index,
+            boolean[][] visited) {
+
+        if (index == word.length()) {
             return true;
-          }
-          visited[i][j]=true;
-          for(int k=0;k<4;k++){
-            int ni=i+x[k];
-            int nj=j+y[k];
-            if(ni<0 || ni>=board.length || nj<0 || nj>=board[0].length || visited[ni][nj] || board[ni][nj]!=word.charAt(index)){
-                continue;
-            }
-            index++;
-            boolean res=dfs(board,word,ni,nj,index,visited);
-            if(res){
-                return true;
-            }
-            index--;
-          }
-          visited[i][j]=false;
-          return false;
+        }
+
+        if (row < 0 || row >= board.length ||
+            col < 0 || col >= board[0].length) {
+            return false;
+        }
+
+        if (visited[row][col]) {
+            return false;
+        }
+
+        if (board[row][col] != word.charAt(index)) {
+            return false;
+        }
+
+        visited[row][col] = true;
+
+        boolean found =
+                dfs(board, word, row - 1, col, index + 1, visited) ||
+                dfs(board, word, row + 1, col, index + 1, visited) ||
+                dfs(board, word, row, col - 1, index + 1, visited) ||
+                dfs(board, word, row, col + 1, index + 1, visited);
+
+        visited[row][col] = false;
+
+        return found;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

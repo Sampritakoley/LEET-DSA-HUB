@@ -1421,6 +1421,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |

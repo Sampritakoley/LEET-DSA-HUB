@@ -124,6 +124,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0752-open-the-lock) |
+| [0766-toeplitz-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -418,6 +419,7 @@
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0741-cherry-pickup) |
+| [0766-toeplitz-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |

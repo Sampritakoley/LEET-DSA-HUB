@@ -149,6 +149,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0978-valid-mountain-array) |
+| [0986-interval-list-intersections](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -229,6 +230,7 @@
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1592,4 +1594,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

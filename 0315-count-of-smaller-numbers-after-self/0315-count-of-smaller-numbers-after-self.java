@@ -1,84 +1,67 @@
-class Solution {
+import java.util.*;
 
-    int[] count;
-    int[][] arr;
+class Solution {
 
     public List<Integer> countSmaller(int[] nums) {
 
         int n = nums.length;
 
-        count = new int[n];
-        arr = new int[n][2];
+        int[] sorted = nums.clone();
+        Arrays.sort(sorted);
 
-        for (int i = 0; i < n; i++) {
-            arr[i][0] = nums[i];
-            arr[i][1] = i;
-        }
+        Map<Integer, Integer> rank = new HashMap<>();
 
-        mergeSort(0, n - 1);
+        int r = 1;
 
-        List<Integer> result = new ArrayList<>();
-
-        for (int x : count) {
-            result.add(x);
-        }
-
-        return result;
-    }
-
-    private void mergeSort(int left, int right) {
-
-        if (left >= right) {
-            return;
-        }
-
-        int mid = left + (right - left) / 2;
-
-        mergeSort(left, mid);
-        mergeSort(mid + 1, right);
-
-        merge(left, mid, right);
-    }
-
-    private void merge(int left, int mid, int right) {
-
-        int[][] temp = new int[right - left + 1][2];
-
-        int i = left;
-        int j = mid + 1;
-        int k = 0;
-
-        int rightCount = 0;
-
-        while (i <= mid && j <= right) {
-
-            if (arr[j][0] < arr[i][0]) {
-
-                rightCount++;
-
-                temp[k++] = arr[j++];
-
-            } else {
-
-                count[arr[i][1]] += rightCount;
-
-                temp[k++] = arr[i++];
+        for (int num : sorted) {
+            if (!rank.containsKey(num)) {
+                rank.put(num, r++);
             }
         }
 
-        while (i <= mid) {
+        FenwickTree bit = new FenwickTree(rank.size());
 
-            count[arr[i][1]] += rightCount;
+        Integer[] result = new Integer[n];
 
-            temp[k++] = arr[i++];
+        for (int i = n - 1; i >= 0; i--) {
+
+            int currentRank = rank.get(nums[i]);
+            result[i] = bit.query(currentRank - 1);
+            bit.update(currentRank, 1);
         }
 
-        while (j <= right) {
-            temp[k++] = arr[j++];
+        return Arrays.asList(result);
+    }
+
+    static class FenwickTree {
+
+        private int[] tree;
+
+        FenwickTree(int size) {
+            tree = new int[size + 1];
         }
 
-        for (int x = 0; x < temp.length; x++) {
-            arr[left + x] = temp[x];
+        void update(int index, int delta) {
+
+            while (index < tree.length) {
+
+                tree[index] += delta;
+
+                index += index & -index;
+            }
+        }
+        int query(int index) {
+
+            int sum = 0;
+
+            while (index > 0) {
+
+                sum += tree[index];
+
+                index -= index & -index;
+            }
+
+            return sum;
         }
     }
 }

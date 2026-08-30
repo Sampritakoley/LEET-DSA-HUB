@@ -91,6 +91,7 @@
 | [0377-combination-sum-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
@@ -433,6 +434,7 @@
 | [0289-game-of-life](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
@@ -905,6 +907,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -1115,6 +1118,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0513-find-bottom-left-tree-value) |

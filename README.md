@@ -819,6 +819,7 @@
 | [0140-word-break-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -1008,6 +1009,7 @@
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1383,6 +1385,7 @@
 | [0139-word-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0472-concatenated-words) |
 ## Bucket Sort
@@ -1419,6 +1422,7 @@
 | [0155-min-stack](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |

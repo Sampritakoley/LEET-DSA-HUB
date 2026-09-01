@@ -123,6 +123,7 @@
 | [0704-binary-search](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
@@ -707,6 +708,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
@@ -759,6 +761,7 @@
 | [0525-contiguous-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
+| [0720-longest-word-in-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0752-open-the-lock) |
@@ -852,6 +855,7 @@
 | [0648-replace-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0720-longest-word-in-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |
@@ -1397,6 +1401,7 @@
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0720-longest-word-in-dictionary) |
 ## Bucket Sort
 |  |
 | ------- |

@@ -2,8 +2,9 @@ class MapSum {
 
     class TrieNode {
         TrieNode[] children = new TrieNode[26];
-        boolean isEnd = false;
-        int value = 0;
+
+        int sum = 0;      
+        int value = 0;    
     }
 
     private TrieNode root;
@@ -13,6 +14,7 @@ class MapSum {
     }
 
     public void insert(String key, int val) {
+
         TrieNode current = root;
 
         for (char ch : key.toCharArray()) {
@@ -25,11 +27,22 @@ class MapSum {
             current = current.children[index];
         }
 
-        current.isEnd = true;
+        int delta = val - current.value;
+
         current.value = val;
+        current = root;
+        current.sum += delta;
+
+        for (char ch : key.toCharArray()) {
+            int index = ch - 'a';
+
+            current = current.children[index];
+            current.sum += delta;
+        }
     }
 
     public int sum(String prefix) {
+
         TrieNode current = root;
 
         for (char ch : prefix.toCharArray()) {
@@ -41,23 +54,8 @@ class MapSum {
 
             current = current.children[index];
         }
-        return dfs(current);
-    }
 
-    private int dfs(TrieNode node) {
-        int sum = 0;
-
-        if (node.isEnd) {
-            sum += node.value;
-        }
-
-        for (int i = 0; i < 26; i++) {
-            if (node.children[i] != null) {
-                sum += dfs(node.children[i]);
-            }
-        }
-
-        return sum;
+        return current.sum;
     }
 }
 

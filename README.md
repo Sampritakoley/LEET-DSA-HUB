@@ -757,6 +757,7 @@
 | [0290-word-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
@@ -847,6 +848,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
@@ -1195,6 +1197,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1510-find-lucky-integer-in-an-array) |

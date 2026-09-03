@@ -758,6 +758,7 @@
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
@@ -849,6 +850,7 @@
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
@@ -918,6 +920,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
@@ -1198,6 +1201,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1510-find-lucky-integer-in-an-array) |

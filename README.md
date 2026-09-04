@@ -370,6 +370,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1252-break-a-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1252-break-a-palindrome) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -719,6 +720,7 @@
 | [1094-car-pooling](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1122-relative-sort-array) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -890,6 +892,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1416-restore-the-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1416-restore-the-array) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |

@@ -154,6 +154,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
@@ -783,6 +784,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -880,6 +882,7 @@
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1002-find-common-characters) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1028-recover-a-tree-from-preorder-traversal) |

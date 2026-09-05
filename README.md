@@ -1590,6 +1590,7 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0127-word-ladder) |
 ## Treap
 |  |
 | ------- |

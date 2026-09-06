@@ -1,24 +1,16 @@
 class Solution {
-
     private Map<String, Integer> map = new HashMap<>();
     private List<TreeNode> result = new ArrayList<>();
-
     public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
         serialize(root);
         return result;
     }
-
     private String serialize(TreeNode node) {
-
         if (node == null)
             return "#";
-
         String left = serialize(node.left);
-
         String right = serialize(node.right);
-
         String serial = node.val + "," + left + "," + right;
-
         int freq = map.getOrDefault(serial, 0);
 
         if (freq == 1) {

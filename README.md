@@ -1708,4 +1708,5 @@
 | ------- |
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->

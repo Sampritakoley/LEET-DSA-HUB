@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/binary-tree-cameras">968. Binary Tree Cameras</a></h2><h3>Hard</h3><hr><p>You are given the <code>root</code> of a binary tree. We install cameras on the tree nodes where each camera at a node can monitor its parent, itself, and its immediate children.</p>
+<h2><a href="https://leetcode.com/problems/binary-tree-cameras">1008. Binary Tree Cameras</a></h2><h3>Hard</h3><hr><p>You are given the <code>root</code> of a binary tree. We install cameras on the tree nodes where each camera at a node can monitor its parent, itself, and its immediate children.</p>
 
 <p>Return <em>the minimum number of cameras needed to monitor all nodes of the tree</em>.</p>
 

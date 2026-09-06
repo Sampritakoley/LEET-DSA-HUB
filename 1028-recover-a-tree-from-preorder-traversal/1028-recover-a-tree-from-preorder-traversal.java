@@ -22,21 +22,16 @@ class Solution {
             }
 
             TreeNode node = new TreeNode(value);
-
             while (stack.size() > depth) {
                 stack.pop();
             }
-
             if (!stack.isEmpty()) {
-
                 TreeNode parent = stack.peek();
-
                 if (parent.left == null)
                     parent.left = node;
                 else
                     parent.right = node;
             }
-
             stack.push(node);
         }
 

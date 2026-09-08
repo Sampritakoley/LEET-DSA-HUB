@@ -909,6 +909,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -1113,6 +1114,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1971-find-if-path-exists-in-graph) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1342,6 +1344,7 @@
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1609-even-odd-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1609-even-odd-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
@@ -1426,6 +1429,7 @@
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1609-even-odd-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1609-even-odd-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Trie
 |  |
@@ -1712,4 +1716,12 @@
 | [0834-sum-of-distances-in-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0979-distribute-coins-in-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->

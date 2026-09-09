@@ -655,6 +655,7 @@
 | [0735-asteroid-collision](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1090,6 +1091,7 @@
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1334,6 +1336,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
@@ -1368,6 +1371,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -1424,6 +1428,7 @@
 | [0814-binary-tree-pruning](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |

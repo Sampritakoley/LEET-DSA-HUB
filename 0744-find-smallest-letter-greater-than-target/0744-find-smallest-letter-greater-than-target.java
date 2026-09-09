@@ -9,7 +9,7 @@ class Solution {
 
             int mid = low + (high - low) / 2;
 
-            if (letters[mid] <= target) {
+            if (letters[mid] <=target) {
                 low = mid + 1;
             } else {
                 high = mid - 1;

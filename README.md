@@ -1101,6 +1101,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -1347,6 +1348,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1440,6 +1442,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |

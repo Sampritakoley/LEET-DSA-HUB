@@ -16,16 +16,20 @@
 class Solution {
     int max=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
-        MPS(root);
+        int val=dfs(root);
         return max;
-    }
-    public int MPS(TreeNode node){
-        if(node==null){
+    }private int dfs(TreeNode root){
+        if(root==null){
             return 0;
         }
-        int leftSum=Math.max(MPS(node.left),0);
-        int rightSum=Math.max(MPS(node.right),0);
-        max=Math.max(max,(leftSum+rightSum+node.val));
-        return Math.max(leftSum,rightSum)+node.val;
+        int leftSum=Math.max(0,dfs(root.left));
+        int rightSum=Math.max(0,dfs(root.right));
+        int currentPathSum=root.val+leftSum+rightSum;
+        max=Math.max(max,currentPathSum);
+        return Math.max(leftSum,rightSum)+root.val;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

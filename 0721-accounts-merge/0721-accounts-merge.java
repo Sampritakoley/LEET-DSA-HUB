@@ -1,110 +1,65 @@
 class Solution {
-
+    int[] parent;
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
-
-        int n = accounts.size();
-
-        UnionFind uf = new UnionFind(n);
-
-        HashMap<String, Integer> mailToNode = new HashMap<>();
-
-        for (int i = 0; i < n; i++) {
-
-            List<String> account = accounts.get(i);
-
-            for (int j = 1; j < account.size(); j++) {
-
-                String mail = account.get(j);
-
-                if (!mailToNode.containsKey(mail)) {
-                    mailToNode.put(mail, i);
-                } else {
-                    uf.union(i, mailToNode.get(mail));
+        HashMap<String,String> emailToName=new HashMap<>();
+        HashMap<String,Integer> emailToId=new HashMap<>();
+        int id=0;
+        for(List<String> list:accounts){
+            String name=list.get(0);
+            for(int i=1;i<list.size();i++){
+                if(!emailToId.containsKey(list.get(i))){
+                    emailToId.put(list.get(i),id);
+                    emailToName.put(list.get(i),name);
+                    id++;
                 }
             }
         }
-
-        ArrayList<String>[] mergedMail = new ArrayList[n];
-
-        for (int i = 0; i < n; i++) {
-            mergedMail[i] = new ArrayList<>();
+        parent=new int[id];
+        for(int i=0;i<id;i++){
+            parent[i]=i;
+        }
+        for(List<String> list:accounts){
+             String firstEmail=list.get(1);
+             int firstId=emailToId.get(firstEmail);
+             for(int i=2;i<list.size();i++){
+                  int mailId=emailToId.get(list.get(i));
+                  union(firstId,mailId);
+             }
         }
 
-        for (Map.Entry<String, Integer> entry : mailToNode.entrySet()) {
-
-            String mail = entry.getKey();
-            int node = entry.getValue();
-
-            int parent = uf.find(node);
-
-            mergedMail[parent].add(mail);
+        HashMap<Integer,List<String>> graph=new HashMap<>();
+        for(String mail:emailToId.keySet()){
+            int parentId=findParent(emailToId.get(mail));
+            graph.computeIfAbsent(parentId,k->new ArrayList<>()).add(mail);
         }
 
-        List<List<String>> ans = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
-
-            if (mergedMail[i].size() == 0)
-                continue;
-
-            Collections.sort(mergedMail[i]);
-
-            List<String> temp = new ArrayList<>();
-
-            temp.add(accounts.get(i).get(0));
-
-            temp.addAll(mergedMail[i]);
-
-            ans.add(temp);
+        List<List<String>> result=new ArrayList<>();
+        for(List<String> list:graph.values()){
+            String personName=emailToName.get(list.get(0));
+            List<String> answer=new ArrayList<>();
+            answer.add(personName);
+            Collections.sort(list);
+            answer.addAll(list);
+            result.add(answer);
         }
+        return result;
+    }
+    private void union(int u, int v){
+        int parent_v=findParent(v);
+        int parent_u=findParent(u);
+        if(parent_v!=parent_u){
+            parent[parent_v]=parent_u;
+        }
+    }
 
-        return ans;
+    private int findParent(int u){
+          if(parent[u]!=u){
+               parent[u]=findParent(parent[u]);
+          }
+          return parent[u];
     }
 }
 
-class UnionFind {
-
-    int[] parent;
-    int[] rank;
-
-    UnionFind(int n) {
-
-        parent = new int[n];
-        rank = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-        }
-    }
-
-    int find(int node) {
-
-        if (parent[node] == node)
-            return node;
-
-        return parent[node] = find(parent[node]);
-    }
-
-    void union(int u, int v) {
-
-        int pu = find(u);
-        int pv = find(v);
-
-        if (pu == pv)
-            return;
-
-        if (rank[pu] < rank[pv]) {
-
-            parent[pu] = pv;
-
-        } else if (rank[pv] < rank[pu]) {
-
-            parent[pv] = pu;
-
-        } else {
-
-            parent[pv] = pu;
-            rank[pu]++;
-        }
-    }
-}
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

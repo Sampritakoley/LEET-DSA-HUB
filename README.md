@@ -221,6 +221,7 @@
 | [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -610,6 +611,7 @@
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -846,6 +848,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -1629,6 +1632,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1656,6 +1660,7 @@
 | [2050-parallel-courses-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2050-parallel-courses-iii) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Iterator
 |  |
 | ------- |

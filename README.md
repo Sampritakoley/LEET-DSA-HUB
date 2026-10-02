@@ -93,6 +93,7 @@
 | [0376-wiggle-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
@@ -906,6 +907,7 @@
 | [0344-reverse-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
@@ -1113,6 +1115,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0337-house-robber-iii/) | Medium |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0437-path-sum-iii) |
@@ -1227,6 +1230,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -1544,6 +1548,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1613,6 +1618,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
@@ -1639,6 +1645,7 @@
 | [0133-clone-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0133-clone-graph/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1822,4 +1829,12 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

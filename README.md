@@ -177,6 +177,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
 | [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -484,6 +485,7 @@
 | [1036-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
@@ -1167,6 +1169,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -1271,6 +1274,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
@@ -1631,6 +1635,7 @@
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
+| [1254-number-of-closed-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1584-min-cost-to-connect-all-points) |

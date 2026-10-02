@@ -52,6 +52,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0139-word-break) |
@@ -452,6 +453,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0212-word-search-ii) |
@@ -1089,6 +1091,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1207,6 +1210,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
@@ -1602,6 +1606,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |

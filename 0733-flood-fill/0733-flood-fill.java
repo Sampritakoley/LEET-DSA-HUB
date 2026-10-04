@@ -1,22 +1,40 @@
 class Solution {
+
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        if(image[sr][sc]==color){
+
+        int originalColor = image[sr][sc];
+        if (originalColor == color) {
             return image;
         }
-        boolean[][] visited=new boolean[image.length][image[0].length];
-        int oldC=image[sr][sc];
-        dfs(image,visited,oldC,color,sr,sc);
+
+        dfs(image, sr, sc, originalColor, color);
+
         return image;
     }
-    public void dfs(int[][] image,boolean[][] visited,int oldC,int newC,int i,int j){
-        if(i<0 || j< 0 || i>= image.length || j>= image[0].length || image[i][j]!=oldC || visited[i][j]){
+
+    private void dfs(
+            int[][] image,
+            int r,
+            int c,
+            int originalColor,
+            int newColor) {
+
+        int m = image.length;
+        int n = image[0].length;
+        if (r < 0 || r >= m || c < 0 || c >= n) {
             return;
         }
-        visited[i][j]=true;
-        image[i][j]=newC;
-        dfs(image,visited,oldC,newC,i-1,j);
-        dfs(image,visited,oldC,newC,i+1,j);
-        dfs(image,visited,oldC,newC,i,j-1);
-        dfs(image,visited,oldC,newC,i,j+1);
+        if (image[r][c] != originalColor) {
+            return;
+        }
+        image[r][c] = newColor;
+        dfs(image, r - 1, c, originalColor, newColor); // up
+        dfs(image, r + 1, c, originalColor, newColor); // down
+        dfs(image, r, c - 1, originalColor, newColor); // left
+        dfs(image, r, c + 1, originalColor, newColor); // right
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

@@ -156,6 +156,7 @@
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0934-shortest-bridge) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
@@ -489,6 +490,7 @@
 | [0854-making-a-large-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0854-making-a-large-island) |
 | [0867-transpose-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0934-shortest-bridge) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
 | [0994-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0994-rotting-oranges) |
@@ -1174,6 +1176,7 @@
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
@@ -1288,6 +1291,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
 | [0922-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0922-possible-bipartition) |
+| [0934-shortest-bridge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0934-shortest-bridge) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |

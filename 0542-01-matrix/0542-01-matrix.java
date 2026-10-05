@@ -1,44 +1,58 @@
+import java.util.*;
+
 class Solution {
-    public static int[] x=new int[]{0,0,1,-1};
-    public static int[] y=new int[]{1,-1,0,0};
-    public static class Pair{
-        int row;
-        int col;
-        int level;
-        public Pair(int row,int col,int level){
-            this.row=row;
-            this.col=col;
-            this.level=level;
-        }
-    }
     public int[][] updateMatrix(int[][] mat) {
-        int[][] res=new int[mat.length][mat[0].length];
-        for(int[] row:res){
-            Arrays.fill(row,-1);
-        }
-        Bfs(mat,res);
-        return res;
-    }
-    public static void Bfs(int[][] mat,int[][] res){
-        Queue<Pair> q=new LinkedList<>();
-        for (int i = 0; i < mat.length; i++) {
-            for (int j = 0; j < mat[0].length; j++) {
-                if (mat[i][j] == 0) {
-                    res[i][j] = 0;
-                    q.offer(new Pair(i, j, 0));
+
+        int m = mat.length;
+        int n = mat[0].length;
+
+        Queue<int[]> queue = new LinkedList<>();
+        for (int r = 0; r < m; r++) {
+            for (int c = 0; c < n; c++) {
+
+                if (mat[r][c] == 0) {
+                    queue.offer(new int[]{r, c});
+                } else {
+                    mat[r][c] = -1; 
                 }
             }
         }
-        while(q.size()>0){
-            Pair p=q.poll();
-            for(int k=0;k<4;k++){
-                int newR=p.row+x[k];
-                int newC=p.col+y[k];
-                if (newR >= 0 && newR < mat.length && newC >= 0 && newC < mat[0].length && res[newR][newC] == -1){
-                    res[newR][newC]=p.level+1;
-                    q.offer(new Pair(newR,newC,p.level+1));
+
+        int[][] directions = {
+            {-1, 0}, 
+            {1, 0}, 
+            {0, -1},
+            {0, 1}  
+        };
+
+        while (!queue.isEmpty()) {
+
+            int[] curr = queue.poll();
+
+            int r = curr[0];
+            int c = curr[1];
+
+            for (int[] dir : directions) {
+
+                int nr = r + dir[0];
+                int nc = c + dir[1];
+                if (nr < 0 || nr >= m ||
+                    nc < 0 || nc >= n) {
+                    continue;
                 }
+                if (mat[nr][nc] != -1) {
+                    continue;
+                }
+                mat[nr][nc] = mat[r][c] + 1;
+
+                queue.offer(new int[]{nr, nc});
             }
         }
+
+        return mat;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

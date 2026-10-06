@@ -680,6 +680,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0338-counting-bits) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -866,6 +867,7 @@
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -979,6 +981,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1416-restore-the-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1416-restore-the-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1373,6 +1376,7 @@
 | [0214-shortest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
@@ -1380,6 +1384,7 @@
 | [0214-shortest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 ## Memoization
 |  |
@@ -1797,6 +1802,7 @@
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2050-parallel-courses-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2050-parallel-courses-iii) |
 ## Planar Graph
 |  |

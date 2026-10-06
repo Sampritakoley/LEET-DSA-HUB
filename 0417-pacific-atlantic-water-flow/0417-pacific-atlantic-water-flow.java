@@ -1,32 +1,31 @@
 class Solution {
+
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
-        int m = heights.length;
-        int n = heights[0].length;
-        boolean[][] pacific = new boolean[m][n];
-        boolean[][] atlantic = new boolean[m][n];
-        Queue<int[]> pacQueue = new LinkedList<>();
-        Queue<int[]> atlQueue = new LinkedList<>();
-        for (int i = 0; i < m; i++) {
-            pacQueue.offer(new int[]{i, 0});
-            pacific[i][0] = true;
+
+        int n = heights.length;
+        int m = heights[0].length;
+
+        boolean[][] pacific = new boolean[n][m];
+        boolean[][] atlantic = new boolean[n][m];
+        for (int i = 0; i < n; i++) {
+            dfs(i, 0, heights, pacific);
         }
-        for (int j = 0; j < n; j++) {
-            pacQueue.offer(new int[]{0, j});
-            pacific[0][j] = true;
+
+        for (int j = 0; j < m; j++) {
+            dfs(0, j, heights, pacific);
         }
-        for (int i = 0; i < m; i++) {
-            atlQueue.offer(new int[]{i, n - 1});
-            atlantic[i][n - 1] = true;
+        for (int i = 0; i < n; i++) {
+            dfs(i, m - 1, heights, atlantic);
         }
-        for (int j = 0; j < n; j++) {
-            atlQueue.offer(new int[]{m - 1, j});
-            atlantic[m - 1][j] = true;
+
+        for (int j = 0; j < m; j++) {
+            dfs(n - 1, j, heights, atlantic);
         }
-        bfs(heights,pacific,pacQueue);
-        bfs(heights,atlantic,atlQueue);
         List<List<Integer>> result = new ArrayList<>();
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+
                 if (pacific[i][j] && atlantic[i][j]) {
                     result.add(Arrays.asList(i, j));
                 }
@@ -34,29 +33,42 @@ class Solution {
         }
 
         return result;
-
     }
-    private void bfs(int[][] heights, boolean[][] visited, Queue<int[]> queue) {
-        int m = heights.length;
-        int n = heights[0].length;
-        int[] x=new int[]{1,-1,0,0};
-        int[] y=new int[]{0,0,1,-1};
 
-        while (!queue.isEmpty()) {
-            int[] cell = queue.poll();
-            int r = cell[0], c = cell[1];
+    private void dfs(
+        int row,
+        int col,
+        int[][] heights,
+        boolean[][] visited
+    ) {
 
-            for (int k=0;k<4;k++) {
-                int nr = r + x[k];
-                int nc = c + y[k];
+        int n = heights.length;
+        int m = heights[0].length;
 
-                if (nr < 0 || nc < 0 || nr >= m || nc >= n || visited[nr][nc])            continue;
+        visited[row][col] = true;
 
-                if (heights[nr][nc] >= heights[r][c]) {
-                    visited[nr][nc] = true;
-                    queue.offer(new int[]{nr, nc});
-                }
+        int[] dx = {-1, 1, 0, 0};
+        int[] dy = {0, 0, -1, 1};
+
+        for (int k = 0; k < 4; k++) {
+
+            int nr = row + dx[k];
+            int nc = col + dy[k];
+            if (nr < 0 || nr >= n || nc < 0 || nc >= m) {
+                continue;
             }
+            if (visited[nr][nc]) {
+                continue;
+            }
+            if (heights[nr][nc] < heights[row][col]) {
+                continue;
+            }
+
+            dfs(nr, nc, heights, visited);
         }
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

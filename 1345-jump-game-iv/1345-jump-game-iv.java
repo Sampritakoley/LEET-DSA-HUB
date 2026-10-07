@@ -52,7 +52,7 @@ class Solution {
             if (sameValueIndices != null) {
 
                 for (int next : sameValueIndices) {
-
+                   
                     if (dist[next] == -1) {
 
                         dist[next] = nextDistance;
@@ -65,6 +65,7 @@ class Solution {
                     }
                 }
                 map.remove(arr[i]);
+                
             }
         }
 

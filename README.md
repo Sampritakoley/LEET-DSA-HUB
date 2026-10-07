@@ -1337,6 +1337,7 @@
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1971-find-if-path-exists-in-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1617,6 +1618,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Design
 |  |
@@ -1735,6 +1737,7 @@
 | [1615-maximal-network-rank](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1971-find-if-path-exists-in-graph) |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2050-parallel-courses-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2050-parallel-courses-iii) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
@@ -1931,4 +1934,12 @@
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2045-second-minimum-time-to-reach-destination) |
+## K Shortest Path
+|  |
+| ------- |
+| [2045-second-minimum-time-to-reach-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2045-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->

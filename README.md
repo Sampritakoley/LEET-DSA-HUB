@@ -1312,6 +1312,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1162-as-far-from-land-as-possible) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
@@ -1716,6 +1717,7 @@
 | [0886-possible-bipartition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |

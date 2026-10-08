@@ -1,41 +1,32 @@
-/*
-// Definition for a Node.
-class Node {
-    public int val;
-    public List<Node> neighbors;
-    public Node() {
-        val = 0;
-        neighbors = new ArrayList<Node>();
-    }
-    public Node(int _val) {
-        val = _val;
-        neighbors = new ArrayList<Node>();
-    }
-    public Node(int _val, ArrayList<Node> _neighbors) {
-        val = _val;
-        neighbors = _neighbors;
-    }
-}
-*/
-
 class Solution {
+
+    Map<Node, Node> map = new HashMap<>();
+
     public Node cloneGraph(Node node) {
-         if (node == null) return null; 
-        HashMap<Node,Node> map=new HashMap<>();
-        return Dfs(node,map);
+
+        if (node == null)
+            return null;
+
+        return dfs(node);
     }
-    public Node Dfs(Node node,HashMap<Node,Node> map){
-        if(map.containsKey(node)){
-             return map.get(node);
+
+    private Node dfs(Node node) {
+
+        if (map.containsKey(node))
+            return map.get(node);
+
+        Node clone = new Node(node.val);
+
+        map.put(node, clone);
+
+        for (Node neighbor : node.neighbors) {
+            clone.neighbors.add(dfs(neighbor));
         }
 
-        Node cloned=new Node(node.val);
-        map.put(node,cloned);
-
-        for(Node neighbor:node.neighbors){
-            Node clonedNeighbor=Dfs(neighbor,map);
-            cloned.neighbors.add(clonedNeighbor);
-        }
-        return cloned;
+        return clone;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

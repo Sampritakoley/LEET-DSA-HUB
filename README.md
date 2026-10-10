@@ -70,6 +70,7 @@
 | [0213-house-robber-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0216-combination-sum-iii) |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0221-maximal-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
@@ -450,6 +451,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0324-wiggle-sort-ii) |
@@ -767,6 +769,7 @@
 | [0147-insertion-sort-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0324-wiggle-sort-ii) |
@@ -1035,6 +1038,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
@@ -1078,11 +1082,13 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
@@ -1096,6 +1102,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
@@ -1881,6 +1888,7 @@
 ## Sweep Line
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0986-interval-list-intersections](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0986-interval-list-intersections) |
 ## Z Algorithm
 |  |

@@ -1,20 +1,22 @@
+
+import java.util.PriorityQueue;
+
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
         for (int num : nums) {
+            minHeap.offer(num);
 
-            pq.offer(num);
-
-            if (pq.size() > k) {
-                pq.poll();
+            if (minHeap.size() > k) {
+                minHeap.poll();
             }
         }
 
-        return pq.peek();
+        return minHeap.peek();
     }
 }
+
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4

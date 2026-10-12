@@ -1992,4 +1992,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

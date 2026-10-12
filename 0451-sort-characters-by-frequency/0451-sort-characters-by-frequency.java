@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 class Solution {
@@ -7,12 +8,18 @@ class Solution {
         for (char ch : s.toCharArray()) {
             freq.put(ch, freq.getOrDefault(ch, 0) + 1);
         }
-        List<Character> chars = new ArrayList<>(freq.keySet());
-        chars.sort((a, b) -> freq.get(b) - freq.get(a));
+
+       PriorityQueue<Character> maxHeap = new PriorityQueue<>((a, b) -> {
+    if (freq.get(a).equals(freq.get(b))) {
+        return Character.compare(a, b); 
+    }
+    return Integer.compare(freq.get(b), freq.get(a));
+});
+        maxHeap.addAll(freq.keySet());
         StringBuilder result = new StringBuilder();
 
-        for (char ch : chars) {
-
+        while (!maxHeap.isEmpty()) {
+            char ch = maxHeap.poll();
             int count = freq.get(ch);
 
             for (int i = 0; i < count; i++) {
@@ -23,6 +30,7 @@ class Solution {
         return result.toString();
     }
 }
+
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4

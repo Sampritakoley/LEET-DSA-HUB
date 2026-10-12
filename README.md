@@ -117,6 +117,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0643-maximum-average-subarray-i) |
@@ -409,6 +410,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
@@ -793,6 +795,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0472-concatenated-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0472-concatenated-words) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0658-find-k-closest-elements) |
@@ -859,6 +862,7 @@
 | [0496-next-greater-element-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0525-contiguous-array) |
+| [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
@@ -1064,6 +1068,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0692-top-k-frequent-words) |
@@ -1390,6 +1395,7 @@
 | [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0692-top-k-frequent-words) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1510-find-lucky-integer-in-an-array) |

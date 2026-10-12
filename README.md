@@ -164,6 +164,7 @@
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0978-valid-mountain-array) |
@@ -461,6 +462,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -568,6 +570,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -793,6 +796,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
@@ -1059,6 +1063,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1094-car-pooling) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
@@ -1871,6 +1876,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1931,6 +1937,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
@@ -1975,4 +1982,8 @@
 |  |
 | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2045-second-minimum-time-to-reach-destination) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

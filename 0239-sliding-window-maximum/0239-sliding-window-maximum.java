@@ -1,39 +1,33 @@
+
+import java.util.*;
+
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-         int n = nums.length;
-        int[] nge = new int[n];   
-        Stack<Integer> stack = new Stack<>();
-
-        for (int i = n - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && nums[stack.peek()] <= nums[i]) {
-                stack.pop();
-            }
-
-            if (stack.isEmpty()) {
-                nge[i] = n;
-            } else {
-                nge[i] = stack.peek();
-            }
-
-            stack.push(i);
-        }
-
+        int n = nums.length;
         int[] result = new int[n - k + 1];
-        int j = 0;
 
-        for (int i = 0; i <= n - k; i++) {
+        Deque<Integer> deque = new ArrayDeque<>();
+        int idx = 0;
 
-            if (j < i) {
-                j = i;
+        for (int i = 0; i < n; i++) {
+            while (!deque.isEmpty() && deque.peekFirst() <= i - k) {
+                deque.pollFirst();
             }
-
-            while (nge[j] < i + k) {
-                j = nge[j];
+            while (!deque.isEmpty() &&
+                   nums[deque.peekLast()] <= nums[i]) {
+                deque.pollLast();
             }
-
-            result[i] = nums[j];
+            deque.offerLast(i);
+            if (i >= k - 1) {
+                result[idx++] = nums[deque.peekFirst()];
+            }
         }
 
         return result;
     }
 }
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

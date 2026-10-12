@@ -1,28 +1,27 @@
+
 class Solution {
-
-    private int count = 0;
-
     public int kthSmallest(TreeNode root, int k) {
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode current = root;
 
-        if (root == null) {
-            return -1;
+        while (current != null || !stack.isEmpty()) {
+            while (current != null) {
+                stack.push(current);
+                current = current.left;
+            }
+            current = stack.pop();
+            k--;
+
+            if (k == 0) {
+                return current.val;
+            }
+            current = current.right;
         }
 
-        int left = kthSmallest(root.left, k);
-
-        if (left != -1) {
-            return left;
-        }
-
-        count++;
-
-        if (count == k) {
-            return root.val;
-        }
-
-        return kthSmallest(root.right, k);
+        return -1;
     }
 }
+
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4

@@ -6,20 +6,20 @@ class Solution {
         int n = nums.length;
         int[] result = new int[n - k + 1];
 
-        Deque<Integer> deque = new ArrayDeque<>();
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>(
+            (a, b) -> Integer.compare(b[0], a[0])
+        );
+
         int idx = 0;
 
         for (int i = 0; i < n; i++) {
-            while (!deque.isEmpty() && deque.peekFirst() <= i - k) {
-                deque.pollFirst();
+            maxHeap.offer(new int[]{nums[i], i});
+            while (!maxHeap.isEmpty() &&
+                   maxHeap.peek()[1] <= i - k) {
+                maxHeap.poll();
             }
-            while (!deque.isEmpty() &&
-                   nums[deque.peekLast()] <= nums[i]) {
-                deque.pollLast();
-            }
-            deque.offerLast(i);
             if (i >= k - 1) {
-                result[idx++] = nums[deque.peekFirst()];
+                result[idx++] = maxHeap.peek()[0];
             }
         }
 

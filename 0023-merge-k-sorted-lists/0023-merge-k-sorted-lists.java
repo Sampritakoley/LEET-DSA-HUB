@@ -1,31 +1,35 @@
+
+import java.util.PriorityQueue;
+
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
 
-        PriorityQueue<ListNode> pq =
-                new PriorityQueue<>((a, b) -> a.val - b.val);
-
+        PriorityQueue<ListNode> minHeap = new PriorityQueue<>(
+            (a, b) -> Integer.compare(a.val, b.val)
+        );
+        
         for (ListNode node : lists) {
-            if (node != null)
-                pq.offer(node);
+            if (node != null) {
+                minHeap.offer(node);
+            }
         }
 
         ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
+        ListNode current = dummy;
+        while (!minHeap.isEmpty()) {
+            ListNode smallest = minHeap.poll();
 
-        while (!pq.isEmpty()) {
-
-            ListNode curr = pq.poll();
-
-            tail.next = curr;
-            tail = tail.next;
-
-            if (curr.next != null)
-                pq.offer(curr.next);
+            current.next = smallest;
+            current = current.next;
+            if (smallest.next != null) {
+                minHeap.offer(smallest.next);
+            }
         }
 
         return dummy.next;
     }
 }
+
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4

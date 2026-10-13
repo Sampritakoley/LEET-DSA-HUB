@@ -31,9 +31,7 @@ class Solution {
                 if (freq.get(card) == 0) {
                     freq.remove(card);
 
-                    if (card != minHeap.peek()) {
-                        return false;
-                    }
+                    
 
                     minHeap.poll();
                 }

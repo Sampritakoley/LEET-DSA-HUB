@@ -1,30 +1,32 @@
 
+import java.util.*;
+
 class Solution {
-
     public boolean carPooling(int[][] trips, int capacity) {
+        Arrays.sort(trips, (a, b) ->
+            Integer.compare(a[1], b[1])
+        );
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>(
+            (a, b) -> Integer.compare(a[0], b[0])
+        );
 
-     
-        int[] changes = new int[1001];
+        int passengers = 0;
 
         for (int[] trip : trips) {
+            int count = trip[0];
+            int start = trip[1];
+            int end = trip[2];
+            while (!minHeap.isEmpty()
+                    && minHeap.peek()[0] <= start) {
 
-            int passengers = trip[0];
-            int from = trip[1];
-            int to = trip[2];
-
-            changes[from] += passengers;
-            changes[to] -= passengers;
-        }
-
-        int currentPassengers = 0;
-
-        for (int location = 0; location <= 1000; location++) {
-
-            currentPassengers += changes[location];
-
-            if (currentPassengers > capacity) {
+                int[] endedTrip = minHeap.poll();
+                passengers -= endedTrip[1];
+            }
+            passengers += count;
+            if (passengers > capacity) {
                 return false;
             }
+            minHeap.offer(new int[]{end, count});
         }
 
         return true;

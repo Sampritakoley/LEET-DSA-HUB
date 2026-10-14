@@ -914,6 +914,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
@@ -1098,6 +1099,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
+| [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1149,6 +1151,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
+| [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1705,6 +1708,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 ## Linked List
 |  |
 | ------- |
@@ -1843,6 +1847,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
+| [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 ## Bidirectional Search
 |  |
 | ------- |

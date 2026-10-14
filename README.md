@@ -196,6 +196,7 @@
 | [1306-jump-game-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -422,6 +423,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1252-break-a-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1252-break-a-palindrome) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -822,6 +824,7 @@
 | [1096-brace-expansion-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1122-relative-sort-array) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -1096,6 +1099,7 @@
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1094-car-pooling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |

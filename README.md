@@ -221,6 +221,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
@@ -656,6 +657,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -837,6 +839,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1552-magnetic-force-between-two-balls) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
@@ -1111,6 +1114,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1957,6 +1961,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0986-interval-list-intersections](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0986-interval-list-intersections) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Z Algorithm
 |  |
 | ------- |

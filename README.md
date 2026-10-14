@@ -223,6 +223,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -457,6 +458,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2439-minimize-maximum-of-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2439-minimize-maximum-of-array) |
 ## Divide and Conquer
 |  |
@@ -533,6 +535,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -596,6 +599,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1922-count-good-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1922-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -840,6 +844,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2402-meeting-rooms-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
@@ -1115,6 +1120,7 @@
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |

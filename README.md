@@ -221,6 +221,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1834-single-threaded-cpu](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -843,6 +844,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1552-magnetic-force-between-two-balls) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
+| [1834-single-threaded-cpu](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -1119,6 +1121,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
+| [1834-single-threaded-cpu](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |

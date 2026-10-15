@@ -1,45 +1,32 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
+
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy=new ListNode(0);
-        ListNode l1=list1;
-        ListNode l2=list2;
-        ListNode temp=dummy;
-        while(l1!=null && l2!=null){
-            if(l1.val<l2.val){
-                temp.next=l1;
-                l1=l1.next;
-            }else {
-                temp.next=l2;
-                l2=l2.next;
+
+        ListNode dummy = new ListNode(-1);
+        ListNode current = dummy;
+
+        while (list1 != null && list2 != null) {
+
+            if (list1.val <= list2.val) {
+                current.next = list1;
+                list1 = list1.next;
+            } else {
+                current.next = list2;
+                list2 = list2.next;
             }
-            temp = temp.next;
-        }
 
-        while(l1!=null){
-            temp.next=l1;
-            l1=l1.next;
-            temp = temp.next;
+            current = current.next;
         }
-
-        while(l2!=null){
-            temp.next=l2;
-            l2=l2.next;
-            temp = temp.next;
+        if (list1 != null) {
+            current.next = list1;
+        } else {
+            current.next = list2;
         }
 
         return dummy.next;
     }
 }
+
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4

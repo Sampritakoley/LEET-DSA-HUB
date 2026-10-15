@@ -4,25 +4,17 @@ import java.util.*;
 class Solution {
     public int minOperations(int[] nums, int[] numsDivide) {
         int gcd = numsDivide[0];
+
         for (int num : numsDivide) {
             gcd = findGCD(gcd, num);
         }
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
-        for (int num : nums) {
-            minHeap.offer(num);
-        }
-        int deletions = 0;
+        Arrays.sort(nums);
 
-
-        while (!minHeap.isEmpty()) {
-            int num = minHeap.poll();
-
-            if (gcd % num == 0) {
-                return deletions;
+        for (int i = 0; i < nums.length; i++) {
+            if (gcd % nums[i] == 0) {
+                return i;
             }
-
-            deletions++;
         }
 
         return -1;

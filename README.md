@@ -215,6 +215,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1584-min-cost-to-connect-all-points) |
+| [1598-crawler-log-folder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1598-crawler-log-folder) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -771,6 +772,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
+| [1598-crawler-log-folder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -1056,6 +1058,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1598-crawler-log-folder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |

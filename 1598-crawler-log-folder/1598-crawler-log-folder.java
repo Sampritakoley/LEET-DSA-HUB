@@ -1,27 +1,25 @@
 
-import java.util.*;
-
 class Solution {
     public int minOperations(String[] logs) {
 
-        Stack<String> st = new Stack<>();
+        int depth = 0;
 
         for (String log : logs) {
 
             if (log.equals("../")) {
-                if (!st.isEmpty()) {
-                    st.pop();
+                if (depth > 0) {
+                    depth--;
                 }
             }
             else if (log.equals("./")) {
                 continue;
             }
             else {
-                st.push(log);
+                depth++;
             }
         }
 
-        return st.size();
+        return depth;
     }
 }
 

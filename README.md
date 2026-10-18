@@ -224,6 +224,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
+| [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -402,6 +403,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
 | [2050-parallel-courses-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2050-parallel-courses-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1121,6 +1123,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0933-number-of-recent-calls) |
+| [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
@@ -1157,6 +1160,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
+| [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
 | [1834-single-threaded-cpu](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1173,6 +1177,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
+| [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
 ## Union Find
 |  |
 | ------- |

@@ -119,6 +119,7 @@
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0643-maximum-average-subarray-i) |
@@ -1107,6 +1108,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
@@ -1749,6 +1751,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
 | [0677-map-sum-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
@@ -1790,6 +1793,7 @@
 | [0328-odd-even-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0876-middle-of-the-linked-list) |

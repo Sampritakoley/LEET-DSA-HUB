@@ -430,6 +430,7 @@
 | [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0846-hand-of-straights) |
@@ -1031,6 +1032,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0649-dota2-senate) |
 | [0677-map-sum-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0677-map-sum-pairs) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0692-top-k-frequent-words) |
@@ -1111,6 +1113,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |

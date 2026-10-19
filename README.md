@@ -170,6 +170,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0934-shortest-bridge) |
 | [0945-snakes-and-ladders](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0945-snakes-and-ladders) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
@@ -572,6 +573,7 @@
 | [0735-asteroid-collision](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0867-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1094-car-pooling) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -853,6 +855,7 @@
 | [0791-custom-sort-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1126,6 +1129,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1425-constrained-subsequence-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1425-constrained-subsequence-sum) |
 | [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |

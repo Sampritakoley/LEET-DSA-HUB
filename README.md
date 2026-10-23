@@ -1261,6 +1261,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Depth-First Search
@@ -1311,6 +1312,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
@@ -1550,6 +1552,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1608,6 +1611,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
@@ -1711,6 +1715,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0623-add-one-row-to-tree) |

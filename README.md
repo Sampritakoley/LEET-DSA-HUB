@@ -971,6 +971,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1345-jump-game-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
@@ -1090,6 +1091,7 @@
 | [1252-break-a-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1252-break-a-palindrome) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1416-restore-the-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1416-restore-the-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -1130,6 +1132,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1425-constrained-subsequence-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

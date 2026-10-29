@@ -71,6 +71,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
@@ -934,6 +935,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0290-word-pattern) |
@@ -1137,6 +1139,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0413-arithmetic-slices) |

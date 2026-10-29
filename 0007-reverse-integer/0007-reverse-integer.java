@@ -6,12 +6,13 @@ class Solution {
             int digit = x % 10;
             x /= 10;
 
-            if (reversed > Integer.MAX_VALUE / 10 || 
-               (reversed == Integer.MAX_VALUE / 10 && digit > 7)) {
+            if (reversed > Integer.MAX_VALUE / 10 ||
+                (reversed == Integer.MAX_VALUE / 10 && digit > 7)) {
                 return 0;
             }
-            if (reversed < Integer.MIN_VALUE / 10 || 
-               (reversed == Integer.MIN_VALUE / 10 && digit < -8)) {
+
+            if (reversed < Integer.MIN_VALUE / 10 ||
+                (reversed == Integer.MIN_VALUE / 10 && digit < -8)) {
                 return 0;
             }
 
@@ -21,3 +22,7 @@ class Solution {
         return reversed;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

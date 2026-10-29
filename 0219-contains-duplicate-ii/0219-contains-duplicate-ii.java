@@ -1,23 +1,18 @@
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-         Map<Integer,Integer> freq=new HashMap<>();
-         int size=k+1;
-         for(int i=0;i<nums.length;i++){
-            freq.put(nums[i],freq.getOrDefault(nums[i],0)+1);
-            if(i>size-1){
-              int outgoing=nums[i-size];
-              int count=freq.get(outgoing);
-              if(count==1){
-                freq.remove(outgoing);
-              }else{
-                freq.put(outgoing,count-1);
-              }
+        Set<Integer> set = new HashSet<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            if (i > k) {
+                set.remove(nums[i - k - 1]);
             }
-            if(freq.get(nums[i])>1){
+
+            if (!set.add(nums[i])) {
                 return true;
             }
-         }
-         return false;
+        }
+
+        return false;
     }
 }
 

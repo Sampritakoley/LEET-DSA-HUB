@@ -233,6 +233,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
+| [1695-maximum-erasure-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1695-maximum-erasure-value) |
 | [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -995,6 +996,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1695-maximum-erasure-value) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1166,6 +1168,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue

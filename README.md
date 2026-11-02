@@ -181,6 +181,7 @@
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0978-valid-mountain-array) |
 | [0986-interval-list-intersections](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0986-interval-list-intersections) |
@@ -402,6 +403,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
+| [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1143-longest-common-subsequence) |
@@ -805,6 +807,7 @@
 | [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-sum-of-subarray-minimums) |
+| [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1019-next-greater-node-in-linked-list) |
@@ -839,6 +842,7 @@
 | [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-sum-of-subarray-minimums) |
+| [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1019-next-greater-node-in-linked-list) |
 | [1124-longest-well-performing-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1124-longest-well-performing-interval) |
@@ -885,6 +889,7 @@
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
+| [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
@@ -1285,6 +1290,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
+| [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 ## Combinatorics
 |  |

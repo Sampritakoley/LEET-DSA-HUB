@@ -1,7 +1,7 @@
 class Solution {
 
-    List<Integer> result = new ArrayList<>();
     int index = 0;
+    List<Integer> flips = new ArrayList<>();
 
     public List<Integer> flipMatchVoyage(TreeNode root, int[] voyage) {
 
@@ -9,28 +9,32 @@ class Solution {
             return Arrays.asList(-1);
         }
 
-        return result;
+        return flips;
     }
 
-    private boolean dfs(TreeNode root, int[] voyage) {
+    private boolean dfs(TreeNode node, int[] voyage) {
 
-        if (root == null) {
+        if (node == null) {
             return true;
         }
-        if (index >= voyage.length || root.val != voyage[index]) {
+        if (index >= voyage.length || node.val != voyage[index]) {
             return false;
         }
-
         index++;
-        if (root.left != null &&
+        if (node.left != null &&
             index < voyage.length &&
-            root.left.val != voyage[index]) {
-            result.add(root.val);
-            return dfs(root.right, voyage) &&
-                   dfs(root.left, voyage);
+            node.left.val != voyage[index]) {
+            if (node.right == null ||
+                node.right.val != voyage[index]) {
+                return false;
+            }
+            flips.add(node.val);
+            TreeNode temp = node.left;
+            node.left = node.right;
+            node.right = temp;
         }
-        return dfs(root.left, voyage) &&
-               dfs(root.right, voyage);
+        return dfs(node.left, voyage) &&
+               dfs(node.right, voyage);
     }
 }
 

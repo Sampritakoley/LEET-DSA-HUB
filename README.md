@@ -1395,6 +1395,7 @@
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
 | [0965-univalued-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1686,6 +1687,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0998-maximum-binary-tree-ii) |
@@ -1788,6 +1790,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0998-maximum-binary-tree-ii) |

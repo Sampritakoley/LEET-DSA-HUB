@@ -460,6 +460,7 @@
 | [0846-hand-of-straights](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1252-break-a-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1252-break-a-palindrome) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -815,6 +816,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1096-brace-expansion-ii) |
 | [1124-longest-well-performing-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1124-longest-well-performing-interval) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -850,6 +852,7 @@
 | [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1124-longest-well-performing-interval) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sorting
@@ -1114,6 +1117,7 @@
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1143-longest-common-subsequence) |

@@ -459,6 +459,7 @@
 | [0767-reorganize-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1252-break-a-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1252-break-a-palindrome) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -809,6 +810,7 @@
 | [0897-increasing-order-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1103,6 +1105,7 @@
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-buddy-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |
@@ -2157,6 +2160,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

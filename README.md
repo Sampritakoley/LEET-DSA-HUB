@@ -250,6 +250,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2050-parallel-courses-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2050-parallel-courses-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -834,6 +835,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -861,6 +863,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1124-longest-well-performing-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1124-longest-well-performing-interval) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Sorting
 |  |

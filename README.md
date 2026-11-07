@@ -273,6 +273,7 @@
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -481,6 +482,7 @@
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Prefix Sum
 |  |
@@ -656,6 +658,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -727,6 +730,7 @@
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Backtracking
@@ -1262,6 +1266,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2402-meeting-rooms-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |

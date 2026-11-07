@@ -387,6 +387,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -456,6 +457,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0846-hand-of-straights) |
@@ -804,6 +806,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0636-exclusive-time-of-functions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0844-backspace-string-compare) |
@@ -1101,6 +1104,7 @@
 | [0648-replace-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0649-dota2-senate) |
 | [0677-map-sum-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0677-map-sum-pairs) |
+| [0678-valid-parenthesis-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -2169,6 +2173,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

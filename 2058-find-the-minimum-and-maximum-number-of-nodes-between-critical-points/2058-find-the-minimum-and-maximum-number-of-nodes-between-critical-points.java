@@ -3,7 +3,7 @@ class Solution {
         int first = -1;
         int prev = -1;
         int minDist = Integer.MAX_VALUE;
-        int position = 1;
+        int position = 0;
         ListNode prevNode = head;
         ListNode curr = head.next;
         while (curr != null && curr.next != null) {

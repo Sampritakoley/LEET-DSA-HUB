@@ -974,6 +974,7 @@
 | [0290-word-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1234,6 +1235,7 @@
 | [0264-ugly-number-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
@@ -1896,6 +1898,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0677-map-sum-pairs) |
@@ -1940,6 +1943,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |

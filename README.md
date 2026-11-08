@@ -137,6 +137,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -986,6 +987,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
 | [0677-map-sum-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0740-delete-and-earn) |
@@ -1634,6 +1636,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1894,6 +1897,7 @@
 | [0641-design-circular-deque](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
@@ -1936,6 +1940,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0876-middle-of-the-linked-list) |

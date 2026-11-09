@@ -1405,6 +1405,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
@@ -1713,6 +1714,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1761,6 +1763,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1819,6 +1822,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0701-insert-into-a-binary-search-tree) |

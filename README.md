@@ -311,6 +311,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
@@ -385,6 +386,7 @@
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0413-arithmetic-slices) |
@@ -1116,6 +1118,7 @@
 | [0344-reverse-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0402-remove-k-digits) |

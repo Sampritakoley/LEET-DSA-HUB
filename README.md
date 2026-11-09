@@ -1456,6 +1456,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1462-course-schedule-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1744,6 +1745,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -1849,6 +1851,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -2189,6 +2192,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Binary Lifting
 |  |
 | ------- |

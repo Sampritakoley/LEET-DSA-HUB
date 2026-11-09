@@ -262,6 +262,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -328,6 +329,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
@@ -619,6 +621,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2073-time-needed-to-buy-tickets) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2402-meeting-rooms-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2402-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |

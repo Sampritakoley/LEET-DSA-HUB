@@ -328,6 +328,7 @@
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
@@ -1176,6 +1177,7 @@
 | [1598-crawler-log-folder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1768-merge-strings-alternately](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1768-merge-strings-alternately) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |

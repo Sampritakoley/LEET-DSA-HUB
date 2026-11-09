@@ -1464,6 +1464,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1749,6 +1750,7 @@
 | [1609-even-odd-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1855,6 +1857,7 @@
 | [1609-even-odd-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Trie
 |  |

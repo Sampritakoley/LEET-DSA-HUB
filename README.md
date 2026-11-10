@@ -202,6 +202,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1019-next-greater-node-in-linked-list) |
 | [1036-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1036-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
+| [1052-grumpy-bookstore-owner](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1052-grumpy-bookstore-owner) |
 | [1073-number-of-enclaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1094-car-pooling) |
@@ -1243,6 +1244,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0992-subarrays-with-k-different-integers) |
+| [1052-grumpy-bookstore-owner](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1358-number-of-substrings-containing-all-three-characters) |

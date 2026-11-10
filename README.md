@@ -552,6 +552,7 @@
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -802,6 +803,7 @@
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
@@ -1056,6 +1058,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1695-maximum-erasure-value) |
+| [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1189,6 +1192,7 @@
 | [1598-crawler-log-folder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
+| [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1768-merge-strings-alternately) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -1235,6 +1239,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1695-maximum-erasure-value) |
+| [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2762-continuous-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2762-continuous-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |

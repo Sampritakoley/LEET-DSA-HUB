@@ -197,6 +197,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1019-next-greater-node-in-linked-list) |
@@ -522,6 +523,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1094-car-pooling) |
 | [1124-longest-well-performing-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
@@ -733,6 +735,7 @@
 | [0875-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1244,6 +1247,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |

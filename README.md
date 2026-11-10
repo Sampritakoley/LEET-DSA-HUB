@@ -66,6 +66,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0212-word-search-ii) |
@@ -317,6 +318,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0345-reverse-vowels-of-a-string) |
@@ -661,6 +663,7 @@
 | [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |

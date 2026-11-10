@@ -320,6 +320,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0658-find-k-closest-elements) |
@@ -1011,6 +1012,7 @@
 | [0496-next-greater-element-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1143,6 +1145,7 @@
 | [0474-ones-and-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0516-longest-palindromic-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0647-palindromic-substrings) |
@@ -1222,6 +1225,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0413-arithmetic-slices) |
+| [0567-permutation-in-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0643-maximum-average-subarray-i) |

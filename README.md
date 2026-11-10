@@ -457,6 +457,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1696-jump-game-vi](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1696-jump-game-vi) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2050-parallel-courses-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2050-parallel-courses-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -1216,6 +1217,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -1265,6 +1267,7 @@
 | [1695-maximum-erasure-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1695-maximum-erasure-value) |
 | [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2762-continuous-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |

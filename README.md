@@ -282,6 +282,7 @@
 | [2737-row-with-maximum-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2737-row-with-maximum-ones) |
 | [2762-continuous-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
@@ -1069,6 +1070,7 @@
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1242,6 +1244,7 @@
 | [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2762-continuous-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2762-continuous-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |

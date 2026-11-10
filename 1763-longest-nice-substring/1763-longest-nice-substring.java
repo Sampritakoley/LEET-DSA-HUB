@@ -2,8 +2,9 @@
 class Solution {
     public String longestNiceSubstring(String s) {
 
-    
-
+        if (s.length() < 2) {
+            return "";
+        }
         boolean[] seen = new boolean[128];
         for (int i = 0; i < s.length(); i++) {
             seen[s.charAt(i)] = true;

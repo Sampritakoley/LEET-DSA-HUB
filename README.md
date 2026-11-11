@@ -69,6 +69,7 @@
 | [0189-rotate-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0215-kth-largest-element-in-an-array) |
@@ -665,6 +666,7 @@
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1402,6 +1404,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0845-longest-mountain-in-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -2311,6 +2314,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bitmask
@@ -2345,4 +2349,16 @@
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

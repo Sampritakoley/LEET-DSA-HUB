@@ -1,10 +1,7 @@
 class Solution {
     public int trap(int[] height) {
-
         Stack<Integer> stack = new Stack<>();
-
         int water = 0;
-
         for (int i = 0; i < height.length; i++) {
 
             while (!stack.isEmpty()

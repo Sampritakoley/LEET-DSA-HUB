@@ -673,6 +673,7 @@
 | [0264-ugly-number-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0343-integer-break/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
@@ -1454,6 +1455,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0337-house-robber-iii/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1588,6 +1590,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0407-trapping-rain-water-ii) |
@@ -2345,10 +2348,12 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Primality Test
 |  |
@@ -2362,4 +2367,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->

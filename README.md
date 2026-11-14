@@ -672,6 +672,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0343-integer-break/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
@@ -2379,5 +2380,22 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0319-bulb-switcher) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

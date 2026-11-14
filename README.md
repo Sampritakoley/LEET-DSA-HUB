@@ -689,6 +689,7 @@
 | [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -754,6 +755,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1408,6 +1410,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
@@ -2329,6 +2332,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bitmask
@@ -2360,12 +2364,14 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Primality Test
 |  |
@@ -2413,8 +2419,10 @@
 | ------- |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
+| [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->

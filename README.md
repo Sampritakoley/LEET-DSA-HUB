@@ -686,6 +686,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0829-consecutive-numbers-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0829-consecutive-numbers-sum) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
+| [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
@@ -748,6 +749,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0875-koko-eating-bananas) |
+| [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
@@ -2410,4 +2412,9 @@
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
+| [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->

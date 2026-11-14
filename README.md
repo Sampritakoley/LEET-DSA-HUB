@@ -679,6 +679,7 @@
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
+| [0483-smallest-good-base](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0483-smallest-good-base) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
@@ -732,6 +733,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |
+| [0483-smallest-good-base](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0483-smallest-good-base) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |

@@ -17,8 +17,6 @@ class Solution {
         );
 
         Set<BigInteger> candidates = new HashSet<>();
-
-        // Boundary candidates
         candidates.add(
             BigInteger.TEN.pow(len - 1)
                 .subtract(BigInteger.ONE)
@@ -28,8 +26,6 @@ class Solution {
             BigInteger.TEN.pow(len)
                 .add(BigInteger.ONE)
         );
-
-        // Generate palindromes using prefix - 1, prefix, prefix + 1
         for (int i = -1; i <= 1; i++) {
 
             BigInteger newPrefix = prefix.add(
@@ -48,8 +44,6 @@ class Solution {
         BigInteger minDiff = null;
 
         for (BigInteger candidate : candidates) {
-
-            // Original number cannot be the answer
             if (candidate.equals(original)) {
                 continue;
             }

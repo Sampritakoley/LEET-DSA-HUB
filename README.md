@@ -667,6 +667,7 @@
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
@@ -1144,6 +1145,7 @@
 | [0140-word-break-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |

@@ -671,6 +671,7 @@
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0264-ugly-number-ii) |
+| [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0319-bulb-switcher) |
@@ -1148,6 +1149,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
@@ -1714,6 +1716,7 @@
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1922-count-good-numbers) |

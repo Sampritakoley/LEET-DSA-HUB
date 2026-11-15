@@ -490,6 +490,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0767-reorganize-string) |
@@ -688,6 +689,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0670-maximum-swap) |
 | [0829-consecutive-numbers-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0829-consecutive-numbers-sum) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |

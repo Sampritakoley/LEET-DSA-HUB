@@ -386,6 +386,7 @@
 | [0198-house-robber](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
@@ -673,6 +674,7 @@
 | [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |
@@ -1723,6 +1725,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |

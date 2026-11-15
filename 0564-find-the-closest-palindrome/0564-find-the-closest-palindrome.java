@@ -1,40 +1,91 @@
+
+import java.math.BigInteger;
+import java.util.*;
+
 class Solution {
+
     public String nearestPalindromic(String n) {
-        long num = Long.parseLong(n);
+
         int len = n.length();
-        Set<Long> candidates = new HashSet<>();
 
-        candidates.add((long)Math.pow(10, len) + 1);
-        candidates.add((long)Math.pow(10, len - 1) - 1);
+        int half = (len + 1) / 2;
 
-        long prefix = Long.parseLong(n.substring(0, (len + 1) / 2));
-        for (long i = prefix - 1; i <= prefix + 1; i++) {
-            StringBuilder sb = new StringBuilder();
-            String p = String.valueOf(i);
-            sb.append(p);
+        BigInteger original = new BigInteger(n);
 
-            String rev = new StringBuilder(p).reverse().toString();
-            if (len % 2 == 0) {
-                sb.append(rev);
-            } else {
-                sb.append(rev.substring(1));
-            }
+        BigInteger prefix = new BigInteger(
+            n.substring(0, half)
+        );
 
-            candidates.add(Long.parseLong(sb.toString()));
+        Set<BigInteger> candidates = new HashSet<>();
+
+        // Boundary candidates
+        candidates.add(
+            BigInteger.TEN.pow(len - 1)
+                .subtract(BigInteger.ONE)
+        );
+
+        candidates.add(
+            BigInteger.TEN.pow(len)
+                .add(BigInteger.ONE)
+        );
+
+        // Generate palindromes using prefix - 1, prefix, prefix + 1
+        for (int i = -1; i <= 1; i++) {
+
+            BigInteger newPrefix = prefix.add(
+                BigInteger.valueOf(i)
+            );
+
+            String palindrome = makePalindrome(
+                newPrefix.toString(),
+                len
+            );
+
+            candidates.add(new BigInteger(palindrome));
         }
 
-        long closest = -1;
-        long minDiff = Long.MAX_VALUE;
+        BigInteger answer = null;
+        BigInteger minDiff = null;
 
-        for (long cand : candidates) {
-            if (cand == num) continue;
-            long diff = Math.abs(cand - num);
-            if (diff < minDiff || (diff == minDiff && cand < closest)) {
+        for (BigInteger candidate : candidates) {
+
+            // Original number cannot be the answer
+            if (candidate.equals(original)) {
+                continue;
+            }
+
+            BigInteger diff = candidate.subtract(original).abs();
+
+            if (minDiff == null ||
+                diff.compareTo(minDiff) < 0 ||
+                (diff.equals(minDiff) &&
+                 candidate.compareTo(answer) < 0)) {
+
                 minDiff = diff;
-                closest = cand;
+                answer = candidate;
             }
         }
 
-        return String.valueOf(closest);
+        return answer.toString();
+    }
+
+    private String makePalindrome(String prefix, int len) {
+
+        StringBuilder sb = new StringBuilder(prefix);
+
+        int start = (len % 2 == 0)
+                    ? prefix.length() - 1
+                    : prefix.length() - 2;
+
+        for (int i = start; i >= 0; i--) {
+            sb.append(prefix.charAt(i));
+        }
+
+        return sb.toString();
     }
 }
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna

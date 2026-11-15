@@ -666,6 +666,7 @@
 | [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0224-basic-calculator) |
@@ -1021,6 +1022,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0219-contains-duplicate-ii) |
@@ -1141,6 +1143,7 @@
 | [0139-word-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0211-design-add-and-search-words-data-structure) |

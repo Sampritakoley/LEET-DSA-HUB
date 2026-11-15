@@ -34,13 +34,8 @@ class Solution {
             int chunk = num % 1000;
 
             if (chunk != 0) {
-
                 String words = convert(chunk);
-
-                result.insert(
-                    0,
-                    words + " " + thousands[group] + " "
-                );
+                result.insert(0,words + " " + thousands[group] + " ");
             }
 
             num /= 1000;
@@ -61,14 +56,10 @@ class Solution {
         }
 
         if (num < 100) {
-
-            return tens[num / 10] + " " +
-                   convert(num % 10);
+            return tens[num / 10] + " " +convert(num % 10);
         }
 
-        return belowTwenty[num / 100] +
-               " Hundred " +
-               convert(num % 100);
+        return belowTwenty[num / 100] +" Hundred " +convert(num % 100);
     }
 }
 

@@ -685,6 +685,7 @@
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
+| [0400-nth-digit](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
 | [0483-smallest-good-base](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0483-smallest-good-base) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
@@ -740,6 +741,7 @@
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |

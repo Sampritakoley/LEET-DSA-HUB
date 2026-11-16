@@ -1,33 +1,22 @@
 
 class Solution {
-
     public int countDigitOne(int n) {
 
-        long count = 0;
+        int ans = 0;
 
-        for (long factor = 1; factor <= n; factor *= 10) {
+        for (long i = 1; i <= n; i *= 10) {
 
-            long high = n / (factor * 10);
+            long div = i * 10;
 
-            long current = (n / factor) % 10;
-
-            long low = n % factor;
-
-            if (current == 0) {
-
-                count += high * factor;
-
-            } else if (current == 1) {
-
-                count += high * factor + low + 1;
-
-            } else {
-
-                count += (high + 1) * factor;
+            long q = n / div;
+            long rem = n % div;
+            ans += q * i;
+            if (rem >= i) {
+                ans += Math.min(rem - i + 1, i);
             }
         }
 
-        return (int) count;
+        return ans;
     }
 }
 

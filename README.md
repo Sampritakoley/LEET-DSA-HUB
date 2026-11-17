@@ -682,6 +682,7 @@
 | [0279-perfect-squares](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0343-integer-break/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
@@ -1733,6 +1734,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1922-count-good-numbers) |

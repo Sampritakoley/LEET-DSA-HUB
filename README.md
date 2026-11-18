@@ -697,6 +697,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0670-maximum-swap) |
 | [0754-reach-a-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0754-reach-a-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0779-k-th-symbol-in-grammar) |
 | [0829-consecutive-numbers-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0829-consecutive-numbers-sum) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
@@ -840,6 +841,7 @@
 | [0090-subsets-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0338-counting-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0779-k-th-symbol-in-grammar) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1738,6 +1740,7 @@
 | [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1922-count-good-numbers) |
 ## Rolling Hash

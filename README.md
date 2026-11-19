@@ -369,6 +369,7 @@
 | [0085-maximal-rectangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0118-pascals-triangle) |
@@ -669,6 +670,7 @@
 | [0069-sqrtx](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0168-excel-sheet-column-title) |
@@ -1781,6 +1783,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0100-same-tree) |
@@ -1874,6 +1877,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1895,6 +1899,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0100-same-tree) |

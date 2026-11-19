@@ -400,6 +400,7 @@
 | [0338-counting-bits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0343-integer-break/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0377-combination-sum-iv) |
@@ -687,6 +688,7 @@
 | [0319-bulb-switcher](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/0343-integer-break/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
@@ -830,6 +832,7 @@
 | [0257-binary-tree-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0494-target-sum) |
 | [0773-sliding-puzzle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0797-all-paths-from-source-to-target) |

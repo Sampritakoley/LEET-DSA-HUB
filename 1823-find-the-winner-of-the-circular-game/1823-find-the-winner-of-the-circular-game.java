@@ -1,38 +1,14 @@
 class Solution {
-
     public int findTheWinner(int n, int k) {
 
-        Node head = new Node(1);
-        Node tail = head;
+        int winner = 0;
 
-        for (int i = 2; i <= n; i++) {
-            tail.next = new Node(i);
-            tail = tail.next;
+        for (int i = 1; i <= n; i++) {
+
+            winner = (winner + k) % i;
         }
 
-        tail.next = head;
-
-        Node curr = head;
-        Node prev = tail;
-        while (curr.next != curr) {
-            for (int i = 1; i < k; i++) {
-                prev = curr;
-                curr = curr.next;
-            }
-            prev.next = curr.next;
-            curr = curr.next;
-        }
-
-        return curr.val;
-    }
-
-    static class Node {
-        int val;
-        Node next;
-
-        Node(int val) {
-            this.val = val;
-        }
+        return winner + 1;
     }
 }
 

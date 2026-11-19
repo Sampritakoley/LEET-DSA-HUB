@@ -689,6 +689,7 @@
 | [0367-valid-perfect-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0372-super-pow) |
+| [0390-elimination-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
 | [0483-smallest-good-base](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0483-smallest-good-base) |
@@ -1742,6 +1743,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |

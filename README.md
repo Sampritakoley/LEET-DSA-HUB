@@ -704,6 +704,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0672-bulb-switcher-ii) |
 | [0754-reach-a-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0754-reach-a-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0779-k-th-symbol-in-grammar) |
 | [0829-consecutive-numbers-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0829-consecutive-numbers-sum) |
@@ -852,6 +853,7 @@
 | [0090-subsets-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0338-counting-bits) |
+| [0672-bulb-switcher-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0672-bulb-switcher-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0779-k-th-symbol-in-grammar) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
@@ -1523,6 +1525,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0669-trim-a-binary-search-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
@@ -1650,6 +1653,7 @@
 | [0623-add-one-row-to-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0662-maximum-width-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0721-accounts-merge) |

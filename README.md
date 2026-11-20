@@ -700,6 +700,7 @@
 | [0390-elimination-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0445-add-two-numbers-ii) |
+| [0470-implement-rand10-using-rand7](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0470-implement-rand10-using-rand7) |
 | [0483-smallest-good-base](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0483-smallest-good-base) |
 | [0509-fibonacci-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
@@ -2487,5 +2488,14 @@
 ## Randomized
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0470-implement-rand10-using-rand7) |
 | [0528-random-pick-with-weight](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0528-random-pick-with-weight) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->

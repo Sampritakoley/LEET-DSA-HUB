@@ -442,6 +442,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
+| [1012-numbers-with-repeated-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1012-numbers-with-repeated-digits) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1143-longest-common-subsequence) |
@@ -710,6 +711,7 @@
 | [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
+| [1012-numbers-with-repeated-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1012-numbers-with-repeated-digits) |
 | [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |

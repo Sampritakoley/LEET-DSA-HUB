@@ -58,6 +58,7 @@
 | [0135-candy](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -676,6 +677,7 @@
 | [0070-climbing-stairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0168-excel-sheet-column-title) |
@@ -1054,6 +1056,7 @@
 | [0141-linked-list-cycle](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0205-isomorphic-strings) |
@@ -2346,6 +2349,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -2415,12 +2419,14 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0365-water-and-jug-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0365-water-and-jug-problem) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |

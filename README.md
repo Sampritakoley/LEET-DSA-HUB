@@ -216,6 +216,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1162-as-far-from-land-as-possible) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
 | [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -722,6 +723,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1012-numbers-with-repeated-digits) |
 | [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -2356,6 +2358,7 @@
 | [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1610-maximum-number-of-visible-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1610-maximum-number-of-visible-points) |
 ## Bracket Sequences

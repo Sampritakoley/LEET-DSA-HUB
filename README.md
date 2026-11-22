@@ -127,6 +127,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0622-design-circular-queue) |
@@ -710,6 +711,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0528-random-pick-with-weight) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
 | [0633-sum-of-square-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0670-maximum-swap) |
@@ -2356,6 +2358,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
+| [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -2512,4 +2515,12 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0470-implement-rand10-using-rand7) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->

@@ -712,6 +712,7 @@
 | [0528-random-pick-with-weight](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0528-random-pick-with-weight) |
 | [0564-find-the-closest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0670-maximum-swap) |
@@ -2359,6 +2360,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0593-valid-square) |
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1232-check-if-it-is-a-straight-line) |

@@ -246,6 +246,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1584-min-cost-to-connect-all-points) |
 | [1598-crawler-log-folder](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1598-crawler-log-folder) |
+| [1610-maximum-number-of-visible-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1610-maximum-number-of-visible-points) |
 | [1631-path-with-minimum-effort](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -724,6 +725,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1610-maximum-number-of-visible-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1610-maximum-number-of-visible-points) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1020,6 +1022,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1552-magnetic-force-between-two-balls) |
+| [1610-maximum-number-of-visible-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1610-maximum-number-of-visible-points) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1777-determine-if-two-strings-are-close) |
 | [1834-single-threaded-cpu](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1834-single-threaded-cpu) |
@@ -1320,6 +1323,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1610-maximum-number-of-visible-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1610-maximum-number-of-visible-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1695-maximum-erasure-value) |
 | [1763-longest-nice-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1763-longest-nice-substring) |
@@ -2353,6 +2357,7 @@
 | [0858-mirror-reflection](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0858-mirror-reflection) |
 | [0973-k-closest-points-to-origin](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1610-maximum-number-of-visible-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1610-maximum-number-of-visible-points) |
 ## Bracket Sequences
 |  |
 | ------- |

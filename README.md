@@ -286,6 +286,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2439-minimize-maximum-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
+| [2540-minimum-common-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -353,6 +354,7 @@
 | [1768-merge-strings-alternately](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -823,6 +825,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2498-frog-jump-ii) |
+| [2540-minimum-common-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2540-minimum-common-value) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1151,6 +1154,7 @@
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2448-count-number-of-bad-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |

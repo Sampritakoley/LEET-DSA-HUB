@@ -2,7 +2,6 @@
 class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
 
-        // Iterate over the smaller array
         if (nums1.length > nums2.length) {
             return getCommon(nums2, nums1);
         }

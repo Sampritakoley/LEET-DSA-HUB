@@ -296,6 +296,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -358,6 +359,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
+| [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -562,6 +564,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2439-minimize-maximum-of-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2439-minimize-maximum-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -836,6 +839,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

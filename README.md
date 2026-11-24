@@ -304,6 +304,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Two Pointers
 |  |
 | ------- |
@@ -359,6 +360,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -753,6 +755,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Search
 |  |
 | ------- |
@@ -836,6 +839,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Backtracking
 |  |
 | ------- |
@@ -1052,6 +1056,7 @@
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Hash Table
 |  |
 | ------- |
@@ -2421,6 +2426,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Bitmask
 |  |
 | ------- |

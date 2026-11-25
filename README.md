@@ -214,6 +214,7 @@
 | [1094-car-pooling](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1094-car-pooling) |
 | [1122-relative-sort-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1122-relative-sort-array) |
 | [1124-longest-well-performing-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1124-longest-well-performing-interval) |
+| [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1162-as-far-from-land-as-possible) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
 | [1219-path-with-maximum-gold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1219-path-with-maximum-gold) |
@@ -813,6 +814,7 @@
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
 | [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1149,6 +1151,7 @@
 | [1122-relative-sort-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1124-longest-well-performing-interval) |
+| [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
 | [1202-smallest-string-with-swaps](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1281-can-make-palindrome-from-substring) |
@@ -2109,6 +2112,7 @@
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0933-number-of-recent-calls) |
+| [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -2565,4 +2569,8 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0587-erect-the-fence) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->

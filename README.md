@@ -294,6 +294,7 @@
 | [2762-continuous-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
@@ -838,6 +839,7 @@
 | [2540-minimum-common-value](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2540-minimum-common-value) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
@@ -1461,6 +1463,7 @@
 | [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1468,6 +1471,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
+| [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
@@ -1487,6 +1491,7 @@
 | [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
 | [2762-continuous-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2762-continuous-subarrays) |
+| [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
 ## Combinatorics
 |  |
 | ------- |

@@ -307,6 +307,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Two Pointers
@@ -364,6 +365,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2551-apply-operations-to-an-array) |
 | [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Dynamic Programming
@@ -539,6 +541,7 @@
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Prefix Sum
 |  |
@@ -849,6 +852,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Backtracking
 |  |
@@ -1066,6 +1070,7 @@
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Hash Table
 |  |

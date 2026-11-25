@@ -1317,6 +1317,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3498-reverse-degree-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
@@ -1497,6 +1498,7 @@
 | [0829-consecutive-numbers-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0829-consecutive-numbers-sum) |
 | [0845-longest-mountain-in-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0845-longest-mountain-in-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |

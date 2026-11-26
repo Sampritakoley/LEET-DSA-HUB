@@ -818,6 +818,7 @@
 | [0981-time-based-key-value-store](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 | [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
 | [1201-ugly-number-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -1288,6 +1289,7 @@
 | [1002-find-common-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1048-longest-string-chain) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1360,6 +1362,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -1829,6 +1832,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
@@ -1840,6 +1844,7 @@
 | [0705-design-hashset](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1508-longest-happy-prefix](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1508-longest-happy-prefix) |
@@ -2378,6 +2383,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0459-repeated-substring-pattern) |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -2387,6 +2393,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2582,4 +2589,16 @@
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->

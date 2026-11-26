@@ -303,6 +303,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -772,6 +773,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3201-distribute-candies-among-children-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -866,6 +868,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
 | [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1090,6 +1093,7 @@
 | [2421-number-of-good-paths](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2421-number-of-good-paths) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -2450,6 +2454,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1610-maximum-number-of-visible-points](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1610-maximum-number-of-visible-points) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bracket Sequences
 |  |
 | ------- |

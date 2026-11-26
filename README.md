@@ -815,6 +815,7 @@
 | [0878-nth-magical-number](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0878-nth-magical-number) |
 | [0887-super-egg-drop](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0907-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
@@ -1147,6 +1148,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
 | [0959-regions-cut-by-slashes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0959-regions-cut-by-slashes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0981-time-based-key-value-store](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0981-time-based-key-value-store) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1281,6 +1283,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0952-word-subsets](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0981-time-based-key-value-store) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-find-common-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -2117,6 +2120,7 @@
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0933-number-of-recent-calls) |
+| [0981-time-based-key-value-store](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1146-snapshot-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1472-design-browser-history) |

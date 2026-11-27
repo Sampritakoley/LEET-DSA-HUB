@@ -268,6 +268,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/main/1905-count-sub-islands/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -364,6 +365,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1768-merge-strings-alternately) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1898-maximum-number-of-removable-characters) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -853,6 +855,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1347,6 +1350,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1898-maximum-number-of-removable-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |

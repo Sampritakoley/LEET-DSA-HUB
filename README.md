@@ -306,6 +306,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3479-fruits-into-baskets-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -875,6 +876,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3479-fruits-into-baskets-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1521,6 +1523,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
 | [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
+| [3479-fruits-into-baskets-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
@@ -1547,6 +1550,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2762-continuous-subarrays](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2762-continuous-subarrays) |
 | [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
+| [3479-fruits-into-baskets-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3479-fruits-into-baskets-iii) |
 ## Combinatorics
 |  |
 | ------- |

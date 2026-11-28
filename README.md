@@ -117,6 +117,7 @@
 | [0463-island-perimeter](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0474-ones-and-zeroes) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0498-diagonal-traverse) |
@@ -604,6 +605,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
@@ -813,6 +815,7 @@
 | [0436-find-right-interval](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |
 | [0483-smallest-good-base](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 | [0528-random-pick-with-weight](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0633-sum-of-square-numbers) |
@@ -1505,6 +1508,7 @@
 | [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
 ## Segment Tree
@@ -1513,6 +1517,7 @@
 | [0218-the-skyline-problem](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
 | [3161-block-placement-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3161-block-placement-queries) |
@@ -1525,6 +1530,7 @@
 | [0148-sort-list](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
@@ -1534,6 +1540,7 @@
 | [0327-count-of-range-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0729-my-calendar-i) |
 | [0975-odd-even-jump](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0975-odd-even-jump) |
 | [2034-stock-price-fluctuation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2034-stock-price-fluctuation) |
@@ -2324,6 +2331,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/0493-reverse-pairs) |
 ## Knapsack Problem
 |  |
 | ------- |

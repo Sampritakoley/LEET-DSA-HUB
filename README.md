@@ -311,6 +311,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3479-fruits-into-baskets-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3479-fruits-into-baskets-iii) |
+| [3488-closest-equal-element-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -889,6 +890,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3479-fruits-into-baskets-iii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3479-fruits-into-baskets-iii) |
+| [3488-closest-equal-element-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1235,6 +1237,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3312-sorted-gcd-pair-queries) |
+| [3488-closest-equal-element-queries](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sampritakoley/LEET-DSA-HUB/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
